@@ -1,0 +1,214 @@
+﻿<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>女優一覧 - AVPRESS</title>
+  <meta name="description" content="AVPRESS掲載の女優一覧。出演作品数・最新作情報を掲載。">
+  <link rel="stylesheet" href="css/style.css">
+  <style>
+    .page-main {
+      max-width: 1280px;
+      margin: 0 auto;
+      padding: 24px 16px 48px;
+    }
+
+    .actresses-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+      gap: 16px;
+    }
+
+    .actress-card {
+      background: #fff;
+      border-radius: 8px;
+      overflow: hidden;
+      box-shadow: 0 1px 4px rgba(0,0,0,0.1);
+      transition: transform 0.15s, box-shadow 0.15s;
+      text-decoration: none;
+      color: inherit;
+      display: block;
+    }
+
+    .actress-card:hover {
+      transform: translateY(-4px);
+      box-shadow: 0 6px 16px rgba(0,0,0,0.15);
+    }
+
+    .actress-card-thumb {
+      aspect-ratio: 1/1;
+      background: linear-gradient(135deg, var(--dark), #2d2d50);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 64px;
+      position: relative;
+      overflow: hidden;
+    }
+
+    .actress-card-thumb img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+    }
+
+    .actress-card-body {
+      padding: 12px 14px 14px;
+    }
+
+    .actress-card-name {
+      font-size: 16px;
+      font-weight: 700;
+      margin-bottom: 2px;
+    }
+
+    .actress-card-ruby {
+      font-size: 11px;
+      color: var(--sub);
+      margin-bottom: 8px;
+    }
+
+    .actress-card-stats {
+      display: flex;
+      gap: 12px;
+    }
+
+    .actress-card-stat {
+      font-size: 11px;
+      color: #666;
+    }
+
+    .actress-card-stat strong {
+      color: var(--accent);
+      font-size: 14px;
+    }
+
+    .actress-card-tags {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 4px;
+      margin-top: 8px;
+    }
+
+    .actress-card-tag {
+      font-size: 10px;
+      padding: 2px 7px;
+      background: var(--bg);
+      border: 1px solid var(--border);
+      border-radius: 3px;
+      color: #666;
+    }
+
+    @media (max-width: 600px) {
+      .actresses-grid { grid-template-columns: repeat(2, 1fr); gap: 10px; }
+    }
+  </style>
+</head>
+<body>
+
+  <header class="site-header">
+    <div class="header-inner">
+      <a href="index.html" class="site-logo">AV<span>PRESS</span></a>
+      <nav class="site-nav">
+        <a href="index.html">新着</a>
+        <a href="actresses.html" class="active">女優</a>
+        <a href="makers.html">メーカー</a>
+        <a href="genres.html">ジャンル</a>
+        <a href="ranking.html">ランキング</a>
+      </nav>
+      <div class="header-search">
+        <input type="text" id="searchInput" placeholder="女優名で検索...">
+        <button onclick="filterActresses()">検索</button>
+      </div>
+    </div>
+  </header>
+
+  <div class="page-main">
+    <div class="section-header" style="margin-bottom:16px;">
+      <h2 class="section-title">女優一覧</h2>
+      <div class="sort-controls">
+        <span id="actressCount"></span>
+      </div>
+    </div>
+
+    <div class="actresses-grid" id="actressesGrid"></div>
+  </div>
+
+  <footer class="site-footer">
+    <div class="footer-inner">
+      <p>当サイトに掲載されている作品はすべて18歳以上を対象としています。</p>
+      <p class="footer-links">
+        <a href="privacy.html">プライバシーポリシー</a> |
+        <a href="disclaimer.html">免責事項</a> |
+        <a href="contact.html">お問い合わせ</a>
+      </p>
+      <p class="footer-copy">&copy; 2026 AVPRESS. All rights reserved.</p>
+    </div>
+  </footer>
+
+  <script src="js/data.js"></script>
+  <script src="js/actresses-data.js"></script>
+  <script>
+    let allActresses = [...actressesData];
+
+    function filterActresses() {
+      const q = document.getElementById('searchInput').value.trim().toLowerCase();
+      const filtered = q
+        ? allActresses.filter(a => a.name.includes(q) || a.ruby.includes(q))
+        : allActresses;
+      render(filtered);
+    }
+
+    function render(list) {
+      document.getElementById('actressCount').textContent = `${list.length}人`;
+      const grid = document.getElementById('actressesGrid');
+
+      if (list.length === 0) {
+        grid.innerHTML = '<p style="grid-column:1/-1;text-align:center;color:var(--sub);padding:48px">該当する女優が見つかりませんでした。</p>';
+        return;
+      }
+
+      grid.innerHTML = list.map(a => {
+        const works = worksData.filter(w => w.actress === a.name);
+        const tagCount = {};
+        works.forEach(w => w.tags.forEach(t => { tagCount[t] = (tagCount[t]||0)+1; }));
+        const topTags = Object.entries(tagCount).sort((x,y)=>y[1]-x[1]).slice(0,3);
+        const latest = works.sort((x,y)=>new Date(y.date)-new Date(x.date))[0];
+
+        return `
+          <a class="actress-card" href="${a.page}">
+            <div class="actress-card-thumb">
+              ${a.thumb ? `<img src="${a.thumb}" alt="${a.name}">` : '👤'}
+            </div>
+            <div class="actress-card-body">
+              <div class="actress-card-name">${a.name}</div>
+              <div class="actress-card-ruby">${a.ruby}</div>
+              <div class="actress-card-stats">
+                <div class="actress-card-stat"><strong>${works.length}</strong> 作品</div>
+                ${latest ? `<div class="actress-card-stat">最新 <strong>${formatDate(latest.date)}</strong></div>` : ''}
+              </div>
+              ${topTags.length > 0 ? `
+              <div class="actress-card-tags">
+                ${topTags.map(([t])=>`<span class="actress-card-tag">${t}</span>`).join('')}
+              </div>` : ''}
+            </div>
+          </a>
+        `;
+      }).join('');
+    }
+
+    function formatDate(dateStr) {
+      const d = new Date(dateStr);
+      return `${d.getMonth()+1}/${d.getDate()}`;
+    }
+
+    document.getElementById('searchInput').addEventListener('keydown', e => {
+      if (e.key === 'Enter') filterActresses();
+    });
+
+    render(allActresses);
+  </script>
+</body>
+</html>
+
+

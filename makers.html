@@ -1,0 +1,227 @@
+﻿<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>メーカー一覧 - AVPRESS</title>
+  <meta name="description" content="AVPRESSに掲載されているメーカー一覧。メーカーごとの作品数・最新作をチェック。">
+  <link rel="stylesheet" href="css/style.css">
+  <style>
+    .page-main { max-width: 1280px; margin: 0 auto; padding: 24px 16px 48px; }
+
+    .makers-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+      gap: 14px;
+    }
+
+    .maker-card {
+      background: #fff;
+      border-radius: 8px;
+      padding: 16px 18px;
+      box-shadow: 0 1px 4px rgba(0,0,0,0.08);
+      display: flex;
+      align-items: center;
+      gap: 14px;
+      text-decoration: none;
+      color: inherit;
+      transition: transform 0.15s, box-shadow 0.15s;
+      border-left: 4px solid var(--accent);
+    }
+
+    .maker-card:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 4px 12px rgba(0,0,0,0.13);
+    }
+
+    .maker-icon {
+      width: 44px;
+      height: 44px;
+      border-radius: 8px;
+      background: linear-gradient(135deg, var(--dark), #2d2d50);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 20px;
+      flex-shrink: 0;
+      color: #fff;
+      font-weight: 700;
+      font-size: 15px;
+    }
+
+    .maker-info { flex: 1; min-width: 0; }
+
+    .maker-name {
+      font-size: 14px;
+      font-weight: 700;
+      margin-bottom: 4px;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+
+    .maker-meta {
+      display: flex;
+      gap: 12px;
+      font-size: 11px;
+      color: #888;
+    }
+
+    .maker-meta strong { color: var(--accent); }
+
+    /* 作品一覧モーダル風エリア */
+    .maker-works-section {
+      display: none;
+      margin-top: 24px;
+    }
+
+    .maker-works-section.open { display: block; }
+
+    @media (max-width: 600px) {
+      .makers-grid { grid-template-columns: 1fr; }
+    }
+  </style>
+</head>
+<body>
+
+  <header class="site-header">
+    <div class="header-inner">
+      <a href="index.html" class="site-logo">AV<span>PRESS</span></a>
+      <nav class="site-nav">
+        <a href="index.html">新着</a>
+        <a href="actresses.html">女優</a>
+        <a href="makers.html" class="active">メーカー</a>
+        <a href="genres.html">ジャンル</a>
+        <a href="ranking.html">ランキング</a>
+      </nav>
+      <div class="header-search">
+        <input type="text" id="searchInput" placeholder="メーカー名で検索...">
+        <button onclick="filterMakers()">検索</button>
+      </div>
+    </div>
+  </header>
+
+  <div class="page-main">
+    <div class="section-header" style="margin-bottom:16px;">
+      <h2 class="section-title">メーカー一覧</h2>
+      <div class="sort-controls"><span id="makerCount"></span></div>
+    </div>
+
+    <div class="makers-grid" id="makersGrid"></div>
+
+    <!-- クリックで展開する作品一覧 -->
+    <div class="maker-works-section" id="makerWorksSection">
+      <div class="section-header" style="margin:24px 0 12px;">
+        <h3 class="section-title" id="makerWorksTitle"></h3>
+        <button onclick="closeMakerWorks()" style="font-size:12px;padding:4px 12px;border:1px solid #ddd;background:#fff;border-radius:4px;cursor:pointer;">閉じる</button>
+      </div>
+      <div class="date-grid" id="makerWorksGrid" style="display:grid;grid-template-columns:repeat(auto-fill,minmax(180px,1fr));gap:12px;"></div>
+    </div>
+  </div>
+
+  <footer class="site-footer">
+    <div class="footer-inner">
+      <p>当サイトに掲載されている作品はすべて18歳以上を対象としています。</p>
+      <p class="footer-links">
+        <a href="privacy.html">プライバシーポリシー</a> |
+        <a href="disclaimer.html">免責事項</a> |
+        <a href="contact.html">お問い合わせ</a>
+      </p>
+      <p class="footer-copy">&copy; 2026 AVPRESS. All rights reserved.</p>
+    </div>
+  </footer>
+
+  <script src="js/data.js"></script>
+  <script>
+    // メーカーを作品データから自動集計
+    function buildMakers() {
+      const map = {};
+      worksData.forEach(w => {
+        if (!map[w.maker]) map[w.maker] = { name: w.maker, works: [] };
+        map[w.maker].works.push(w);
+      });
+      return Object.values(map).sort((a, b) => b.works.length - a.works.length);
+    }
+
+    let allMakers = buildMakers();
+
+    function filterMakers() {
+      const q = document.getElementById('searchInput').value.trim().toLowerCase();
+      const filtered = q ? allMakers.filter(m => m.name.toLowerCase().includes(q)) : allMakers;
+      render(filtered);
+    }
+
+    function render(list) {
+      document.getElementById('makerCount').textContent = `${list.length}メーカー`;
+      const grid = document.getElementById('makersGrid');
+      if (list.length === 0) {
+        grid.innerHTML = '<p style="color:var(--sub);grid-column:1/-1;text-align:center;padding:40px">該当するメーカーが見つかりませんでした。</p>';
+        return;
+      }
+      grid.innerHTML = list.map(m => {
+        const latest = [...m.works].sort((a,b) => new Date(b.date)-new Date(a.date))[0];
+        const d = new Date(latest.date);
+        const initial = m.name.charAt(0);
+        return `
+          <a class="maker-card" href="#" onclick="showMakerWorks('${m.name.replace(/'/g,"\\'")}'); return false;">
+            <div class="maker-icon">${initial}</div>
+            <div class="maker-info">
+              <div class="maker-name">${m.name}</div>
+              <div class="maker-meta">
+                <span><strong>${m.works.length}</strong> 作品</span>
+                <span>最新: ${d.getMonth()+1}/${d.getDate()}</span>
+              </div>
+            </div>
+          </a>
+        `;
+      }).join('');
+    }
+
+    function showMakerWorks(makerName) {
+      const maker = allMakers.find(m => m.name === makerName);
+      if (!maker) return;
+      const works = [...maker.works].sort((a,b) => new Date(b.date)-new Date(a.date));
+      document.getElementById('makerWorksTitle').textContent = `${makerName} の作品一覧（${works.length}件）`;
+      document.getElementById('makerWorksGrid').innerHTML = works.map(w => cardHtml(w)).join('');
+      const section = document.getElementById('makerWorksSection');
+      section.classList.add('open');
+      section.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    }
+
+    function closeMakerWorks() {
+      document.getElementById('makerWorksSection').classList.remove('open');
+    }
+
+    function cardHtml(w) {
+      const badgeClass = w.badge === 'NEW' ? 'new' : w.badge === 'VR' ? 'vr' : 'hd';
+      return `
+        <a class="work-card" href="${w.url}" target="_blank" rel="noopener noreferrer">
+          <div class="work-thumb">
+            <img src="${w.thumb}" alt="${w.title}" loading="lazy">
+            ${w.badge ? `<span class="work-badge ${badgeClass}">${w.badge}</span>` : ''}
+            <div class="work-overlay"><span>詳細を見る →</span></div>
+          </div>
+          <div class="work-info">
+            <div class="work-title">${w.title}</div>
+            <div class="work-actress">${w.actress}</div>
+            <div class="work-meta">
+              <span class="work-maker">${w.maker}</span>
+              <span class="work-code">${w.code}</span>
+            </div>
+            <div class="work-tags">
+              ${w.tags.slice(0,3).map(t=>`<span class="work-tag">${t}</span>`).join('')}
+            </div>
+          </div>
+        </a>
+      `;
+    }
+
+    document.getElementById('searchInput').addEventListener('keydown', e => {
+      if (e.key === 'Enter') filterMakers();
+    });
+
+    render(allMakers);
+  </script>
+</body>
+</html>
+

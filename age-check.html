@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>年齢確認 - AVPRESS</title>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: 'Helvetica Neue', Arial, 'Hiragino Kaku Gothic ProN', sans-serif;
+      background: #0f0f1a;
+      color: #fff;
+      min-height: 100vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+    .age-box {
+      text-align: center;
+      padding: 48px 40px;
+      background: #1a1a2e;
+      border-radius: 12px;
+      max-width: 480px;
+      width: 90%;
+      box-shadow: 0 8px 32px rgba(0,0,0,0.5);
+      border: 1px solid #2a2a44;
+    }
+    .logo {
+      font-size: 32px;
+      font-weight: 900;
+      color: #e53935;
+      margin-bottom: 32px;
+      letter-spacing: 2px;
+    }
+    .logo span { color: #fff; }
+    .age-icon {
+      font-size: 56px;
+      margin-bottom: 20px;
+    }
+    h1 {
+      font-size: 20px;
+      margin-bottom: 12px;
+      color: #fff;
+    }
+    p {
+      font-size: 13px;
+      color: #aaa;
+      line-height: 1.8;
+      margin-bottom: 32px;
+    }
+    .btn-group {
+      display: flex;
+      gap: 12px;
+      justify-content: center;
+    }
+    .btn-yes {
+      padding: 14px 40px;
+      background: #e53935;
+      color: #fff;
+      border: none;
+      border-radius: 6px;
+      font-size: 15px;
+      font-weight: 700;
+      cursor: pointer;
+      transition: background 0.15s;
+      text-decoration: none;
+      display: inline-block;
+    }
+    .btn-yes:hover { background: #c62828; }
+    .btn-no {
+      padding: 14px 40px;
+      background: #2a2a44;
+      color: #aaa;
+      border: 1px solid #3a3a54;
+      border-radius: 6px;
+      font-size: 15px;
+      cursor: pointer;
+      transition: all 0.15s;
+      text-decoration: none;
+      display: inline-block;
+    }
+    .btn-no:hover { background: #333355; color: #fff; }
+    .note {
+      margin-top: 24px;
+      font-size: 11px;
+      color: #666;
+    }
+  </style>
+</head>
+<body>
+  <div class="age-box">
+    <div class="logo">AV<span>PRESS</span></div>
+    <div class="age-icon">🔞</div>
+    <h1>年齢確認</h1>
+    <p>
+      当サイトはアダルトコンテンツを含む<br>
+      18歳以上を対象としたサイトです。<br><br>
+      あなたは18歳以上ですか？
+    </p>
+    <div class="btn-group">
+      <a href="index.html" class="btn-yes" onclick="sessionStorage.setItem('ageVerified','1')">はい（18歳以上）</a>
+      <a href="https://www.google.co.jp/" class="btn-no">いいえ</a>
+    </div>
+    <p class="note">
+      「はい」をクリックすることで、あなたが18歳以上であることを確認したものとみなします。
+    </p>
+  </div>
+</body>
+</html>
