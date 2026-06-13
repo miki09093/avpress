@@ -1,0 +1,31 @@
+name: Update FANZA Data
+
+on:
+  schedule:
+    - cron: '0 15 * * *'
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Fetch FANZA data
+        env:
+          DMM_API_ID: ${{ secrets.DMM_API_ID }}
+          DMM_AFFILIATE_ID: ${{ secrets.DMM_AFFILIATE_ID }}
+        run: node scripts/fetch-fanza.js
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add js/data.js
+          git diff --staged --quiet || git commit -m "chore: update works data"
+          git push
