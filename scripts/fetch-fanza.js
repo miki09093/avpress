@@ -50,7 +50,6 @@ function mapItem(item) {
   const thumb = item.imageURL?.large || item.imageURL?.list || '';
   const date = (item.date || '').split(' ')[0];
 
-  // badge判定
   let badge = null;
   const titleLower = (item.title || '').toLowerCase();
   if (titleLower.includes('vr')) badge = 'VR';
@@ -62,24 +61,27 @@ function mapItem(item) {
     if (diffDays <= 7) badge = 'NEW';
   }
 
+  const cid = item.content_id || '';
+  const productUrl = `https://www.dmm.co.jp/digital/videoa/-/detail/=/cid=${cid}/`;
+  const affiliateUrl = `https://al.dmm.co.jp/?lurl=${encodeURIComponent(productUrl)}&af_id=${AFFILIATE_ID}&ch=api`;
+
   return {
-    id: item.content_id || '',
+    id: cid,
     title: item.title || '',
     actress,
     maker,
-    code: (item.content_id || '').toUpperCase(),
+    code: cid.toUpperCase(),
     date,
     tags,
     badge,
     thumb,
-    url: item.affiliateURL || ''
+    url: affiliateUrl
   };
 }
 
 async function main() {
   const allItems = [];
   try {
-    // 最新100件を取得
     const data = await fetchJson(buildUrl(1));
     const items = data?.result?.items || [];
     items.forEach(item => allItems.push(mapItem(item)));
