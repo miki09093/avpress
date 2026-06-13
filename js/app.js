@@ -81,15 +81,14 @@ function filterWorks() {
 function applyFiltersAndSort() {
   const query = document.getElementById('searchInput').value.trim().toLowerCase();
 
-  const today = new Date();
-  today.setHours(0, 0, 0, 0);
-  const limit = new Date(today);
+  const limit = new Date();
+  limit.setHours(0, 0, 0, 0);
   limit.setDate(limit.getDate() + 3);
 
   filteredWorks = worksData.filter(w => {
     const workDate = new Date(w.date);
     workDate.setHours(0, 0, 0, 0);
-    const dateMatch = workDate >= today && workDate <= limit;
+    const dateMatch = workDate <= limit;
     const tagMatch = currentTag === 'all' || w.tags.includes(currentTag);
     const makerMatch = currentMaker === 'all' || w.maker === currentMaker;
     const queryMatch = !query ||
