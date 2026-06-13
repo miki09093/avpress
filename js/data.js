@@ -16,7 +16,7 @@ const worksData = [
     ],
     "badge": "VR",
     "thumb": "https://pics.dmm.co.jp/digital/video/vrkm01869/vrkm01869pl.jpg",
-    "url": "https://al.fanza.co.jp/?lurl=https%3A%2F%2Fvideo.dmm.co.jp%2Fav%2Fcontent%2F%3Fid%3Dvrkm01869&af_id=mio3lu-990&ch=api"
+    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dvrkm01869%2F&af_id=mio3lu-990&ch=api"
   },
   {
     "id": "vrkm01847",
@@ -35,7 +35,7 @@ const worksData = [
     ],
     "badge": "VR",
     "thumb": "https://pics.dmm.co.jp/digital/video/vrkm01847/vrkm01847pl.jpg",
-    "url": "https://al.fanza.co.jp/?lurl=https%3A%2F%2Fvideo.dmm.co.jp%2Fav%2Fcontent%2F%3Fid%3Dvrkm01847&af_id=mio3lu-990&ch=api"
+    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dvrkm01847%2F&af_id=mio3lu-990&ch=api"
   },
   {
     "id": "h_1714grace00035",
@@ -54,7 +54,7 @@ const worksData = [
     ],
     "badge": "NEW",
     "thumb": "https://pics.dmm.co.jp/digital/video/h_1714grace00035/h_1714grace00035pl.jpg",
-    "url": "https://al.fanza.co.jp/?lurl=https%3A%2F%2Fvideo.dmm.co.jp%2Fav%2Fcontent%2F%3Fid%3Dh_1714grace00035&af_id=mio3lu-990&ch=api"
+    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dh_1714grace00035%2F&af_id=mio3lu-990&ch=api"
   },
   {
     "id": "vrkm01849",
@@ -73,7 +73,7 @@ const worksData = [
     ],
     "badge": "VR",
     "thumb": "https://pics.dmm.co.jp/digital/video/vrkm01849/vrkm01849pl.jpg",
-    "url": "https://al.fanza.co.jp/?lurl=https%3A%2F%2Fvideo.dmm.co.jp%2Fav%2Fcontent%2F%3Fid%3Dvrkm01849&af_id=mio3lu-990&ch=api"
+    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dvrkm01849%2F&af_id=mio3lu-990&ch=api"
   },
   {
     "id": "vrkm01865",
@@ -92,7 +92,7 @@ const worksData = [
     ],
     "badge": "VR",
     "thumb": "https://pics.dmm.co.jp/digital/video/vrkm01865/vrkm01865pl.jpg",
-    "url": "https://al.fanza.co.jp/?lurl=https%3A%2F%2Fvideo.dmm.co.jp%2Fav%2Fcontent%2F%3Fid%3Dvrkm01865&af_id=mio3lu-990&ch=api"
+    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dvrkm01865%2F&af_id=mio3lu-990&ch=api"
   },
   {
     "id": "vrkm01846",
@@ -111,7 +111,7 @@ const worksData = [
     ],
     "badge": "VR",
     "thumb": "https://pics.dmm.co.jp/digital/video/vrkm01846/vrkm01846pl.jpg",
-    "url": "https://al.fanza.co.jp/?lurl=https%3A%2F%2Fvideo.dmm.co.jp%2Fav%2Fcontent%2F%3Fid%3Dvrkm01846&af_id=mio3lu-990&ch=api"
+    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dvrkm01846%2F&af_id=mio3lu-990&ch=api"
   },
   {
     "id": "vrkm01867",
@@ -130,7 +130,7 @@ const worksData = [
     ],
     "badge": "VR",
     "thumb": "https://pics.dmm.co.jp/digital/video/vrkm01867/vrkm01867pl.jpg",
-    "url": "https://al.fanza.co.jp/?lurl=https%3A%2F%2Fvideo.dmm.co.jp%2Fav%2Fcontent%2F%3Fid%3Dvrkm01867&af_id=mio3lu-990&ch=api"
+    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dvrkm01867%2F&af_id=mio3lu-990&ch=api"
   },
   {
     "id": "bibivr00172",
@@ -149,7 +149,7 @@ const worksData = [
     ],
     "badge": "VR",
     "thumb": "https://pics.dmm.co.jp/digital/video/bibivr00172/bibivr00172pl.jpg",
-    "url": "https://al.fanza.co.jp/?lurl=https%3A%2F%2Fvideo.dmm.co.jp%2Fav%2Fcontent%2F%3Fid%3Dbibivr00172&af_id=mio3lu-990&ch=api"
+    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dbibivr00172%2F&af_id=mio3lu-990&ch=api"
   },
   {
     "id": "301mbdd02187",
@@ -166,7 +166,7 @@ const worksData = [
     ],
     "badge": "NEW",
     "thumb": "https://pics.dmm.co.jp/digital/video/301mbdd02187/301mbdd02187pl.jpg",
-    "url": "https://al.fanza.co.jp/?lurl=https%3A%2F%2Fvideo.dmm.co.jp%2Fav%2Fcontent%2F%3Fid%3D301mbdd02187&af_id=mio3lu-990&ch=api"
+    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3D301mbdd02187%2F&af_id=mio3lu-990&ch=api"
   },
   {
     "id": "301mbdd02186",
@@ -184,7 +184,7 @@ const worksData = [
     ],
     "badge": "NEW",
     "thumb": "https://pics.dmm.co.jp/digital/video/301mbdd02186/301mbdd02186pl.jpg",
-    "url": "https://al.fanza.co.jp/?lurl=https%3A%2F%2Fvideo.dmm.co.jp%2Fav%2Fcontent%2F%3Fid%3D301mbdd02186&af_id=mio3lu-990&ch=api"
+    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3D301mbdd02186%2F&af_id=mio3lu-990&ch=api"
   },
   {
     "id": "301mbdd02185",
@@ -201,7 +201,7 @@ const worksData = [
     ],
     "badge": "NEW",
     "thumb": "https://pics.dmm.co.jp/digital/video/301mbdd02185/301mbdd02185pl.jpg",
-    "url": "https://al.fanza.co.jp/?lurl=https%3A%2F%2Fvideo.dmm.co.jp%2Fav%2Fcontent%2F%3Fid%3D301mbdd02185&af_id=mio3lu-990&ch=api"
+    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3D301mbdd02185%2F&af_id=mio3lu-990&ch=api"
   },
   {
     "id": "vrkm01839",
@@ -220,7 +220,7 @@ const worksData = [
     ],
     "badge": "VR",
     "thumb": "https://pics.dmm.co.jp/digital/video/vrkm01839/vrkm01839pl.jpg",
-    "url": "https://al.fanza.co.jp/?lurl=https%3A%2F%2Fvideo.dmm.co.jp%2Fav%2Fcontent%2F%3Fid%3Dvrkm01839&af_id=mio3lu-990&ch=api"
+    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dvrkm01839%2F&af_id=mio3lu-990&ch=api"
   },
   {
     "id": "bibivr00171",
@@ -239,7 +239,7 @@ const worksData = [
     ],
     "badge": "VR",
     "thumb": "https://pics.dmm.co.jp/digital/video/bibivr00171/bibivr00171pl.jpg",
-    "url": "https://al.fanza.co.jp/?lurl=https%3A%2F%2Fvideo.dmm.co.jp%2Fav%2Fcontent%2F%3Fid%3Dbibivr00171&af_id=mio3lu-990&ch=api"
+    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dbibivr00171%2F&af_id=mio3lu-990&ch=api"
   },
   {
     "id": "ymlw00071",
@@ -258,7 +258,7 @@ const worksData = [
     ],
     "badge": "NEW",
     "thumb": "https://pics.dmm.co.jp/digital/video/ymlw00071/ymlw00071pl.jpg",
-    "url": "https://al.fanza.co.jp/?lurl=https%3A%2F%2Fvideo.dmm.co.jp%2Fav%2Fcontent%2F%3Fid%3Dymlw00071&af_id=mio3lu-990&ch=api"
+    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dymlw00071%2F&af_id=mio3lu-990&ch=api"
   },
   {
     "id": "ymlw00070",
@@ -277,7 +277,7 @@ const worksData = [
     ],
     "badge": "NEW",
     "thumb": "https://pics.dmm.co.jp/digital/video/ymlw00070/ymlw00070pl.jpg",
-    "url": "https://al.fanza.co.jp/?lurl=https%3A%2F%2Fvideo.dmm.co.jp%2Fav%2Fcontent%2F%3Fid%3Dymlw00070&af_id=mio3lu-990&ch=api"
+    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dymlw00070%2F&af_id=mio3lu-990&ch=api"
   },
   {
     "id": "xrl00090",
@@ -295,7 +295,7 @@ const worksData = [
     ],
     "badge": "NEW",
     "thumb": "https://pics.dmm.co.jp/digital/video/xrl00090/xrl00090pl.jpg",
-    "url": "https://al.fanza.co.jp/?lurl=https%3A%2F%2Fvideo.dmm.co.jp%2Fav%2Fcontent%2F%3Fid%3Dxrl00090&af_id=mio3lu-990&ch=api"
+    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dxrl00090%2F&af_id=mio3lu-990&ch=api"
   },
   {
     "id": "usba00090",
@@ -314,7 +314,7 @@ const worksData = [
     ],
     "badge": "NEW",
     "thumb": "https://pics.dmm.co.jp/digital/video/usba00090/usba00090pl.jpg",
-    "url": "https://al.fanza.co.jp/?lurl=https%3A%2F%2Fvideo.dmm.co.jp%2Fav%2Fcontent%2F%3Fid%3Dusba00090&af_id=mio3lu-990&ch=api"
+    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dusba00090%2F&af_id=mio3lu-990&ch=api"
   },
   {
     "id": "usag00094",
@@ -333,7 +333,7 @@ const worksData = [
     ],
     "badge": "NEW",
     "thumb": "https://pics.dmm.co.jp/digital/video/usag00094/usag00094pl.jpg",
-    "url": "https://al.fanza.co.jp/?lurl=https%3A%2F%2Fvideo.dmm.co.jp%2Fav%2Fcontent%2F%3Fid%3Dusag00094&af_id=mio3lu-990&ch=api"
+    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dusag00094%2F&af_id=mio3lu-990&ch=api"
   },
   {
     "id": "urmt00007",
@@ -352,7 +352,7 @@ const worksData = [
     ],
     "badge": "NEW",
     "thumb": "https://pics.dmm.co.jp/digital/video/urmt00007/urmt00007pl.jpg",
-    "url": "https://al.fanza.co.jp/?lurl=https%3A%2F%2Fvideo.dmm.co.jp%2Fav%2Fcontent%2F%3Fid%3Durmt00007&af_id=mio3lu-990&ch=api"
+    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Durmt00007%2F&af_id=mio3lu-990&ch=api"
   },
   {
     "id": "tnoz00048",
@@ -371,7 +371,7 @@ const worksData = [
     ],
     "badge": "NEW",
     "thumb": "https://pics.dmm.co.jp/digital/video/tnoz00048/tnoz00048pl.jpg",
-    "url": "https://al.fanza.co.jp/?lurl=https%3A%2F%2Fvideo.dmm.co.jp%2Fav%2Fcontent%2F%3Fid%3Dtnoz00048&af_id=mio3lu-990&ch=api"
+    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dtnoz00048%2F&af_id=mio3lu-990&ch=api"
   },
   {
     "id": "tnjs00006",
@@ -390,7 +390,7 @@ const worksData = [
     ],
     "badge": "NEW",
     "thumb": "https://pics.dmm.co.jp/digital/video/tnjs00006/tnjs00006pl.jpg",
-    "url": "https://al.fanza.co.jp/?lurl=https%3A%2F%2Fvideo.dmm.co.jp%2Fav%2Fcontent%2F%3Fid%3Dtnjs00006&af_id=mio3lu-990&ch=api"
+    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dtnjs00006%2F&af_id=mio3lu-990&ch=api"
   },
   {
     "id": "tcd00341",
@@ -409,7 +409,7 @@ const worksData = [
     ],
     "badge": "NEW",
     "thumb": "https://pics.dmm.co.jp/digital/video/tcd00341/tcd00341pl.jpg",
-    "url": "https://al.fanza.co.jp/?lurl=https%3A%2F%2Fvideo.dmm.co.jp%2Fav%2Fcontent%2F%3Fid%3Dtcd00341&af_id=mio3lu-990&ch=api"
+    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dtcd00341%2F&af_id=mio3lu-990&ch=api"
   },
   {
     "id": "tcd00340",
@@ -428,7 +428,7 @@ const worksData = [
     ],
     "badge": "NEW",
     "thumb": "https://pics.dmm.co.jp/digital/video/tcd00340/tcd00340pl.jpg",
-    "url": "https://al.fanza.co.jp/?lurl=https%3A%2F%2Fvideo.dmm.co.jp%2Fav%2Fcontent%2F%3Fid%3Dtcd00340&af_id=mio3lu-990&ch=api"
+    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dtcd00340%2F&af_id=mio3lu-990&ch=api"
   },
   {
     "id": "tanf00041",
@@ -447,7 +447,7 @@ const worksData = [
     ],
     "badge": "NEW",
     "thumb": "https://pics.dmm.co.jp/digital/video/tanf00041/tanf00041pl.jpg",
-    "url": "https://al.fanza.co.jp/?lurl=https%3A%2F%2Fvideo.dmm.co.jp%2Fav%2Fcontent%2F%3Fid%3Dtanf00041&af_id=mio3lu-990&ch=api"
+    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dtanf00041%2F&af_id=mio3lu-990&ch=api"
   },
   {
     "id": "supa00678",
@@ -466,7 +466,7 @@ const worksData = [
     ],
     "badge": "NEW",
     "thumb": "https://pics.dmm.co.jp/digital/video/supa00678/supa00678pl.jpg",
-    "url": "https://al.fanza.co.jp/?lurl=https%3A%2F%2Fvideo.dmm.co.jp%2Fav%2Fcontent%2F%3Fid%3Dsupa00678&af_id=mio3lu-990&ch=api"
+    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dsupa00678%2F&af_id=mio3lu-990&ch=api"
   },
   {
     "id": "supa00677",
@@ -485,7 +485,7 @@ const worksData = [
     ],
     "badge": "NEW",
     "thumb": "https://pics.dmm.co.jp/digital/video/supa00677/supa00677pl.jpg",
-    "url": "https://al.fanza.co.jp/?lurl=https%3A%2F%2Fvideo.dmm.co.jp%2Fav%2Fcontent%2F%3Fid%3Dsupa00677&af_id=mio3lu-990&ch=api"
+    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dsupa00677%2F&af_id=mio3lu-990&ch=api"
   },
   {
     "id": "sqis00122",
@@ -504,7 +504,7 @@ const worksData = [
     ],
     "badge": "NEW",
     "thumb": "https://pics.dmm.co.jp/digital/video/sqis00122/sqis00122pl.jpg",
-    "url": "https://al.fanza.co.jp/?lurl=https%3A%2F%2Fvideo.dmm.co.jp%2Fav%2Fcontent%2F%3Fid%3Dsqis00122&af_id=mio3lu-990&ch=api"
+    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dsqis00122%2F&af_id=mio3lu-990&ch=api"
   },
   {
     "id": "sitw00054",
@@ -523,7 +523,7 @@ const worksData = [
     ],
     "badge": "NEW",
     "thumb": "https://pics.dmm.co.jp/digital/video/sitw00054/sitw00054pl.jpg",
-    "url": "https://al.fanza.co.jp/?lurl=https%3A%2F%2Fvideo.dmm.co.jp%2Fav%2Fcontent%2F%3Fid%3Dsitw00054&af_id=mio3lu-990&ch=api"
+    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dsitw00054%2F&af_id=mio3lu-990&ch=api"
   },
   {
     "id": "scop00916",
@@ -542,7 +542,7 @@ const worksData = [
     ],
     "badge": "NEW",
     "thumb": "https://pics.dmm.co.jp/digital/video/scop00916/scop00916pl.jpg",
-    "url": "https://al.fanza.co.jp/?lurl=https%3A%2F%2Fvideo.dmm.co.jp%2Fav%2Fcontent%2F%3Fid%3Dscop00916&af_id=mio3lu-990&ch=api"
+    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dscop00916%2F&af_id=mio3lu-990&ch=api"
   },
   {
     "id": "scop00915",
@@ -561,7 +561,7 @@ const worksData = [
     ],
     "badge": "NEW",
     "thumb": "https://pics.dmm.co.jp/digital/video/scop00915/scop00915pl.jpg",
-    "url": "https://al.fanza.co.jp/?lurl=https%3A%2F%2Fvideo.dmm.co.jp%2Fav%2Fcontent%2F%3Fid%3Dscop00915&af_id=mio3lu-990&ch=api"
+    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dscop00915%2F&af_id=mio3lu-990&ch=api"
   },
   {
     "id": "rlmp00003",
@@ -580,7 +580,7 @@ const worksData = [
     ],
     "badge": "NEW",
     "thumb": "https://pics.dmm.co.jp/digital/video/rlmp00003/rlmp00003pl.jpg",
-    "url": "https://al.fanza.co.jp/?lurl=https%3A%2F%2Fvideo.dmm.co.jp%2Fav%2Fcontent%2F%3Fid%3Drlmp00003&af_id=mio3lu-990&ch=api"
+    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Drlmp00003%2F&af_id=mio3lu-990&ch=api"
   },
   {
     "id": "real00999",
@@ -599,7 +599,7 @@ const worksData = [
     ],
     "badge": "NEW",
     "thumb": "https://pics.dmm.co.jp/digital/video/real00999/real00999pl.jpg",
-    "url": "https://al.fanza.co.jp/?lurl=https%3A%2F%2Fvideo.dmm.co.jp%2Fav%2Fcontent%2F%3Fid%3Dreal00999&af_id=mio3lu-990&ch=api"
+    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dreal00999%2F&af_id=mio3lu-990&ch=api"
   },
   {
     "id": "real00998",
@@ -618,7 +618,7 @@ const worksData = [
     ],
     "badge": "NEW",
     "thumb": "https://pics.dmm.co.jp/digital/video/real00998/real00998pl.jpg",
-    "url": "https://al.fanza.co.jp/?lurl=https%3A%2F%2Fvideo.dmm.co.jp%2Fav%2Fcontent%2F%3Fid%3Dreal00998&af_id=mio3lu-990&ch=api"
+    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dreal00998%2F&af_id=mio3lu-990&ch=api"
   },
   {
     "id": "nsfs00495",
@@ -637,7 +637,7 @@ const worksData = [
     ],
     "badge": "NEW",
     "thumb": "https://pics.dmm.co.jp/digital/video/nsfs00495/nsfs00495pl.jpg",
-    "url": "https://al.fanza.co.jp/?lurl=https%3A%2F%2Fvideo.dmm.co.jp%2Fav%2Fcontent%2F%3Fid%3Dnsfs00495&af_id=mio3lu-990&ch=api"
+    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dnsfs00495%2F&af_id=mio3lu-990&ch=api"
   },
   {
     "id": "nsfs00494",
@@ -656,7 +656,7 @@ const worksData = [
     ],
     "badge": "NEW",
     "thumb": "https://pics.dmm.co.jp/digital/video/nsfs00494/nsfs00494pl.jpg",
-    "url": "https://al.fanza.co.jp/?lurl=https%3A%2F%2Fvideo.dmm.co.jp%2Fav%2Fcontent%2F%3Fid%3Dnsfs00494&af_id=mio3lu-990&ch=api"
+    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dnsfs00494%2F&af_id=mio3lu-990&ch=api"
   },
   {
     "id": "nsfs00493",
@@ -675,7 +675,7 @@ const worksData = [
     ],
     "badge": "NEW",
     "thumb": "https://pics.dmm.co.jp/digital/video/nsfs00493/nsfs00493pl.jpg",
-    "url": "https://al.fanza.co.jp/?lurl=https%3A%2F%2Fvideo.dmm.co.jp%2Fav%2Fcontent%2F%3Fid%3Dnsfs00493&af_id=mio3lu-990&ch=api"
+    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dnsfs00493%2F&af_id=mio3lu-990&ch=api"
   },
   {
     "id": "nsfs00492",
@@ -694,7 +694,7 @@ const worksData = [
     ],
     "badge": "NEW",
     "thumb": "https://pics.dmm.co.jp/digital/video/nsfs00492/nsfs00492pl.jpg",
-    "url": "https://al.fanza.co.jp/?lurl=https%3A%2F%2Fvideo.dmm.co.jp%2Fav%2Fcontent%2F%3Fid%3Dnsfs00492&af_id=mio3lu-990&ch=api"
+    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dnsfs00492%2F&af_id=mio3lu-990&ch=api"
   },
   {
     "id": "nghj00068",
@@ -713,7 +713,7 @@ const worksData = [
     ],
     "badge": "NEW",
     "thumb": "https://pics.dmm.co.jp/digital/video/nghj00068/nghj00068pl.jpg",
-    "url": "https://al.fanza.co.jp/?lurl=https%3A%2F%2Fvideo.dmm.co.jp%2Fav%2Fcontent%2F%3Fid%3Dnghj00068&af_id=mio3lu-990&ch=api"
+    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dnghj00068%2F&af_id=mio3lu-990&ch=api"
   },
   {
     "id": "nghj00067",
@@ -732,7 +732,7 @@ const worksData = [
     ],
     "badge": "NEW",
     "thumb": "https://pics.dmm.co.jp/digital/video/nghj00067/nghj00067pl.jpg",
-    "url": "https://al.fanza.co.jp/?lurl=https%3A%2F%2Fvideo.dmm.co.jp%2Fav%2Fcontent%2F%3Fid%3Dnghj00067&af_id=mio3lu-990&ch=api"
+    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dnghj00067%2F&af_id=mio3lu-990&ch=api"
   },
   {
     "id": "nghj00066",
@@ -751,7 +751,7 @@ const worksData = [
     ],
     "badge": "NEW",
     "thumb": "https://pics.dmm.co.jp/digital/video/nghj00066/nghj00066pl.jpg",
-    "url": "https://al.fanza.co.jp/?lurl=https%3A%2F%2Fvideo.dmm.co.jp%2Fav%2Fcontent%2F%3Fid%3Dnghj00066&af_id=mio3lu-990&ch=api"
+    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dnghj00066%2F&af_id=mio3lu-990&ch=api"
   },
   {
     "id": "nghj00065",
@@ -770,7 +770,7 @@ const worksData = [
     ],
     "badge": "NEW",
     "thumb": "https://pics.dmm.co.jp/digital/video/nghj00065/nghj00065pl.jpg",
-    "url": "https://al.fanza.co.jp/?lurl=https%3A%2F%2Fvideo.dmm.co.jp%2Fav%2Fcontent%2F%3Fid%3Dnghj00065&af_id=mio3lu-990&ch=api"
+    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dnghj00065%2F&af_id=mio3lu-990&ch=api"
   },
   {
     "id": "nask00417",
@@ -789,7 +789,7 @@ const worksData = [
     ],
     "badge": "NEW",
     "thumb": "https://pics.dmm.co.jp/digital/video/nask00417/nask00417pl.jpg",
-    "url": "https://al.fanza.co.jp/?lurl=https%3A%2F%2Fvideo.dmm.co.jp%2Fav%2Fcontent%2F%3Fid%3Dnask00417&af_id=mio3lu-990&ch=api"
+    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dnask00417%2F&af_id=mio3lu-990&ch=api"
   },
   {
     "id": "nask00416",
@@ -808,7 +808,7 @@ const worksData = [
     ],
     "badge": "NEW",
     "thumb": "https://pics.dmm.co.jp/digital/video/nask00416/nask00416pl.jpg",
-    "url": "https://al.fanza.co.jp/?lurl=https%3A%2F%2Fvideo.dmm.co.jp%2Fav%2Fcontent%2F%3Fid%3Dnask00416&af_id=mio3lu-990&ch=api"
+    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dnask00416%2F&af_id=mio3lu-990&ch=api"
   },
   {
     "id": "mvg00168",
@@ -827,7 +827,7 @@ const worksData = [
     ],
     "badge": "NEW",
     "thumb": "https://pics.dmm.co.jp/digital/video/mvg00168/mvg00168pl.jpg",
-    "url": "https://al.fanza.co.jp/?lurl=https%3A%2F%2Fvideo.dmm.co.jp%2Fav%2Fcontent%2F%3Fid%3Dmvg00168&af_id=mio3lu-990&ch=api"
+    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dmvg00168%2F&af_id=mio3lu-990&ch=api"
   },
   {
     "id": "much00204",
@@ -846,7 +846,7 @@ const worksData = [
     ],
     "badge": "NEW",
     "thumb": "https://pics.dmm.co.jp/digital/video/much00204/much00204pl.jpg",
-    "url": "https://al.fanza.co.jp/?lurl=https%3A%2F%2Fvideo.dmm.co.jp%2Fav%2Fcontent%2F%3Fid%3Dmuch00204&af_id=mio3lu-990&ch=api"
+    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dmuch00204%2F&af_id=mio3lu-990&ch=api"
   },
   {
     "id": "mmmb00185",
@@ -865,7 +865,7 @@ const worksData = [
     ],
     "badge": "NEW",
     "thumb": "https://pics.dmm.co.jp/digital/video/mmmb00185/mmmb00185pl.jpg",
-    "url": "https://al.fanza.co.jp/?lurl=https%3A%2F%2Fvideo.dmm.co.jp%2Fav%2Fcontent%2F%3Fid%3Dmmmb00185&af_id=mio3lu-990&ch=api"
+    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dmmmb00185%2F&af_id=mio3lu-990&ch=api"
   },
   {
     "id": "mmmb00184",
@@ -884,7 +884,7 @@ const worksData = [
     ],
     "badge": "NEW",
     "thumb": "https://pics.dmm.co.jp/digital/video/mmmb00184/mmmb00184pl.jpg",
-    "url": "https://al.fanza.co.jp/?lurl=https%3A%2F%2Fvideo.dmm.co.jp%2Fav%2Fcontent%2F%3Fid%3Dmmmb00184&af_id=mio3lu-990&ch=api"
+    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dmmmb00184%2F&af_id=mio3lu-990&ch=api"
   },
   {
     "id": "mmmb00183",
@@ -903,7 +903,7 @@ const worksData = [
     ],
     "badge": "NEW",
     "thumb": "https://pics.dmm.co.jp/digital/video/mmmb00183/mmmb00183pl.jpg",
-    "url": "https://al.fanza.co.jp/?lurl=https%3A%2F%2Fvideo.dmm.co.jp%2Fav%2Fcontent%2F%3Fid%3Dmmmb00183&af_id=mio3lu-990&ch=api"
+    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dmmmb00183%2F&af_id=mio3lu-990&ch=api"
   },
   {
     "id": "mlmm00093",
@@ -922,7 +922,7 @@ const worksData = [
     ],
     "badge": "NEW",
     "thumb": "https://pics.dmm.co.jp/digital/video/mlmm00093/mlmm00093pl.jpg",
-    "url": "https://al.fanza.co.jp/?lurl=https%3A%2F%2Fvideo.dmm.co.jp%2Fav%2Fcontent%2F%3Fid%3Dmlmm00093&af_id=mio3lu-990&ch=api"
+    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dmlmm00093%2F&af_id=mio3lu-990&ch=api"
   },
   {
     "id": "mkon00144",
@@ -941,7 +941,7 @@ const worksData = [
     ],
     "badge": "NEW",
     "thumb": "https://pics.dmm.co.jp/digital/video/mkon00144/mkon00144pl.jpg",
-    "url": "https://al.fanza.co.jp/?lurl=https%3A%2F%2Fvideo.dmm.co.jp%2Fav%2Fcontent%2F%3Fid%3Dmkon00144&af_id=mio3lu-990&ch=api"
+    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dmkon00144%2F&af_id=mio3lu-990&ch=api"
   },
   {
     "id": "mkon00143",
@@ -960,7 +960,7 @@ const worksData = [
     ],
     "badge": "NEW",
     "thumb": "https://pics.dmm.co.jp/digital/video/mkon00143/mkon00143pl.jpg",
-    "url": "https://al.fanza.co.jp/?lurl=https%3A%2F%2Fvideo.dmm.co.jp%2Fav%2Fcontent%2F%3Fid%3Dmkon00143&af_id=mio3lu-990&ch=api"
+    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dmkon00143%2F&af_id=mio3lu-990&ch=api"
   },
   {
     "id": "mkmp00741",
@@ -979,7 +979,7 @@ const worksData = [
     ],
     "badge": "NEW",
     "thumb": "https://pics.dmm.co.jp/digital/video/mkmp00741/mkmp00741pl.jpg",
-    "url": "https://al.fanza.co.jp/?lurl=https%3A%2F%2Fvideo.dmm.co.jp%2Fav%2Fcontent%2F%3Fid%3Dmkmp00741&af_id=mio3lu-990&ch=api"
+    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dmkmp00741%2F&af_id=mio3lu-990&ch=api"
   },
   {
     "id": "mkmp00739",
@@ -998,7 +998,7 @@ const worksData = [
     ],
     "badge": "NEW",
     "thumb": "https://pics.dmm.co.jp/digital/video/mkmp00739/mkmp00739pl.jpg",
-    "url": "https://al.fanza.co.jp/?lurl=https%3A%2F%2Fvideo.dmm.co.jp%2Fav%2Fcontent%2F%3Fid%3Dmkmp00739&af_id=mio3lu-990&ch=api"
+    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dmkmp00739%2F&af_id=mio3lu-990&ch=api"
   },
   {
     "id": "mgmj00085",
@@ -1017,7 +1017,7 @@ const worksData = [
     ],
     "badge": "NEW",
     "thumb": "https://pics.dmm.co.jp/digital/video/mgmj00085/mgmj00085pl.jpg",
-    "url": "https://al.fanza.co.jp/?lurl=https%3A%2F%2Fvideo.dmm.co.jp%2Fav%2Fcontent%2F%3Fid%3Dmgmj00085&af_id=mio3lu-990&ch=api"
+    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dmgmj00085%2F&af_id=mio3lu-990&ch=api"
   },
   {
     "id": "mght00390",
@@ -1034,7 +1034,7 @@ const worksData = [
     ],
     "badge": "NEW",
     "thumb": "https://pics.dmm.co.jp/digital/video/mght00390/mght00390pl.jpg",
-    "url": "https://al.fanza.co.jp/?lurl=https%3A%2F%2Fvideo.dmm.co.jp%2Fav%2Fcontent%2F%3Fid%3Dmght00390&af_id=mio3lu-990&ch=api"
+    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dmght00390%2F&af_id=mio3lu-990&ch=api"
   },
   {
     "id": "mght00389",
@@ -1051,7 +1051,7 @@ const worksData = [
     ],
     "badge": "NEW",
     "thumb": "https://pics.dmm.co.jp/digital/video/mght00389/mght00389pl.jpg",
-    "url": "https://al.fanza.co.jp/?lurl=https%3A%2F%2Fvideo.dmm.co.jp%2Fav%2Fcontent%2F%3Fid%3Dmght00389&af_id=mio3lu-990&ch=api"
+    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dmght00389%2F&af_id=mio3lu-990&ch=api"
   },
   {
     "id": "mdtm00882",
@@ -1070,7 +1070,7 @@ const worksData = [
     ],
     "badge": "NEW",
     "thumb": "https://pics.dmm.co.jp/digital/video/mdtm00882/mdtm00882pl.jpg",
-    "url": "https://al.fanza.co.jp/?lurl=https%3A%2F%2Fvideo.dmm.co.jp%2Fav%2Fcontent%2F%3Fid%3Dmdtm00882&af_id=mio3lu-990&ch=api"
+    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dmdtm00882%2F&af_id=mio3lu-990&ch=api"
   },
   {
     "id": "mdtm00881",
@@ -1089,7 +1089,7 @@ const worksData = [
     ],
     "badge": "NEW",
     "thumb": "https://pics.dmm.co.jp/digital/video/mdtm00881/mdtm00881pl.jpg",
-    "url": "https://al.fanza.co.jp/?lurl=https%3A%2F%2Fvideo.dmm.co.jp%2Fav%2Fcontent%2F%3Fid%3Dmdtm00881&af_id=mio3lu-990&ch=api"
+    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dmdtm00881%2F&af_id=mio3lu-990&ch=api"
   },
   {
     "id": "mdbk00426",
@@ -1108,7 +1108,7 @@ const worksData = [
     ],
     "badge": "NEW",
     "thumb": "https://pics.dmm.co.jp/digital/video/mdbk00426/mdbk00426pl.jpg",
-    "url": "https://al.fanza.co.jp/?lurl=https%3A%2F%2Fvideo.dmm.co.jp%2Fav%2Fcontent%2F%3Fid%3Dmdbk00426&af_id=mio3lu-990&ch=api"
+    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dmdbk00426%2F&af_id=mio3lu-990&ch=api"
   },
   {
     "id": "mdbk00422",
@@ -1127,7 +1127,7 @@ const worksData = [
     ],
     "badge": "NEW",
     "thumb": "https://pics.dmm.co.jp/digital/video/mdbk00422/mdbk00422pl.jpg",
-    "url": "https://al.fanza.co.jp/?lurl=https%3A%2F%2Fvideo.dmm.co.jp%2Fav%2Fcontent%2F%3Fid%3Dmdbk00422&af_id=mio3lu-990&ch=api"
+    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dmdbk00422%2F&af_id=mio3lu-990&ch=api"
   },
   {
     "id": "maqq00014",
@@ -1146,7 +1146,7 @@ const worksData = [
     ],
     "badge": "NEW",
     "thumb": "https://pics.dmm.co.jp/digital/video/maqq00014/maqq00014pl.jpg",
-    "url": "https://al.fanza.co.jp/?lurl=https%3A%2F%2Fvideo.dmm.co.jp%2Fav%2Fcontent%2F%3Fid%3Dmaqq00014&af_id=mio3lu-990&ch=api"
+    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dmaqq00014%2F&af_id=mio3lu-990&ch=api"
   },
   {
     "id": "madv00637",
@@ -1165,7 +1165,7 @@ const worksData = [
     ],
     "badge": "4K",
     "thumb": "https://pics.dmm.co.jp/digital/video/madv00637/madv00637pl.jpg",
-    "url": "https://al.fanza.co.jp/?lurl=https%3A%2F%2Fvideo.dmm.co.jp%2Fav%2Fcontent%2F%3Fid%3Dmadv00637&af_id=mio3lu-990&ch=api"
+    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dmadv00637%2F&af_id=mio3lu-990&ch=api"
   },
   {
     "id": "madv00636",
@@ -1184,7 +1184,7 @@ const worksData = [
     ],
     "badge": "4K",
     "thumb": "https://pics.dmm.co.jp/digital/video/madv00636/madv00636pl.jpg",
-    "url": "https://al.fanza.co.jp/?lurl=https%3A%2F%2Fvideo.dmm.co.jp%2Fav%2Fcontent%2F%3Fid%3Dmadv00636&af_id=mio3lu-990&ch=api"
+    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dmadv00636%2F&af_id=mio3lu-990&ch=api"
   },
   {
     "id": "ktra00791",
@@ -1203,7 +1203,7 @@ const worksData = [
     ],
     "badge": "NEW",
     "thumb": "https://pics.dmm.co.jp/digital/video/ktra00791/ktra00791pl.jpg",
-    "url": "https://al.fanza.co.jp/?lurl=https%3A%2F%2Fvideo.dmm.co.jp%2Fav%2Fcontent%2F%3Fid%3Dktra00791&af_id=mio3lu-990&ch=api"
+    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dktra00791%2F&af_id=mio3lu-990&ch=api"
   },
   {
     "id": "ktra00790",
@@ -1222,7 +1222,7 @@ const worksData = [
     ],
     "badge": "NEW",
     "thumb": "https://pics.dmm.co.jp/digital/video/ktra00790/ktra00790pl.jpg",
-    "url": "https://al.fanza.co.jp/?lurl=https%3A%2F%2Fvideo.dmm.co.jp%2Fav%2Fcontent%2F%3Fid%3Dktra00790&af_id=mio3lu-990&ch=api"
+    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dktra00790%2F&af_id=mio3lu-990&ch=api"
   },
   {
     "id": "kagp00398",
@@ -1241,7 +1241,7 @@ const worksData = [
     ],
     "badge": "NEW",
     "thumb": "https://pics.dmm.co.jp/digital/video/kagp00398/kagp00398pl.jpg",
-    "url": "https://al.fanza.co.jp/?lurl=https%3A%2F%2Fvideo.dmm.co.jp%2Fav%2Fcontent%2F%3Fid%3Dkagp00398&af_id=mio3lu-990&ch=api"
+    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dkagp00398%2F&af_id=mio3lu-990&ch=api"
   },
   {
     "id": "hpet00020",
@@ -1260,7 +1260,7 @@ const worksData = [
     ],
     "badge": "NEW",
     "thumb": "https://pics.dmm.co.jp/digital/video/hpet00020/hpet00020pl.jpg",
-    "url": "https://al.fanza.co.jp/?lurl=https%3A%2F%2Fvideo.dmm.co.jp%2Fav%2Fcontent%2F%3Fid%3Dhpet00020&af_id=mio3lu-990&ch=api"
+    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dhpet00020%2F&af_id=mio3lu-990&ch=api"
   },
   {
     "id": "hoiz00210",
@@ -1279,7 +1279,7 @@ const worksData = [
     ],
     "badge": "NEW",
     "thumb": "https://pics.dmm.co.jp/digital/video/hoiz00210/hoiz00210pl.jpg",
-    "url": "https://al.fanza.co.jp/?lurl=https%3A%2F%2Fvideo.dmm.co.jp%2Fav%2Fcontent%2F%3Fid%3Dhoiz00210&af_id=mio3lu-990&ch=api"
+    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dhoiz00210%2F&af_id=mio3lu-990&ch=api"
   },
   {
     "id": "herk00027",
@@ -1298,7 +1298,7 @@ const worksData = [
     ],
     "badge": "NEW",
     "thumb": "https://pics.dmm.co.jp/digital/video/herk00027/herk00027pl.jpg",
-    "url": "https://al.fanza.co.jp/?lurl=https%3A%2F%2Fvideo.dmm.co.jp%2Fav%2Fcontent%2F%3Fid%3Dherk00027&af_id=mio3lu-990&ch=api"
+    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dherk00027%2F&af_id=mio3lu-990&ch=api"
   },
   {
     "id": "h_1832msoc00055",
@@ -1315,7 +1315,7 @@ const worksData = [
     ],
     "badge": "NEW",
     "thumb": "https://pics.dmm.co.jp/digital/video/h_1832msoc00055/h_1832msoc00055pt.jpg",
-    "url": "https://al.fanza.co.jp/?lurl=https%3A%2F%2Fvideo.dmm.co.jp%2Fav%2Fcontent%2F%3Fid%3Dh_1832msoc00055&af_id=mio3lu-990&ch=api"
+    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dh_1832msoc00055%2F&af_id=mio3lu-990&ch=api"
   },
   {
     "id": "gvh00860",
@@ -1334,7 +1334,7 @@ const worksData = [
     ],
     "badge": "NEW",
     "thumb": "https://pics.dmm.co.jp/digital/video/gvh00860/gvh00860pl.jpg",
-    "url": "https://al.fanza.co.jp/?lurl=https%3A%2F%2Fvideo.dmm.co.jp%2Fav%2Fcontent%2F%3Fid%3Dgvh00860&af_id=mio3lu-990&ch=api"
+    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dgvh00860%2F&af_id=mio3lu-990&ch=api"
   },
   {
     "id": "gvh00859",
@@ -1353,7 +1353,7 @@ const worksData = [
     ],
     "badge": "NEW",
     "thumb": "https://pics.dmm.co.jp/digital/video/gvh00859/gvh00859pl.jpg",
-    "url": "https://al.fanza.co.jp/?lurl=https%3A%2F%2Fvideo.dmm.co.jp%2Fav%2Fcontent%2F%3Fid%3Dgvh00859&af_id=mio3lu-990&ch=api"
+    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dgvh00859%2F&af_id=mio3lu-990&ch=api"
   },
   {
     "id": "gma00099",
@@ -1372,7 +1372,7 @@ const worksData = [
     ],
     "badge": "NEW",
     "thumb": "https://pics.dmm.co.jp/digital/video/gma00099/gma00099pl.jpg",
-    "url": "https://al.fanza.co.jp/?lurl=https%3A%2F%2Fvideo.dmm.co.jp%2Fav%2Fcontent%2F%3Fid%3Dgma00099&af_id=mio3lu-990&ch=api"
+    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dgma00099%2F&af_id=mio3lu-990&ch=api"
   },
   {
     "id": "gma00098",
@@ -1391,7 +1391,7 @@ const worksData = [
     ],
     "badge": "NEW",
     "thumb": "https://pics.dmm.co.jp/digital/video/gma00098/gma00098pl.jpg",
-    "url": "https://al.fanza.co.jp/?lurl=https%3A%2F%2Fvideo.dmm.co.jp%2Fav%2Fcontent%2F%3Fid%3Dgma00098&af_id=mio3lu-990&ch=api"
+    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dgma00098%2F&af_id=mio3lu-990&ch=api"
   },
   {
     "id": "gara00024",
@@ -1409,7 +1409,7 @@ const worksData = [
     ],
     "badge": "NEW",
     "thumb": "https://pics.dmm.co.jp/digital/video/gara00024/gara00024pl.jpg",
-    "url": "https://al.fanza.co.jp/?lurl=https%3A%2F%2Fvideo.dmm.co.jp%2Fav%2Fcontent%2F%3Fid%3Dgara00024&af_id=mio3lu-990&ch=api"
+    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dgara00024%2F&af_id=mio3lu-990&ch=api"
   },
   {
     "id": "gajk00037",
@@ -1428,7 +1428,7 @@ const worksData = [
     ],
     "badge": "NEW",
     "thumb": "https://pics.dmm.co.jp/digital/video/gajk00037/gajk00037pl.jpg",
-    "url": "https://al.fanza.co.jp/?lurl=https%3A%2F%2Fvideo.dmm.co.jp%2Fav%2Fcontent%2F%3Fid%3Dgajk00037&af_id=mio3lu-990&ch=api"
+    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dgajk00037%2F&af_id=mio3lu-990&ch=api"
   },
   {
     "id": "flav00423",
@@ -1447,7 +1447,7 @@ const worksData = [
     ],
     "badge": "NEW",
     "thumb": "https://pics.dmm.co.jp/digital/video/flav00423/flav00423pl.jpg",
-    "url": "https://al.fanza.co.jp/?lurl=https%3A%2F%2Fvideo.dmm.co.jp%2Fav%2Fcontent%2F%3Fid%3Dflav00423&af_id=mio3lu-990&ch=api"
+    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dflav00423%2F&af_id=mio3lu-990&ch=api"
   },
   {
     "id": "evis00626",
@@ -1466,7 +1466,7 @@ const worksData = [
     ],
     "badge": "NEW",
     "thumb": "https://pics.dmm.co.jp/digital/video/evis00626/evis00626pl.jpg",
-    "url": "https://al.fanza.co.jp/?lurl=https%3A%2F%2Fvideo.dmm.co.jp%2Fav%2Fcontent%2F%3Fid%3Devis00626&af_id=mio3lu-990&ch=api"
+    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Devis00626%2F&af_id=mio3lu-990&ch=api"
   },
   {
     "id": "evis00625",
@@ -1485,7 +1485,7 @@ const worksData = [
     ],
     "badge": "NEW",
     "thumb": "https://pics.dmm.co.jp/digital/video/evis00625/evis00625pl.jpg",
-    "url": "https://al.fanza.co.jp/?lurl=https%3A%2F%2Fvideo.dmm.co.jp%2Fav%2Fcontent%2F%3Fid%3Devis00625&af_id=mio3lu-990&ch=api"
+    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Devis00625%2F&af_id=mio3lu-990&ch=api"
   },
   {
     "id": "ekdv00823",
@@ -1504,7 +1504,7 @@ const worksData = [
     ],
     "badge": "4K",
     "thumb": "https://pics.dmm.co.jp/digital/video/ekdv00823/ekdv00823pl.jpg",
-    "url": "https://al.fanza.co.jp/?lurl=https%3A%2F%2Fvideo.dmm.co.jp%2Fav%2Fcontent%2F%3Fid%3Dekdv00823&af_id=mio3lu-990&ch=api"
+    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dekdv00823%2F&af_id=mio3lu-990&ch=api"
   },
   {
     "id": "dvaj00749",
@@ -1523,7 +1523,7 @@ const worksData = [
     ],
     "badge": "NEW",
     "thumb": "https://pics.dmm.co.jp/digital/video/dvaj00749/dvaj00749pl.jpg",
-    "url": "https://al.fanza.co.jp/?lurl=https%3A%2F%2Fvideo.dmm.co.jp%2Fav%2Fcontent%2F%3Fid%3Ddvaj00749&af_id=mio3lu-990&ch=api"
+    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Ddvaj00749%2F&af_id=mio3lu-990&ch=api"
   },
   {
     "id": "dvaj00748",
@@ -1542,7 +1542,7 @@ const worksData = [
     ],
     "badge": "NEW",
     "thumb": "https://pics.dmm.co.jp/digital/video/dvaj00748/dvaj00748pl.jpg",
-    "url": "https://al.fanza.co.jp/?lurl=https%3A%2F%2Fvideo.dmm.co.jp%2Fav%2Fcontent%2F%3Fid%3Ddvaj00748&af_id=mio3lu-990&ch=api"
+    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Ddvaj00748%2F&af_id=mio3lu-990&ch=api"
   },
   {
     "id": "dvaj00747",
@@ -1561,7 +1561,7 @@ const worksData = [
     ],
     "badge": "NEW",
     "thumb": "https://pics.dmm.co.jp/digital/video/dvaj00747/dvaj00747pl.jpg",
-    "url": "https://al.fanza.co.jp/?lurl=https%3A%2F%2Fvideo.dmm.co.jp%2Fav%2Fcontent%2F%3Fid%3Ddvaj00747&af_id=mio3lu-990&ch=api"
+    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Ddvaj00747%2F&af_id=mio3lu-990&ch=api"
   },
   {
     "id": "dnjr00160",
@@ -1580,7 +1580,7 @@ const worksData = [
     ],
     "badge": "NEW",
     "thumb": "https://pics.dmm.co.jp/digital/video/dnjr00160/dnjr00160pl.jpg",
-    "url": "https://al.fanza.co.jp/?lurl=https%3A%2F%2Fvideo.dmm.co.jp%2Fav%2Fcontent%2F%3Fid%3Ddnjr00160&af_id=mio3lu-990&ch=api"
+    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Ddnjr00160%2F&af_id=mio3lu-990&ch=api"
   },
   {
     "id": "davk00118",
@@ -1599,7 +1599,7 @@ const worksData = [
     ],
     "badge": "NEW",
     "thumb": "https://pics.dmm.co.jp/digital/video/davk00118/davk00118pl.jpg",
-    "url": "https://al.fanza.co.jp/?lurl=https%3A%2F%2Fvideo.dmm.co.jp%2Fav%2Fcontent%2F%3Fid%3Ddavk00118&af_id=mio3lu-990&ch=api"
+    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Ddavk00118%2F&af_id=mio3lu-990&ch=api"
   },
   {
     "id": "cmv00209",
@@ -1618,7 +1618,7 @@ const worksData = [
     ],
     "badge": "NEW",
     "thumb": "https://pics.dmm.co.jp/digital/video/cmv00209/cmv00209pl.jpg",
-    "url": "https://al.fanza.co.jp/?lurl=https%3A%2F%2Fvideo.dmm.co.jp%2Fav%2Fcontent%2F%3Fid%3Dcmv00209&af_id=mio3lu-990&ch=api"
+    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dcmv00209%2F&af_id=mio3lu-990&ch=api"
   },
   {
     "id": "cmv00208",
@@ -1637,7 +1637,7 @@ const worksData = [
     ],
     "badge": "NEW",
     "thumb": "https://pics.dmm.co.jp/digital/video/cmv00208/cmv00208pl.jpg",
-    "url": "https://al.fanza.co.jp/?lurl=https%3A%2F%2Fvideo.dmm.co.jp%2Fav%2Fcontent%2F%3Fid%3Dcmv00208&af_id=mio3lu-990&ch=api"
+    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dcmv00208%2F&af_id=mio3lu-990&ch=api"
   },
   {
     "id": "cmn00264",
@@ -1655,7 +1655,7 @@ const worksData = [
     ],
     "badge": "NEW",
     "thumb": "https://pics.dmm.co.jp/digital/video/cmn00264/cmn00264pl.jpg",
-    "url": "https://al.fanza.co.jp/?lurl=https%3A%2F%2Fvideo.dmm.co.jp%2Fav%2Fcontent%2F%3Fid%3Dcmn00264&af_id=mio3lu-990&ch=api"
+    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dcmn00264%2F&af_id=mio3lu-990&ch=api"
   },
   {
     "id": "cemd00867",
@@ -1674,7 +1674,7 @@ const worksData = [
     ],
     "badge": "NEW",
     "thumb": "https://pics.dmm.co.jp/digital/video/cemd00867/cemd00867pl.jpg",
-    "url": "https://al.fanza.co.jp/?lurl=https%3A%2F%2Fvideo.dmm.co.jp%2Fav%2Fcontent%2F%3Fid%3Dcemd00867&af_id=mio3lu-990&ch=api"
+    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dcemd00867%2F&af_id=mio3lu-990&ch=api"
   },
   {
     "id": "cemd00866",
@@ -1693,7 +1693,7 @@ const worksData = [
     ],
     "badge": "NEW",
     "thumb": "https://pics.dmm.co.jp/digital/video/cemd00866/cemd00866pl.jpg",
-    "url": "https://al.fanza.co.jp/?lurl=https%3A%2F%2Fvideo.dmm.co.jp%2Fav%2Fcontent%2F%3Fid%3Dcemd00866&af_id=mio3lu-990&ch=api"
+    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dcemd00866%2F&af_id=mio3lu-990&ch=api"
   },
   {
     "id": "cemd00865",
@@ -1712,7 +1712,7 @@ const worksData = [
     ],
     "badge": "NEW",
     "thumb": "https://pics.dmm.co.jp/digital/video/cemd00865/cemd00865pl.jpg",
-    "url": "https://al.fanza.co.jp/?lurl=https%3A%2F%2Fvideo.dmm.co.jp%2Fav%2Fcontent%2F%3Fid%3Dcemd00865&af_id=mio3lu-990&ch=api"
+    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dcemd00865%2F&af_id=mio3lu-990&ch=api"
   },
   {
     "id": "cemd00864",
@@ -1731,7 +1731,7 @@ const worksData = [
     ],
     "badge": "NEW",
     "thumb": "https://pics.dmm.co.jp/digital/video/cemd00864/cemd00864pl.jpg",
-    "url": "https://al.fanza.co.jp/?lurl=https%3A%2F%2Fvideo.dmm.co.jp%2Fav%2Fcontent%2F%3Fid%3Dcemd00864&af_id=mio3lu-990&ch=api"
+    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dcemd00864%2F&af_id=mio3lu-990&ch=api"
   },
   {
     "id": "cemd00863",
@@ -1750,7 +1750,7 @@ const worksData = [
     ],
     "badge": "NEW",
     "thumb": "https://pics.dmm.co.jp/digital/video/cemd00863/cemd00863pl.jpg",
-    "url": "https://al.fanza.co.jp/?lurl=https%3A%2F%2Fvideo.dmm.co.jp%2Fav%2Fcontent%2F%3Fid%3Dcemd00863&af_id=mio3lu-990&ch=api"
+    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dcemd00863%2F&af_id=mio3lu-990&ch=api"
   },
   {
     "id": "cemd00862",
@@ -1769,7 +1769,7 @@ const worksData = [
     ],
     "badge": "NEW",
     "thumb": "https://pics.dmm.co.jp/digital/video/cemd00862/cemd00862pl.jpg",
-    "url": "https://al.fanza.co.jp/?lurl=https%3A%2F%2Fvideo.dmm.co.jp%2Fav%2Fcontent%2F%3Fid%3Dcemd00862&af_id=mio3lu-990&ch=api"
+    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dcemd00862%2F&af_id=mio3lu-990&ch=api"
   },
   {
     "id": "cemd00861",
@@ -1788,7 +1788,7 @@ const worksData = [
     ],
     "badge": "NEW",
     "thumb": "https://pics.dmm.co.jp/digital/video/cemd00861/cemd00861pl.jpg",
-    "url": "https://al.fanza.co.jp/?lurl=https%3A%2F%2Fvideo.dmm.co.jp%2Fav%2Fcontent%2F%3Fid%3Dcemd00861&af_id=mio3lu-990&ch=api"
+    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dcemd00861%2F&af_id=mio3lu-990&ch=api"
   },
   {
     "id": "cead00757",
@@ -1807,7 +1807,7 @@ const worksData = [
     ],
     "badge": "NEW",
     "thumb": "https://pics.dmm.co.jp/digital/video/cead00757/cead00757pl.jpg",
-    "url": "https://al.fanza.co.jp/?lurl=https%3A%2F%2Fvideo.dmm.co.jp%2Fav%2Fcontent%2F%3Fid%3Dcead00757&af_id=mio3lu-990&ch=api"
+    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dcead00757%2F&af_id=mio3lu-990&ch=api"
   },
   {
     "id": "cead00756",
@@ -1826,7 +1826,7 @@ const worksData = [
     ],
     "badge": "NEW",
     "thumb": "https://pics.dmm.co.jp/digital/video/cead00756/cead00756pl.jpg",
-    "url": "https://al.fanza.co.jp/?lurl=https%3A%2F%2Fvideo.dmm.co.jp%2Fav%2Fcontent%2F%3Fid%3Dcead00756&af_id=mio3lu-990&ch=api"
+    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dcead00756%2F&af_id=mio3lu-990&ch=api"
   },
   {
     "id": "cckr00006",
@@ -1845,7 +1845,7 @@ const worksData = [
     ],
     "badge": "NEW",
     "thumb": "https://pics.dmm.co.jp/digital/video/cckr00006/cckr00006pl.jpg",
-    "url": "https://al.fanza.co.jp/?lurl=https%3A%2F%2Fvideo.dmm.co.jp%2Fav%2Fcontent%2F%3Fid%3Dcckr00006&af_id=mio3lu-990&ch=api"
+    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dcckr00006%2F&af_id=mio3lu-990&ch=api"
   },
   {
     "id": "cadv00951",
@@ -1864,7 +1864,7 @@ const worksData = [
     ],
     "badge": "NEW",
     "thumb": "https://pics.dmm.co.jp/digital/video/cadv00951/cadv00951pl.jpg",
-    "url": "https://al.fanza.co.jp/?lurl=https%3A%2F%2Fvideo.dmm.co.jp%2Fav%2Fcontent%2F%3Fid%3Dcadv00951&af_id=mio3lu-990&ch=api"
+    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dcadv00951%2F&af_id=mio3lu-990&ch=api"
   },
   {
     "id": "basj00045",
@@ -1883,6 +1883,6 @@ const worksData = [
     ],
     "badge": "NEW",
     "thumb": "https://pics.dmm.co.jp/digital/video/basj00045/basj00045pl.jpg",
-    "url": "https://al.fanza.co.jp/?lurl=https%3A%2F%2Fvideo.dmm.co.jp%2Fav%2Fcontent%2F%3Fid%3Dbasj00045&af_id=mio3lu-990&ch=api"
+    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dbasj00045%2F&af_id=mio3lu-990&ch=api"
   }
 ];
