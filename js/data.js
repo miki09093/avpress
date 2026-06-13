@@ -223,6 +223,42 @@ const worksData = [
     "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dvrkm01839%2F&af_id=mio3lu-990&ch=api"
   },
   {
+    "id": "vrkm01837",
+    "title": "【VR】淫らに！貪欲に！下品に！理性が吹き飛ぶ危険すぎ快感！NTR BEST5時間",
+    "actress": "尾崎えりか、弥生みづき、波多野結衣、都月るいさ、芦名ほのか、潤うるる、新井リマ、美衣みかな、秋元さちか、浦上ひのり、涼風うい、あべ藍、倉多まお、友田彩也香、優梨まいな",
+    "maker": "ケイ・エム・プロデュース",
+    "code": "VRKM01837",
+    "date": "2026-07-14",
+    "tags": [
+      "ハイクオリティVR",
+      "8KVR",
+      "VR専用",
+      "独占配信",
+      "ベスト・総集編",
+      "中出し"
+    ],
+    "badge": "VR",
+    "thumb": "https://pics.dmm.co.jp/digital/video/vrkm01837/vrkm01837pl.jpg",
+    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dvrkm01837%2F&af_id=mio3lu-990&ch=api"
+  },
+  {
+    "id": "h_1832msoc00056",
+    "title": "恵比寿のマンション型個室メンエス- 乳首舐めオプション おおくまみお （21歳）",
+    "actress": "不明",
+    "maker": "メンエス・オナクラ盗撮",
+    "code": "H_1832MSOC00056",
+    "date": "2026-07-14",
+    "tags": [
+      "ハイビジョン",
+      "エステ",
+      "盗撮・のぞき",
+      "素人"
+    ],
+    "badge": "NEW",
+    "thumb": "https://pics.dmm.co.jp/digital/video/h_1832msoc00056/h_1832msoc00056pt.jpg",
+    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dh_1832msoc00056%2F&af_id=mio3lu-990&ch=api"
+  },
+  {
     "id": "bibivr00171",
     "title": "【VR】都内某所にあるハメ放題のセクシーラウンジで人生終了するくらい金も精子も注ぎ込み！！超VIP爆抜きエロバースデイ 小那海あや 尾崎えりか 椿りか 末広純 弥生みづき",
     "actress": "小那海あや、尾崎えりか、椿りか、末広純、弥生みづき",
@@ -1846,43 +1882,5 @@ const worksData = [
     "badge": "NEW",
     "thumb": "https://pics.dmm.co.jp/digital/video/cckr00006/cckr00006pl.jpg",
     "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dcckr00006%2F&af_id=mio3lu-990&ch=api"
-  },
-  {
-    "id": "cadv00951",
-    "title": "人妻たちの絶頂イキ狂い本気のSEX14名8時間",
-    "actress": "大槻ひびき、河北麻衣、本田瞳、松本梨穂、一条みお、小笠原るい、艶堂しほり（遠藤しおり）、森ほたる、椎名はる、高園ゆり子（三雲ゆり子）、秋山しほり、RUU（十束るう）、羽田希、武田怜香",
-    "maker": "クリスタル映像",
-    "code": "CADV00951",
-    "date": "2026-07-11",
-    "tags": [
-      "4時間以上作品",
-      "ハイビジョン",
-      "独占配信",
-      "人妻・主婦",
-      "寝取り・寝取られ・NTR",
-      "巨乳"
-    ],
-    "badge": "NEW",
-    "thumb": "https://pics.dmm.co.jp/digital/video/cadv00951/cadv00951pl.jpg",
-    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dcadv00951%2F&af_id=mio3lu-990&ch=api"
-  },
-  {
-    "id": "basj00045",
-    "title": "美人妻は旦那がいない間に不倫相手の精子を夜通し搾り取る 若林ゆりな",
-    "actress": "若林ゆりな",
-    "maker": "BALTAN＜バルタン＞",
-    "code": "BASJ00045",
-    "date": "2026-07-11",
-    "tags": [
-      "独占配信",
-      "不倫",
-      "人妻・主婦",
-      "痴女",
-      "美乳",
-      "単体作品"
-    ],
-    "badge": "NEW",
-    "thumb": "https://pics.dmm.co.jp/digital/video/basj00045/basj00045pl.jpg",
-    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dbasj00045%2F&af_id=mio3lu-990&ch=api"
   }
 ];
