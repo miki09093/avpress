@@ -1,5 +1,24 @@
 const worksData = [
   {
+    "id": "vrkm01871",
+    "title": "【VR】天井特化アングルVR ～あざとカワイイ後輩～ 善場まみ",
+    "actress": "善場まみ（茉城まみ）",
+    "maker": "ケイ・エム・プロデュース",
+    "code": "VRKM01871",
+    "date": "2026-08-08",
+    "tags": [
+      "ハイクオリティVR",
+      "8KVR",
+      "単体作品",
+      "VR専用",
+      "独占配信",
+      "中出し"
+    ],
+    "badge": "VR",
+    "thumb": "https://pics.dmm.co.jp/digital/video/vrkm01871/vrkm01871pl.jpg",
+    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dvrkm01871%2F&af_id=mio3lu-990&ch=api"
+  },
+  {
     "id": "vrkm01869",
     "title": "【VR】天井特化アングルVR ～都合のイイ女～ 桜ゆの",
     "actress": "桜ゆの",
@@ -152,6 +171,25 @@ const worksData = [
     "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dbibivr00172%2F&af_id=mio3lu-990&ch=api"
   },
   {
+    "id": "savr01120",
+    "title": "【VR】ふわふわ授乳手コキ 男の全てを褒めながら好き放題オギャらせてくれるみう先生と子供になったボク。 有岡みう",
+    "actress": "有岡みう",
+    "maker": "KMPVR-彩-",
+    "code": "SAVR01120",
+    "date": "2026-07-17",
+    "tags": [
+      "ハイクオリティVR",
+      "8KVR",
+      "単体作品",
+      "VR専用",
+      "独占配信",
+      "中出し"
+    ],
+    "badge": "VR",
+    "thumb": "https://pics.dmm.co.jp/digital/video/savr01120/savr01120pl.jpg",
+    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dsavr01120%2F&af_id=mio3lu-990&ch=api"
+  },
+  {
     "id": "301mbdd02187",
     "title": "白石なみ/White Waves～なみのセピアの初恋～",
     "actress": "白石なみ",
@@ -257,6 +295,25 @@ const worksData = [
     "badge": "NEW",
     "thumb": "https://pics.dmm.co.jp/digital/video/h_1832msoc00056/h_1832msoc00056pt.jpg",
     "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dh_1832msoc00056%2F&af_id=mio3lu-990&ch=api"
+  },
+  {
+    "id": "h_1342nsm00073",
+    "title": "媚薬オイルマッサージ 痴●盗撮＆中出し素人娘VOL.73 超強力媚薬を配合したマッサージオイルを施術中に知らずに塗りこまれたオンナは、身体の火照りに驚き、チ〇ポを欲しがる自分に戸惑い、垂れ出したマン汁に恥ずかしがりながらも生ハメ中出しまで欲してしまう！",
+    "actress": "音琴るい、北村海智、八坂凪、神田ゆい",
+    "maker": "西新宿マッサージ本舗",
+    "code": "H_1342NSM00073",
+    "date": "2026-07-13",
+    "tags": [
+      "ハイビジョン",
+      "盗撮・のぞき",
+      "エステ",
+      "ローション・オイル",
+      "中出し",
+      "美少女"
+    ],
+    "badge": "NEW",
+    "thumb": "https://pics.dmm.co.jp/digital/video/h_1342nsm00073/h_1342nsm00073pl.jpg",
+    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dh_1342nsm00073%2F&af_id=mio3lu-990&ch=api"
   },
   {
     "id": "bibivr00171",
@@ -569,12 +626,12 @@ const worksData = [
     "code": "SCOP00916",
     "date": "2026-07-11",
     "tags": [
-      "ベスト・総集編",
-      "パイズリ",
-      "フェラ",
-      "顔射",
+      "4時間以上作品",
       "独占配信",
-      "4時間以上作品"
+      "顔射",
+      "フェラ",
+      "パイズリ",
+      "ベスト・総集編"
     ],
     "badge": "NEW",
     "thumb": "https://pics.dmm.co.jp/digital/video/scop00916/scop00916pl.jpg",
@@ -607,12 +664,12 @@ const worksData = [
     "code": "RLMP00003",
     "date": "2026-07-11",
     "tags": [
+      "ハイビジョン",
       "4時間以上作品",
       "独占配信",
       "ベスト・総集編",
       "美少女",
-      "淫乱・ハード系",
-      "イラマチオ"
+      "淫乱・ハード系"
     ],
     "badge": "NEW",
     "thumb": "https://pics.dmm.co.jp/digital/video/rlmp00003/rlmp00003pl.jpg",
@@ -1825,62 +1882,5 @@ const worksData = [
     "badge": "NEW",
     "thumb": "https://pics.dmm.co.jp/digital/video/cemd00861/cemd00861pl.jpg",
     "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dcemd00861%2F&af_id=mio3lu-990&ch=api"
-  },
-  {
-    "id": "cead00757",
-    "title": "ジューン・ラブジョイ The Ultimate Best 8時間",
-    "actress": "ジューン・ラブジョイ",
-    "maker": "セレブの友",
-    "code": "CEAD00757",
-    "date": "2026-07-11",
-    "tags": [
-      "独占配信",
-      "女優ベスト・総集編",
-      "単体作品",
-      "野外・露出",
-      "白人女優",
-      "中出し"
-    ],
-    "badge": "NEW",
-    "thumb": "https://pics.dmm.co.jp/digital/video/cead00757/cead00757pl.jpg",
-    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dcead00757%2F&af_id=mio3lu-990&ch=api"
-  },
-  {
-    "id": "cead00756",
-    "title": "家政婦のピタパン尻が俺を発情させる～生中出し性交～vol.2",
-    "actress": "吹石れな、葉山さゆり、白河花清、椿りか、藤沢麗央、山瀬美紀、塚田しおり、櫻木みなと",
-    "maker": "セレブの友",
-    "code": "CEAD00756",
-    "date": "2026-07-11",
-    "tags": [
-      "独占配信",
-      "巨尻",
-      "中出し",
-      "巨乳",
-      "熟女",
-      "尻フェチ"
-    ],
-    "badge": "NEW",
-    "thumb": "https://pics.dmm.co.jp/digital/video/cead00756/cead00756pl.jpg",
-    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dcead00756%2F&af_id=mio3lu-990&ch=api"
-  },
-  {
-    "id": "cckr00006",
-    "title": "ちちくりジョニーがイク！ ガチ挿入6.0 素人巨乳爆乳ハメ撮り20人300分！全員Gカップ以上！",
-    "actress": "不明",
-    "maker": "チェリーズれぼ/妄想族",
-    "code": "CCKR00006",
-    "date": "2026-07-11",
-    "tags": [
-      "ハイビジョン",
-      "独占配信",
-      "巨乳",
-      "素人",
-      "妄想族",
-      "ハメ撮り"
-    ],
-    "badge": "NEW",
-    "thumb": "https://pics.dmm.co.jp/digital/video/cckr00006/cckr00006pl.jpg",
-    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dcckr00006%2F&af_id=mio3lu-990&ch=api"
   }
 ];
