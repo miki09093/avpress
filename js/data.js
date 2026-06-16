@@ -387,12 +387,12 @@ const worksData = [
     "code": "SYKH00196",
     "date": "2026-07-18",
     "tags": [
-      "着エロ",
-      "中出し",
-      "パンスト・タイツ",
-      "単体作品",
+      "ハイビジョン",
+      "独占配信",
+      "脚フェチ",
       "エマニエル",
-      "脚フェチ"
+      "単体作品",
+      "パンスト・タイツ"
     ],
     "badge": "NEW",
     "thumb": "https://pics.dmm.co.jp/digital/video/sykh00196/sykh00196pl.jpg",
@@ -406,12 +406,12 @@ const worksData = [
     "code": "SUJI00314",
     "date": "2026-07-18",
     "tags": [
-      "ハイビジョン",
-      "独占配信",
-      "近親相姦",
-      "姉・妹",
+      "お風呂",
+      "単体作品",
+      "妄想族",
+      "スレンダー",
       "中出し",
-      "スレンダー"
+      "姉・妹"
     ],
     "badge": "NEW",
     "thumb": "https://pics.dmm.co.jp/digital/video/suji00314/suji00314pl.jpg",
@@ -520,12 +520,12 @@ const worksData = [
     "code": "SMKD00011",
     "date": "2026-07-18",
     "tags": [
-      "独占配信",
-      "妄想族",
-      "ローション・オイル",
-      "ぶっかけ",
+      "中出し",
+      "素人",
       "巨乳",
-      "素人"
+      "ぶっかけ",
+      "ローション・オイル",
+      "妄想族"
     ],
     "badge": "NEW",
     "thumb": "https://pics.dmm.co.jp/digital/video/smkd00011/smkd00011pl.jpg",
@@ -1051,12 +1051,12 @@ const worksData = [
     "code": "KAGP00399",
     "date": "2026-07-18",
     "tags": [
+      "4時間以上作品",
       "独占配信",
       "痴女",
       "妄想族",
       "美少女",
-      "その他フェチ",
-      "フェラ"
+      "その他フェチ"
     ],
     "badge": "NEW",
     "thumb": "https://pics.dmm.co.jp/digital/video/kagp00399/kagp00399pl.jpg",
@@ -1089,12 +1089,12 @@ const worksData = [
     "code": "JKTU00105",
     "date": "2026-07-18",
     "tags": [
-      "独占配信",
-      "熟女",
-      "人妻・主婦",
-      "盗撮・のぞき",
+      "妄想族",
       "面接",
-      "妄想族"
+      "盗撮・のぞき",
+      "人妻・主婦",
+      "熟女",
+      "独占配信"
     ],
     "badge": "NEW",
     "thumb": "https://pics.dmm.co.jp/digital/video/jktu00105/jktu00105pl.jpg",
@@ -1352,6 +1352,7 @@ const worksData = [
     "code": "GTJ00174",
     "date": "2026-07-18",
     "tags": [
+      "4時間以上作品",
       "独占配信",
       "ベスト・総集編",
       "拷問",
