@@ -114,6 +114,25 @@ const worksData = [
     "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dvrkm01865%2F&af_id=mio3lu-990&ch=api"
   },
   {
+    "id": "savr01117",
+    "title": "【VR】大学時代に陰キャの僕をハブってきた一軍女子が、大手企業の内定を餌に突き上げ騎乗位で性玩具に堕とされる立場逆転のOB訪問。 尾崎えりか",
+    "actress": "尾崎えりか",
+    "maker": "KMPVR-彩-",
+    "code": "SAVR01117",
+    "date": "2026-07-24",
+    "tags": [
+      "ハイクオリティVR",
+      "8KVR",
+      "単体作品",
+      "VR専用",
+      "独占配信",
+      "騎乗位"
+    ],
+    "badge": "VR",
+    "thumb": "https://pics.dmm.co.jp/digital/video/savr01117/savr01117pl.jpg",
+    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dsavr01117%2F&af_id=mio3lu-990&ch=api"
+  },
+  {
     "id": "vrkm01846",
     "title": "【VR】これぞ8K！顔面特化アングルVR ～フェラ特化！！ベロを見せつけてフェラごっくん大好き。アノ声で「お口に精子ちょうだい！」と精子を懇願するゆのちゃん～ 桜ゆの",
     "actress": "桜ゆの",
@@ -406,12 +425,12 @@ const worksData = [
     "code": "SUJI00314",
     "date": "2026-07-18",
     "tags": [
-      "お風呂",
-      "単体作品",
-      "妄想族",
-      "スレンダー",
+      "ハイビジョン",
+      "独占配信",
+      "近親相姦",
+      "姉・妹",
       "中出し",
-      "姉・妹"
+      "スレンダー"
     ],
     "badge": "NEW",
     "thumb": "https://pics.dmm.co.jp/digital/video/suji00314/suji00314pl.jpg",
@@ -728,12 +747,12 @@ const worksData = [
     "code": "NKD00342",
     "date": "2026-07-18",
     "tags": [
-      "M女",
-      "コスプレ",
-      "巨乳",
-      "淫乱・ハード系",
+      "独占配信",
       "単体作品",
-      "独占配信"
+      "淫乱・ハード系",
+      "巨乳",
+      "コスプレ",
+      "M女"
     ],
     "badge": "NEW",
     "thumb": "https://pics.dmm.co.jp/digital/video/nkd00342/nkd00342pt.jpg",
@@ -1089,12 +1108,12 @@ const worksData = [
     "code": "JKTU00105",
     "date": "2026-07-18",
     "tags": [
-      "妄想族",
-      "面接",
-      "盗撮・のぞき",
-      "人妻・主婦",
+      "独占配信",
       "熟女",
-      "独占配信"
+      "人妻・主婦",
+      "盗撮・のぞき",
+      "面接",
+      "妄想族"
     ],
     "badge": "NEW",
     "thumb": "https://pics.dmm.co.jp/digital/video/jktu00105/jktu00105pl.jpg",
@@ -1286,6 +1305,23 @@ const worksData = [
     "badge": "NEW",
     "thumb": "https://pics.dmm.co.jp/digital/video/halt00087/halt00087pl.jpg",
     "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dhalt00087%2F&af_id=mio3lu-990&ch=api"
+  },
+  {
+    "id": "h_1832msoc00057",
+    "title": "恵比寿のマンション型個室メンエス- 匂い嗅ぎオプション おおくまみお（21歳）",
+    "actress": "不明",
+    "maker": "メンエス・オナクラ盗撮",
+    "code": "H_1832MSOC00057",
+    "date": "2026-07-18",
+    "tags": [
+      "ハイビジョン",
+      "エステ",
+      "盗撮・のぞき",
+      "素人"
+    ],
+    "badge": "NEW",
+    "thumb": "https://pics.dmm.co.jp/digital/video/h_1832msoc00057/h_1832msoc00057pt.jpg",
+    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dh_1832msoc00057%2F&af_id=mio3lu-990&ch=api"
   },
   {
     "id": "gvh00863",
@@ -1855,43 +1891,5 @@ const worksData = [
     "badge": "VR",
     "thumb": "https://pics.dmm.co.jp/digital/video/savr01120/savr01120pl.jpg",
     "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dsavr01120%2F&af_id=mio3lu-990&ch=api"
-  },
-  {
-    "id": "prwf00014",
-    "title": "町内会中出しNTR ド田舎で女を抱くことしかヤルことがないオヤジ達に何度も廻された細身巨乳人妻のワタシ…。 小松空",
-    "actress": "小松空",
-    "maker": "プレミアム",
-    "code": "PRWF00014",
-    "date": "2026-07-17",
-    "tags": [
-      "ハイビジョン",
-      "独占配信",
-      "中出し",
-      "単体作品",
-      "3P・4P",
-      "寝取り・寝取られ・NTR"
-    ],
-    "badge": "NEW",
-    "thumb": "https://pics.dmm.co.jp/digital/video/prwf00014/prwf00014pl.jpg",
-    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dprwf00014%2F&af_id=mio3lu-990&ch=api"
-  },
-  {
-    "id": "pred00886",
-    "title": "毎晩セックスの声が大きい彼女のお姉さんに彼女不在中、誘惑されて何度も中出しさせられたボク 彩月七緒",
-    "actress": "彩月七緒",
-    "maker": "プレミアム",
-    "code": "PRED00886",
-    "date": "2026-07-17",
-    "tags": [
-      "ハイビジョン",
-      "独占配信",
-      "騎乗位",
-      "パイズリ",
-      "お姉さん",
-      "巨乳"
-    ],
-    "badge": "NEW",
-    "thumb": "https://pics.dmm.co.jp/digital/video/pred00886/pred00886pl.jpg",
-    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dpred00886%2F&af_id=mio3lu-990&ch=api"
   }
 ];
