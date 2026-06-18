@@ -755,7 +755,7 @@ const worksData = [
       "M女"
     ],
     "badge": "NEW",
-    "thumb": "https://pics.dmm.co.jp/digital/video/nkd00342/nkd00342pt.jpg",
+    "thumb": "https://pics.dmm.co.jp/digital/video/nkd00342/nkd00342pl.jpg",
     "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dnkd00342%2F&af_id=mio3lu-990&ch=api"
   },
   {
@@ -1388,15 +1388,15 @@ const worksData = [
     "code": "GTJ00174",
     "date": "2026-07-18",
     "tags": [
+      "ハイビジョン",
       "4時間以上作品",
       "独占配信",
       "ベスト・総集編",
       "拷問",
-      "SM",
-      "拘束"
+      "SM"
     ],
     "badge": "NEW",
-    "thumb": "https://pics.dmm.co.jp/digital/video/gtj00174/gtj00174pt.jpg",
+    "thumb": "https://pics.dmm.co.jp/digital/video/gtj00174/gtj00174pl.jpg",
     "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dgtj00174%2F&af_id=mio3lu-990&ch=api"
   },
   {
@@ -1616,15 +1616,15 @@ const worksData = [
     "code": "DDK00240",
     "date": "2026-07-18",
     "tags": [
+      "ハイビジョン",
+      "4K",
       "独占配信",
       "単体作品",
       "白目・失神",
-      "中出し",
-      "辱め",
-      "ドラッグ"
+      "中出し"
     ],
     "badge": "NEW",
-    "thumb": "https://pics.dmm.co.jp/digital/video/ddk00240/ddk00240pt.jpg",
+    "thumb": "https://pics.dmm.co.jp/digital/video/ddk00240/ddk00240pl.jpg",
     "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dddk00240%2F&af_id=mio3lu-990&ch=api"
   },
   {
@@ -1635,15 +1635,15 @@ const worksData = [
     "code": "DDFF00053",
     "date": "2026-07-18",
     "tags": [
+      "ハイビジョン",
+      "4K",
       "独占配信",
       "単体作品",
       "女子校生",
-      "ミニ系",
-      "鬼畜",
-      "イラマチオ"
+      "ミニ系"
     ],
     "badge": "NEW",
-    "thumb": "https://pics.dmm.co.jp/digital/video/ddff00053/ddff00053pt.jpg",
+    "thumb": "https://pics.dmm.co.jp/digital/video/ddff00053/ddff00053pl.jpg",
     "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dddff00053%2F&af_id=mio3lu-990&ch=api"
   },
   {
