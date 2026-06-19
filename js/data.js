@@ -1,5 +1,43 @@
 const worksData = [
   {
+    "id": "vrkm01868",
+    "title": "【VR】スローセックスVR ～女社長エナの射精管理～ 沙月恵奈",
+    "actress": "沙月恵奈",
+    "maker": "ケイ・エム・プロデュース",
+    "code": "VRKM01868",
+    "date": "2026-08-15",
+    "tags": [
+      "ハイクオリティVR",
+      "8KVR",
+      "単体作品",
+      "VR専用",
+      "独占配信",
+      "中出し"
+    ],
+    "badge": "VR",
+    "thumb": "https://pics.dmm.co.jp/digital/video/vrkm01868/vrkm01868pl.jpg",
+    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dvrkm01868%2F&af_id=mio3lu-990&ch=api"
+  },
+  {
+    "id": "vrkm01874",
+    "title": "【VR】東京都〇〇区童貞筆おろしプロジェクト 椿りか",
+    "actress": "椿りか",
+    "maker": "ケイ・エム・プロデュース",
+    "code": "VRKM01874",
+    "date": "2026-08-12",
+    "tags": [
+      "ハイクオリティVR",
+      "8KVR",
+      "単体作品",
+      "VR専用",
+      "独占配信",
+      "中出し"
+    ],
+    "badge": "VR",
+    "thumb": "https://pics.dmm.co.jp/digital/video/vrkm01874/vrkm01874pl.jpg",
+    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dvrkm01874%2F&af_id=mio3lu-990&ch=api"
+  },
+  {
     "id": "vrkm01871",
     "title": "【VR】天井特化アングルVR ～あざとカワイイ後輩～ 善場まみ",
     "actress": "善場まみ（茉城まみ）",
@@ -76,6 +114,25 @@ const worksData = [
     "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dh_1714grace00035%2F&af_id=mio3lu-990&ch=api"
   },
   {
+    "id": "bibivr00173",
+    "title": "【VR】都内某所にあるハメ放題のセクシーラウンジで人生終了するくらい金も精子も注ぎ込み！！富豪の極みSUPERVIP 6P連続中出し 小那海あや 尾崎えりか 椿りか 末広純 弥生みづき",
+    "actress": "小那海あや、尾崎えりか、椿りか、末広純、弥生みづき",
+    "maker": "KMPVR-bibi-",
+    "code": "BIBIVR00173",
+    "date": "2026-07-30",
+    "tags": [
+      "ハイクオリティVR",
+      "8KVR",
+      "VR専用",
+      "独占配信",
+      "中出し",
+      "痴女"
+    ],
+    "badge": "VR",
+    "thumb": "https://pics.dmm.co.jp/digital/video/bibivr00173/bibivr00173pl.jpg",
+    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dbibivr00173%2F&af_id=mio3lu-990&ch=api"
+  },
+  {
     "id": "vrkm01849",
     "title": "【VR】鬼ヶ島を追われたギャル鬼娘リカちゃんのアヘ顔で中出ししまくって孕ませて、めでたしめでたしVR 椿りか",
     "actress": "椿りか",
@@ -93,6 +150,25 @@ const worksData = [
     "badge": "VR",
     "thumb": "https://pics.dmm.co.jp/digital/video/vrkm01849/vrkm01849pl.jpg",
     "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dvrkm01849%2F&af_id=mio3lu-990&ch=api"
+  },
+  {
+    "id": "vrkm01829",
+    "title": "【VR】虐めてあげる！逆M言葉責めBEST 300分",
+    "actress": "木下ひまり（花沢ひまり）、椿りか、小那海あや、尾崎えりか、瀬那ルミナ、夏川あゆみ、佐藤ののか（加藤ももか）、森本あかり、森沢かな（飯岡かなこ）、森日向子、百永さりな、大槻ひびき、新井リマ、鈴木真夕、皆月ひかる",
+    "maker": "ケイ・エム・プロデュース",
+    "code": "VRKM01829",
+    "date": "2026-07-27",
+    "tags": [
+      "淫語",
+      "痴女",
+      "中出し",
+      "ベスト・総集編",
+      "独占配信",
+      "VR専用"
+    ],
+    "badge": "VR",
+    "thumb": "https://pics.dmm.co.jp/digital/video/vrkm01829/vrkm01829pl.jpg",
+    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dvrkm01829%2F&af_id=mio3lu-990&ch=api"
   },
   {
     "id": "vrkm01865",
@@ -285,6 +361,25 @@ const worksData = [
     "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dvrkm01867%2F&af_id=mio3lu-990&ch=api"
   },
   {
+    "id": "savr01118",
+    "title": "【VR】どスケベ家政婦と時短で中出し不倫。家事をテキパキこなしながら、妻が目を離した隙に発射まで導いてくれる凄テク不貞行為。 小栗操",
+    "actress": "小栗操",
+    "maker": "KMPVR-彩-",
+    "code": "SAVR01118",
+    "date": "2026-07-20",
+    "tags": [
+      "ハイクオリティVR",
+      "8KVR",
+      "単体作品",
+      "VR専用",
+      "独占配信",
+      "お姉さん"
+    ],
+    "badge": "VR",
+    "thumb": "https://pics.dmm.co.jp/digital/video/savr01118/savr01118pl.jpg",
+    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dsavr01118%2F&af_id=mio3lu-990&ch=api"
+  },
+  {
     "id": "bibivr00172",
     "title": "【VR】都内某所にあるハメ放題のセクシーラウンジで人生終了するくらい金も精子も注ぎ込み！！W痴女の骨抜きアフター 尾崎えりか 椿りか",
     "actress": "尾崎えりか、椿りか",
@@ -302,6 +397,44 @@ const worksData = [
     "badge": "VR",
     "thumb": "https://pics.dmm.co.jp/digital/video/bibivr00172/bibivr00172pl.jpg",
     "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dbibivr00172%2F&af_id=mio3lu-990&ch=api"
+  },
+  {
+    "id": "urvrsp00587",
+    "title": "【VR】【8K】いつでもどこでも即ハメOK 僕専用オナホメイドになった後輩ちゃん！まみちゃん",
+    "actress": "不明",
+    "maker": "unfinished",
+    "code": "URVRSP00587",
+    "date": "2026-07-18",
+    "tags": [
+      "ハイクオリティVR",
+      "VR専用",
+      "独占配信",
+      "8KVR",
+      "巨乳",
+      "痴女"
+    ],
+    "badge": "VR",
+    "thumb": "https://pics.dmm.co.jp/digital/video/urvrsp00587/urvrsp00587pl.jpg",
+    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Durvrsp00587%2F&af_id=mio3lu-990&ch=api"
+  },
+  {
+    "id": "urvrsp00582",
+    "title": "【VR】【8K】女子校の修学旅行中。皆が寝付いた夜。教え子が僕を誘惑してきて逆夜●い！「先生、もう、私は子供じゃないよ？」布団の中で汗だくでスパイダー騎乗位で何度も何度も貪りつくされる！ れんちゃん",
+    "actress": "不明",
+    "maker": "unfinished",
+    "code": "URVRSP00582",
+    "date": "2026-07-18",
+    "tags": [
+      "ハイクオリティVR",
+      "VR専用",
+      "独占配信",
+      "8KVR",
+      "スレンダー",
+      "騎乗位"
+    ],
+    "badge": "VR",
+    "thumb": "https://pics.dmm.co.jp/digital/video/urvrsp00582/urvrsp00582pl.jpg",
+    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Durvrsp00582%2F&af_id=mio3lu-990&ch=api"
   },
   {
     "id": "tkd00071",
@@ -406,12 +539,12 @@ const worksData = [
     "code": "SYKH00196",
     "date": "2026-07-18",
     "tags": [
-      "ハイビジョン",
-      "独占配信",
-      "脚フェチ",
-      "エマニエル",
+      "着エロ",
+      "中出し",
+      "パンスト・タイツ",
       "単体作品",
-      "パンスト・タイツ"
+      "エマニエル",
+      "脚フェチ"
     ],
     "badge": "NEW",
     "thumb": "https://pics.dmm.co.jp/digital/video/sykh00196/sykh00196pl.jpg",
@@ -425,12 +558,12 @@ const worksData = [
     "code": "SUJI00314",
     "date": "2026-07-18",
     "tags": [
-      "ハイビジョン",
-      "独占配信",
-      "近親相姦",
-      "姉・妹",
+      "お風呂",
+      "単体作品",
+      "妄想族",
+      "スレンダー",
       "中出し",
-      "スレンダー"
+      "姉・妹"
     ],
     "badge": "NEW",
     "thumb": "https://pics.dmm.co.jp/digital/video/suji00314/suji00314pl.jpg",
@@ -539,12 +672,12 @@ const worksData = [
     "code": "SMKD00011",
     "date": "2026-07-18",
     "tags": [
-      "中出し",
-      "素人",
-      "巨乳",
-      "ぶっかけ",
+      "独占配信",
+      "妄想族",
       "ローション・オイル",
-      "妄想族"
+      "ぶっかけ",
+      "巨乳",
+      "素人"
     ],
     "badge": "NEW",
     "thumb": "https://pics.dmm.co.jp/digital/video/smkd00011/smkd00011pl.jpg",
@@ -975,12 +1108,12 @@ const worksData = [
     "code": "KYMI00056",
     "date": "2026-07-18",
     "tags": [
-      "独占配信",
-      "巨乳フェチ",
-      "単体作品",
-      "淫語",
+      "痴女",
+      "着エロ",
       "レオタード",
-      "着エロ"
+      "淫語",
+      "単体作品",
+      "巨乳フェチ"
     ],
     "badge": "NEW",
     "thumb": "https://pics.dmm.co.jp/digital/video/kymi00056/kymi00056pl.jpg",
@@ -1108,12 +1241,12 @@ const worksData = [
     "code": "JKTU00105",
     "date": "2026-07-18",
     "tags": [
-      "独占配信",
-      "熟女",
-      "人妻・主婦",
-      "盗撮・のぞき",
+      "妄想族",
       "面接",
-      "妄想族"
+      "盗撮・のぞき",
+      "人妻・主婦",
+      "熟女",
+      "独占配信"
     ],
     "badge": "NEW",
     "thumb": "https://pics.dmm.co.jp/digital/video/jktu00105/jktu00105pl.jpg",
@@ -1759,137 +1892,5 @@ const worksData = [
     "badge": "NEW",
     "thumb": "https://pics.dmm.co.jp/digital/video/asia00129/asia00129pl.jpg",
     "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dasia00129%2F&af_id=mio3lu-990&ch=api"
-  },
-  {
-    "id": "vod00060",
-    "title": "浮気妻密会デート～欲求不満奥様の非日常性生活～ 佐藤愛瑠",
-    "actress": "佐藤愛瑠",
-    "maker": "VENUS",
-    "code": "VOD00060",
-    "date": "2026-07-17",
-    "tags": [
-      "独占配信",
-      "熟女",
-      "単体作品",
-      "中出し",
-      "ドキュメンタリー",
-      "人妻・主婦"
-    ],
-    "badge": "NEW",
-    "thumb": "https://pics.dmm.co.jp/digital/video/vod00060/vod00060pl.jpg",
-    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dvod00060%2F&af_id=mio3lu-990&ch=api"
-  },
-  {
-    "id": "venx00378",
-    "title": "大好きな叔母を四六時中抱いた愛液と中出しに溺れる絶頂セックス 吉瀬葵",
-    "actress": "吉瀬葵",
-    "maker": "VENUS",
-    "code": "VENX00378",
-    "date": "2026-07-17",
-    "tags": [
-      "独占配信",
-      "熟女",
-      "単体作品",
-      "中出し",
-      "人妻・主婦",
-      "スレンダー"
-    ],
-    "badge": "NEW",
-    "thumb": "https://pics.dmm.co.jp/digital/video/venx00378/venx00378pl.jpg",
-    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dvenx00378%2F&af_id=mio3lu-990&ch=api"
-  },
-  {
-    "id": "venx00377",
-    "title": "「おばさんの下着で興奮するの？」脱ぎたてのパンティで甥っ子の精子を一滴残らず搾りとる叔母 美月香織",
-    "actress": "美月香織",
-    "maker": "VENUS",
-    "code": "VENX00377",
-    "date": "2026-07-17",
-    "tags": [
-      "独占配信",
-      "ランジェリー",
-      "中出し",
-      "巨乳",
-      "熟女",
-      "人妻・主婦"
-    ],
-    "badge": "NEW",
-    "thumb": "https://pics.dmm.co.jp/digital/video/venx00377/venx00377pl.jpg",
-    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dvenx00377%2F&af_id=mio3lu-990&ch=api"
-  },
-  {
-    "id": "venx00376",
-    "title": "迫ってくる義息は激しく拒んでも決して諦めず逃げても追いかけてきて何度もイカされてしまう義母 槻本あすか",
-    "actress": "槻本あすか",
-    "maker": "VENUS",
-    "code": "VENX00376",
-    "date": "2026-07-17",
-    "tags": [
-      "独占配信",
-      "人妻・主婦",
-      "中出し",
-      "単体作品",
-      "淫乱・ハード系",
-      "義母"
-    ],
-    "badge": "NEW",
-    "thumb": "https://pics.dmm.co.jp/digital/video/venx00376/venx00376pl.jpg",
-    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dvenx00376%2F&af_id=mio3lu-990&ch=api"
-  },
-  {
-    "id": "vec00781",
-    "title": "母の親友 総集編9 4時間",
-    "actress": "不明",
-    "maker": "VENUS",
-    "code": "VEC00781",
-    "date": "2026-07-17",
-    "tags": [
-      "独占配信",
-      "熟女",
-      "中出し",
-      "人妻・主婦",
-      "ベスト・総集編"
-    ],
-    "badge": "NEW",
-    "thumb": "https://pics.dmm.co.jp/digital/video/vec00781/vec00781pl.jpg",
-    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dvec00781%2F&af_id=mio3lu-990&ch=api"
-  },
-  {
-    "id": "srob00049",
-    "title": "おっぱいちゃんず SUPER BEST 厳選素人娘21人10時間超DVD3枚組",
-    "actress": "不明",
-    "maker": "素人まっちんぐEX/妄想族",
-    "code": "SROB00049",
-    "date": "2026-07-17",
-    "tags": [
-      "ハイビジョン",
-      "独占配信",
-      "中出し",
-      "妄想族",
-      "ナンパ",
-      "巨乳"
-    ],
-    "badge": "NEW",
-    "thumb": "https://pics.dmm.co.jp/digital/video/srob00049/srob00049pl.jpg",
-    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dsrob00049%2F&af_id=mio3lu-990&ch=api"
-  },
-  {
-    "id": "savr01120",
-    "title": "【VR】ふわふわ授乳手コキ 男の全てを褒めながら好き放題オギャらせてくれるみう先生と子供になったボク。 有岡みう",
-    "actress": "有岡みう",
-    "maker": "KMPVR-彩-",
-    "code": "SAVR01120",
-    "date": "2026-07-17",
-    "tags": [
-      "ハイクオリティVR",
-      "8KVR",
-      "単体作品",
-      "VR専用",
-      "独占配信",
-      "中出し"
-    ],
-    "badge": "VR",
-    "thumb": "https://pics.dmm.co.jp/digital/video/savr01120/savr01120pl.jpg",
-    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dsavr01120%2F&af_id=mio3lu-990&ch=api"
   }
 ];
