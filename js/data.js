@@ -323,6 +323,23 @@ const worksData = [
     "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dmrec00007%2F&af_id=mio3lu-990&ch=api"
   },
   {
+    "id": "h_1832msoc00058",
+    "title": "恵比寿のマンション型個室メンエス- 全身下着＆Dキスオプション・あまはみゆ（25歳）",
+    "actress": "不明",
+    "maker": "メンエス・オナクラ盗撮",
+    "code": "H_1832MSOC00058",
+    "date": "2026-07-21",
+    "tags": [
+      "ハイビジョン",
+      "エステ",
+      "盗撮・のぞき",
+      "素人"
+    ],
+    "badge": "NEW",
+    "thumb": "https://pics.dmm.co.jp/digital/video/h_1832msoc00058/h_1832msoc00058pt.jpg",
+    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dh_1832msoc00058%2F&af_id=mio3lu-990&ch=api"
+  },
+  {
     "id": "dokvd00002",
     "title": "‘中出し’賭けて色んなゲームで遊んじゃう！街で見かけた素人さん限定の即ハメナンパ！出会って10分で生挿入！まさかのイキまくりでホントに中出しシちゃいましたSP！！",
     "actress": "不明",
@@ -340,6 +357,63 @@ const worksData = [
     "badge": "NEW",
     "thumb": "https://pics.dmm.co.jp/digital/video/dokvd00002/dokvd00002pl.jpg",
     "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Ddokvd00002%2F&af_id=mio3lu-990&ch=api"
+  },
+  {
+    "id": "1favr00003",
+    "title": "【VR】久しぶりの再会…。吉高寧々初8KVR 目を覚ましたらねねねぇさんが、ねていた…。",
+    "actress": "吉高寧々",
+    "maker": "FALENO",
+    "code": "1FAVR00003",
+    "date": "2026-07-21",
+    "tags": [
+      "ハイクオリティVR",
+      "8KVR",
+      "単体作品",
+      "VR専用",
+      "騎乗位",
+      "フェラ"
+    ],
+    "badge": "VR",
+    "thumb": "https://pics.dmm.co.jp/digital/video/1favr00003/1favr00003pl.jpg",
+    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3D1favr00003%2F&af_id=mio3lu-990&ch=api"
+  },
+  {
+    "id": "1favr00002",
+    "title": "【VR】5年ぶり…初8K美乃すずめVR AV現場’1日密着’僕は新米マネージャー！！",
+    "actress": "美乃すずめ",
+    "maker": "DAHLIA",
+    "code": "1FAVR00002",
+    "date": "2026-07-21",
+    "tags": [
+      "ハイクオリティVR",
+      "8KVR",
+      "単体作品",
+      "VR専用",
+      "恋愛",
+      "巨乳"
+    ],
+    "badge": "VR",
+    "thumb": "https://pics.dmm.co.jp/digital/video/1favr00002/1favr00002pl.jpg",
+    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3D1favr00002%2F&af_id=mio3lu-990&ch=api"
+  },
+  {
+    "id": "1favr00001",
+    "title": "【VR】解禁。小沢菜穂 8K初VR 年下のキミと初めてのお泊り不倫性交",
+    "actress": "小沢菜穂",
+    "maker": "DAHLIA",
+    "code": "1FAVR00001",
+    "date": "2026-07-21",
+    "tags": [
+      "ハイクオリティVR",
+      "8KVR",
+      "単体作品",
+      "VR専用",
+      "不倫",
+      "恋愛"
+    ],
+    "badge": "VR",
+    "thumb": "https://pics.dmm.co.jp/digital/video/1favr00001/1favr00001pl.jpg",
+    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3D1favr00001%2F&af_id=mio3lu-990&ch=api"
   },
   {
     "id": "vrkm01867",
@@ -397,6 +471,82 @@ const worksData = [
     "badge": "VR",
     "thumb": "https://pics.dmm.co.jp/digital/video/bibivr00172/bibivr00172pl.jpg",
     "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dbibivr00172%2F&af_id=mio3lu-990&ch=api"
+  },
+  {
+    "id": "1sun00061a",
+    "title": "貞操帯露出 野外性交して自宅でオマ○コ拘束された1ヵ月の記録 本田瞳",
+    "actress": "本田瞳",
+    "maker": "SUN",
+    "code": "1SUN00061A",
+    "date": "2026-07-19",
+    "tags": [
+      "4時間以上作品",
+      "単体作品",
+      "ハイビジョン",
+      "拘束",
+      "放尿・お漏らし",
+      "3P・4P"
+    ],
+    "badge": "NEW",
+    "thumb": "https://pics.dmm.co.jp/digital/video/1sun00061a/1sun00061apl.jpg",
+    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3D1sun00061a%2F&af_id=mio3lu-990&ch=api"
+  },
+  {
+    "id": "1sun00060a",
+    "title": "ボディペ露出 Hカップおま○こちゃんと街中丸出しデート 田中ねね",
+    "actress": "田中ねね",
+    "maker": "SUN",
+    "code": "1SUN00060A",
+    "date": "2026-07-19",
+    "tags": [
+      "単体作品",
+      "ハイビジョン",
+      "中出し",
+      "巨乳",
+      "競泳・スクール水着",
+      "コスプレ"
+    ],
+    "badge": "NEW",
+    "thumb": "https://pics.dmm.co.jp/digital/video/1sun00060a/1sun00060apl.jpg",
+    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3D1sun00060a%2F&af_id=mio3lu-990&ch=api"
+  },
+  {
+    "id": "1jera00036",
+    "title": "パイズリで沼っちゃえ 美巨乳セフレお姉さん谷あづさとラブホをはしごして丸1日巣ごもり挟射＆中出しデート",
+    "actress": "谷あづさ",
+    "maker": "夕焼けジェラシー",
+    "code": "1JERA00036",
+    "date": "2026-07-19",
+    "tags": [
+      "ハメ撮り",
+      "中出し",
+      "巨乳",
+      "パイズリ",
+      "ごっくん",
+      "単体作品"
+    ],
+    "badge": "NEW",
+    "thumb": "https://pics.dmm.co.jp/digital/video/1jera00036/1jera00036pl.jpg",
+    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3D1jera00036%2F&af_id=mio3lu-990&ch=api"
+  },
+  {
+    "id": "urvrsp00590",
+    "title": "【VR】【8K】ゴミ部屋に住む引きこもり兄の性欲処理を×年間しています。和栗ゆゆ",
+    "actress": "和栗ゆゆ",
+    "maker": "unfinished",
+    "code": "URVRSP00590",
+    "date": "2026-07-18",
+    "tags": [
+      "ハイクオリティVR",
+      "単体作品",
+      "VR専用",
+      "独占配信",
+      "8KVR",
+      "フェラ"
+    ],
+    "badge": "VR",
+    "thumb": "https://pics.dmm.co.jp/digital/video/urvrsp00590/urvrsp00590pl.jpg",
+    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Durvrsp00590%2F&af_id=mio3lu-990&ch=api"
   },
   {
     "id": "urvrsp00587",
@@ -539,12 +689,12 @@ const worksData = [
     "code": "SYKH00196",
     "date": "2026-07-18",
     "tags": [
-      "着エロ",
-      "中出し",
-      "パンスト・タイツ",
-      "単体作品",
+      "ハイビジョン",
+      "独占配信",
+      "脚フェチ",
       "エマニエル",
-      "脚フェチ"
+      "単体作品",
+      "パンスト・タイツ"
     ],
     "badge": "NEW",
     "thumb": "https://pics.dmm.co.jp/digital/video/sykh00196/sykh00196pl.jpg",
@@ -672,12 +822,12 @@ const worksData = [
     "code": "SMKD00011",
     "date": "2026-07-18",
     "tags": [
-      "独占配信",
-      "妄想族",
-      "ローション・オイル",
-      "ぶっかけ",
+      "中出し",
+      "素人",
       "巨乳",
-      "素人"
+      "ぶっかけ",
+      "ローション・オイル",
+      "妄想族"
     ],
     "badge": "NEW",
     "thumb": "https://pics.dmm.co.jp/digital/video/smkd00011/smkd00011pl.jpg",
@@ -1108,12 +1258,12 @@ const worksData = [
     "code": "KYMI00056",
     "date": "2026-07-18",
     "tags": [
-      "痴女",
-      "着エロ",
-      "レオタード",
-      "淫語",
+      "独占配信",
+      "巨乳フェチ",
       "単体作品",
-      "巨乳フェチ"
+      "淫語",
+      "レオタード",
+      "着エロ"
     ],
     "badge": "NEW",
     "thumb": "https://pics.dmm.co.jp/digital/video/kymi00056/kymi00056pl.jpg",
@@ -1241,12 +1391,12 @@ const worksData = [
     "code": "JKTU00105",
     "date": "2026-07-18",
     "tags": [
-      "妄想族",
-      "面接",
-      "盗撮・のぞき",
-      "人妻・主婦",
+      "独占配信",
       "熟女",
-      "独占配信"
+      "人妻・主婦",
+      "盗撮・のぞき",
+      "面接",
+      "妄想族"
     ],
     "badge": "NEW",
     "thumb": "https://pics.dmm.co.jp/digital/video/jktu00105/jktu00105pl.jpg",
@@ -1740,157 +1890,5 @@ const worksData = [
     "badge": "NEW",
     "thumb": "https://pics.dmm.co.jp/digital/video/efdm00199/efdm00199pl.jpg",
     "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Defdm00199%2F&af_id=mio3lu-990&ch=api"
-  },
-  {
-    "id": "ddk00240",
-    "title": "アオハル少女クスリ漬け・キメセク失神交尾 美咲音",
-    "actress": "美咲音",
-    "maker": "ドグマ",
-    "code": "DDK00240",
-    "date": "2026-07-18",
-    "tags": [
-      "ハイビジョン",
-      "4K",
-      "独占配信",
-      "単体作品",
-      "白目・失神",
-      "中出し"
-    ],
-    "badge": "NEW",
-    "thumb": "https://pics.dmm.co.jp/digital/video/ddk00240/ddk00240pl.jpg",
-    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dddk00240%2F&af_id=mio3lu-990&ch=api"
-  },
-  {
-    "id": "ddff00053",
-    "title": "喉姦面談 引きこもり不登校少女イラマ指導 真宮しおり",
-    "actress": "真宮しおり",
-    "maker": "ドグマ",
-    "code": "DDFF00053",
-    "date": "2026-07-18",
-    "tags": [
-      "ハイビジョン",
-      "4K",
-      "独占配信",
-      "単体作品",
-      "女子校生",
-      "ミニ系"
-    ],
-    "badge": "NEW",
-    "thumb": "https://pics.dmm.co.jp/digital/video/ddff00053/ddff00053pl.jpg",
-    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dddff00053%2F&af_id=mio3lu-990&ch=api"
-  },
-  {
-    "id": "cend00064",
-    "title": "六十路熟女の膣に中出し10 昭和の熟女は輝いていた！",
-    "actress": "不明",
-    "maker": "信長/エマニエル",
-    "code": "CEND00064",
-    "date": "2026-07-18",
-    "tags": [
-      "独占配信",
-      "超乳",
-      "寝取り・寝取られ・NTR",
-      "エマニエル",
-      "熟女",
-      "不倫"
-    ],
-    "badge": "NEW",
-    "thumb": "https://pics.dmm.co.jp/digital/video/cend00064/cend00064pl.jpg",
-    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dcend00064%2F&af_id=mio3lu-990&ch=api"
-  },
-  {
-    "id": "bjd00058",
-    "title": "熟年フルムーン 那須芦野温泉の旅 黒田あかり",
-    "actress": "黒田あかり",
-    "maker": "ルビー",
-    "code": "BJD00058",
-    "date": "2026-07-18",
-    "tags": [
-      "独占配信",
-      "単体作品",
-      "人妻・主婦",
-      "和服・浴衣",
-      "中出し",
-      "温泉"
-    ],
-    "badge": "NEW",
-    "thumb": "https://pics.dmm.co.jp/digital/video/bjd00058/bjd00058pl.jpg",
-    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dbjd00058%2F&af_id=mio3lu-990&ch=api"
-  },
-  {
-    "id": "bbtu00117",
-    "title": "爆乳 肉弾FUCK 吉根ゆりあ",
-    "actress": "吉根ゆりあ",
-    "maker": "ドグマ",
-    "code": "BBTU00117",
-    "date": "2026-07-18",
-    "tags": [
-      "独占配信",
-      "単体作品",
-      "3P・4P",
-      "ローション・オイル",
-      "イラマチオ",
-      "巨乳"
-    ],
-    "badge": "NEW",
-    "thumb": "https://pics.dmm.co.jp/digital/video/bbtu00117/bbtu00117pl.jpg",
-    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dbbtu00117%2F&af_id=mio3lu-990&ch=api"
-  },
-  {
-    "id": "aukg00655",
-    "title": "未亡人色欲強●レズ ～禁断の義姉妹熟女の性の果て～",
-    "actress": "月野ゆりね、豊崎清香",
-    "maker": "U＆K",
-    "code": "AUKG00655",
-    "date": "2026-07-18",
-    "tags": [
-      "ハイビジョン",
-      "独占配信",
-      "レズビアン",
-      "未亡人",
-      "ドラマ",
-      "熟女"
-    ],
-    "badge": "NEW",
-    "thumb": "https://pics.dmm.co.jp/digital/video/aukg00655/aukg00655pl.jpg",
-    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Daukg00655%2F&af_id=mio3lu-990&ch=api"
-  },
-  {
-    "id": "atya00044",
-    "title": "あどけない若妻、おじにガン突かれる倍以上年の離れたおじさんと出会い…熟練チ●ポに何度もイカされる 佐藤愛瑠",
-    "actress": "佐藤愛瑠",
-    "maker": "あたご屋/エマニエル",
-    "code": "ATYA00044",
-    "date": "2026-07-18",
-    "tags": [
-      "ハイビジョン",
-      "独占配信",
-      "フェラ",
-      "単体作品",
-      "若妻・幼妻",
-      "パイズリ"
-    ],
-    "badge": "NEW",
-    "thumb": "https://pics.dmm.co.jp/digital/video/atya00044/atya00044pl.jpg",
-    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Datya00044%2F&af_id=mio3lu-990&ch=api"
-  },
-  {
-    "id": "asia00129",
-    "title": "迷ったらコレ！韓国人妻 ヤダ45歳 BEST 177分！",
-    "actress": "ヤダ",
-    "maker": "Asia/妄想族",
-    "code": "ASIA00129",
-    "date": "2026-07-18",
-    "tags": [
-      "ハイビジョン",
-      "独占配信",
-      "単体作品",
-      "巨乳",
-      "スレンダー",
-      "熟女"
-    ],
-    "badge": "NEW",
-    "thumb": "https://pics.dmm.co.jp/digital/video/asia00129/asia00129pl.jpg",
-    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dasia00129%2F&af_id=mio3lu-990&ch=api"
   }
 ];
