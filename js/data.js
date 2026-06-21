@@ -454,6 +454,44 @@ const worksData = [
     "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dsavr01118%2F&af_id=mio3lu-990&ch=api"
   },
   {
+    "id": "1oks00196",
+    "title": "松山みなみ 濡れてテカってピッタリ密着 神スク水 可愛い女子のスクール水着姿をじっとりと堪能！着替え撮影から始まり貧乳から巨乳にパイパン、ハミ毛、ジョリワキ等のフェチ接写やローションソーププレイやスク水ぶっかけ等を完全着衣で楽しむAV",
+    "actress": "松山みなみ",
+    "maker": "親父の個撮",
+    "code": "1OKS00196",
+    "date": "2026-07-20",
+    "tags": [
+      "ハイビジョン",
+      "局部アップ",
+      "ローション・オイル",
+      "ぶっかけ",
+      "単体作品",
+      "盗撮・のぞき"
+    ],
+    "badge": "NEW",
+    "thumb": "https://pics.dmm.co.jp/digital/video/1oks00196/1oks00196pl.jpg",
+    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3D1oks00196%2F&af_id=mio3lu-990&ch=api"
+  },
+  {
+    "id": "1okk00119",
+    "title": "芦名ほのか 濡れてテカってピッタリ密着 神競泳水着 可愛い女子の競泳水着姿をじっとりと堪能！着替え撮影から始まり貧乳から巨乳にパイパン、ハミ毛、ジョリワキ等のフェチ接写やローションソーププレイや競泳水着ぶっかけ等を完全着衣で楽しむAV",
+    "actress": "芦名ほのか",
+    "maker": "親父の個撮",
+    "code": "1OKK00119",
+    "date": "2026-07-20",
+    "tags": [
+      "ハイビジョン",
+      "盗撮・のぞき",
+      "局部アップ",
+      "ローション・オイル",
+      "ぶっかけ",
+      "単体作品"
+    ],
+    "badge": "NEW",
+    "thumb": "https://pics.dmm.co.jp/digital/video/1okk00119/1okk00119pl.jpg",
+    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3D1okk00119%2F&af_id=mio3lu-990&ch=api"
+  },
+  {
     "id": "bibivr00172",
     "title": "【VR】都内某所にあるハメ放題のセクシーラウンジで人生終了するくらい金も精子も注ぎ込み！！W痴女の骨抜きアフター 尾崎えりか 椿りか",
     "actress": "尾崎えりか、椿りか",
@@ -708,12 +746,12 @@ const worksData = [
     "code": "SUJI00314",
     "date": "2026-07-18",
     "tags": [
-      "お風呂",
-      "単体作品",
-      "妄想族",
-      "スレンダー",
+      "ハイビジョン",
+      "独占配信",
+      "近親相姦",
+      "姉・妹",
       "中出し",
-      "姉・妹"
+      "スレンダー"
     ],
     "badge": "NEW",
     "thumb": "https://pics.dmm.co.jp/digital/video/suji00314/suji00314pl.jpg",
@@ -822,12 +860,12 @@ const worksData = [
     "code": "SMKD00011",
     "date": "2026-07-18",
     "tags": [
-      "中出し",
-      "素人",
-      "巨乳",
-      "ぶっかけ",
+      "独占配信",
+      "妄想族",
       "ローション・オイル",
-      "妄想族"
+      "ぶっかけ",
+      "巨乳",
+      "素人"
     ],
     "badge": "NEW",
     "thumb": "https://pics.dmm.co.jp/digital/video/smkd00011/smkd00011pl.jpg",
@@ -1671,12 +1709,12 @@ const worksData = [
     "code": "GTJ00174",
     "date": "2026-07-18",
     "tags": [
-      "ハイビジョン",
-      "4時間以上作品",
-      "独占配信",
-      "ベスト・総集編",
+      "拘束",
+      "SM",
       "拷問",
-      "SM"
+      "ベスト・総集編",
+      "独占配信",
+      "4時間以上作品"
     ],
     "badge": "NEW",
     "thumb": "https://pics.dmm.co.jp/digital/video/gtj00174/gtj00174pl.jpg",
@@ -1852,43 +1890,5 @@ const worksData = [
     "badge": "NEW",
     "thumb": "https://pics.dmm.co.jp/digital/video/erdm00229/erdm00229pl.jpg",
     "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Derdm00229%2F&af_id=mio3lu-990&ch=api"
-  },
-  {
-    "id": "efdm00200",
-    "title": "オナニーする美熟女200人 8時間",
-    "actress": "不明",
-    "maker": "フォーディメンション/エマニエル",
-    "code": "EFDM00200",
-    "date": "2026-07-18",
-    "tags": [
-      "独占配信",
-      "オナニー",
-      "エマニエル",
-      "ベスト・総集編",
-      "熟女",
-      "おもちゃ"
-    ],
-    "badge": "NEW",
-    "thumb": "https://pics.dmm.co.jp/digital/video/efdm00200/efdm00200pl.jpg",
-    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Defdm00200%2F&af_id=mio3lu-990&ch=api"
-  },
-  {
-    "id": "efdm00199",
-    "title": "すみません私とレズしてください4 8時間",
-    "actress": "不明",
-    "maker": "フォーディメンション/エマニエル",
-    "code": "EFDM00199",
-    "date": "2026-07-18",
-    "tags": [
-      "独占配信",
-      "ナンパ",
-      "レズビアン",
-      "熟女",
-      "エマニエル",
-      "ベスト・総集編"
-    ],
-    "badge": "NEW",
-    "thumb": "https://pics.dmm.co.jp/digital/video/efdm00199/efdm00199pl.jpg",
-    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Defdm00199%2F&af_id=mio3lu-990&ch=api"
   }
 ];
