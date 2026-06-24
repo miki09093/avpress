@@ -368,15 +368,15 @@ const worksData = [
     "code": "TCD00343",
     "date": "2026-07-25",
     "tags": [
-      "アナルセックス（男の娘）",
-      "アクメ・オーガズム",
-      "女装・男の娘",
-      "ドラッグ",
+      "独占配信",
+      "単体作品",
       "ニューハーフ",
-      "単体作品"
+      "ドラッグ",
+      "女装・男の娘",
+      "アクメ・オーガズム"
     ],
     "badge": "NEW",
-    "thumb": "https://pics.dmm.co.jp/digital/video/tcd00343/tcd00343pt.jpg",
+    "thumb": "https://pics.dmm.co.jp/digital/video/tcd00343/tcd00343pl.jpg",
     "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dtcd00343%2F&af_id=mio3lu-990&ch=api"
   },
   {
@@ -1183,15 +1183,15 @@ const worksData = [
     "code": "MOOR00068",
     "date": "2026-07-25",
     "tags": [
-      "妄想族",
-      "ハメ撮り",
-      "M女",
-      "3P・4P",
+      "独占配信",
+      "アクメ・オーガズム",
       "手コキ",
-      "アクメ・オーガズム"
+      "3P・4P",
+      "M女",
+      "ハメ撮り"
     ],
     "badge": "NEW",
-    "thumb": "https://pics.dmm.co.jp/digital/video/moor00068/moor00068pt.jpg",
+    "thumb": "https://pics.dmm.co.jp/digital/video/moor00068/moor00068pl.jpg",
     "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dmoor00068%2F&af_id=mio3lu-990&ch=api"
   },
   {
@@ -1202,15 +1202,15 @@ const worksData = [
     "code": "MOOR00067",
     "date": "2026-07-25",
     "tags": [
-      "3P・4P",
-      "中出し",
-      "単体作品",
-      "拘束",
+      "独占配信",
+      "コスプレ",
+      "妄想族",
       "くすぐり",
-      "妄想族"
+      "拘束",
+      "単体作品"
     ],
     "badge": "NEW",
-    "thumb": "https://pics.dmm.co.jp/digital/video/moor00067/moor00067pt.jpg",
+    "thumb": "https://pics.dmm.co.jp/digital/video/moor00067/moor00067pl.jpg",
     "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dmoor00067%2F&af_id=mio3lu-990&ch=api"
   },
   {
@@ -1297,6 +1297,7 @@ const worksData = [
     "code": "MGHT00393",
     "date": "2026-07-25",
     "tags": [
+      "4時間以上作品",
       "独占配信",
       "熟女",
       "人妻・主婦",
@@ -1314,6 +1315,7 @@ const worksData = [
     "code": "MGHT00392",
     "date": "2026-07-25",
     "tags": [
+      "4時間以上作品",
       "独占配信",
       "ベスト・総集編",
       "人妻・主婦",
@@ -1331,6 +1333,7 @@ const worksData = [
     "code": "MGHT00391",
     "date": "2026-07-25",
     "tags": [
+      "4時間以上作品",
       "独占配信",
       "女優ベスト・総集編",
       "人妻・主婦",
@@ -1622,7 +1625,7 @@ const worksData = [
       "尻フェチ"
     ],
     "badge": "NEW",
-    "thumb": "https://pics.dmm.co.jp/digital/video/kcda00328/kcda00328pt.jpg",
+    "thumb": "https://pics.dmm.co.jp/digital/video/kcda00328/kcda00328pl.jpg",
     "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dkcda00328%2F&af_id=mio3lu-990&ch=api"
   },
   {
@@ -1796,6 +1799,23 @@ const worksData = [
     "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dhalt00089%2F&af_id=mio3lu-990&ch=api"
   },
   {
+    "id": "h_1832msoc00059",
+    "title": "恵比寿のマンション型個室メンエス- パイ揉みオプション・あまはみゆ（25歳）",
+    "actress": "不明",
+    "maker": "メンエス・オナクラ盗撮",
+    "code": "H_1832MSOC00059",
+    "date": "2026-07-25",
+    "tags": [
+      "ハイビジョン",
+      "エステ",
+      "盗撮・のぞき",
+      "素人"
+    ],
+    "badge": "NEW",
+    "thumb": "https://pics.dmm.co.jp/digital/video/h_1832msoc00059/h_1832msoc00059pt.jpg",
+    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dh_1832msoc00059%2F&af_id=mio3lu-990&ch=api"
+  },
+  {
     "id": "gvh00864",
     "title": "真夏の蒸れた黒パンストデカ尻OLが美脚杭打ちピストン騎乗位で男潮吹くまで抜きまくる逆お持ち帰り痴女ハウス 小那海あや",
     "actress": "小那海あや",
@@ -1860,34 +1880,15 @@ const worksData = [
     "code": "GOHM00011",
     "date": "2026-07-25",
     "tags": [
+      "4時間以上作品",
       "独占配信",
       "乱交",
       "素人",
       "妄想族",
-      "巨尻",
-      "3P・4P"
+      "巨尻"
     ],
     "badge": "NEW",
     "thumb": "https://pics.dmm.co.jp/digital/video/gohm00011/gohm00011pl.jpg",
     "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dgohm00011%2F&af_id=mio3lu-990&ch=api"
-  },
-  {
-    "id": "gmem00153",
-    "title": "ULTRA SWEET 赤貝 美少女戦士2穴激イキ危険な快楽地獄 ～破廉恥なマ〇コと尻穴SUPER淫覚美少女～ 坂本りお",
-    "actress": "坂本りお",
-    "maker": "AVS collector’s",
-    "code": "GMEM00153",
-    "date": "2026-07-25",
-    "tags": [
-      "ハイビジョン",
-      "4K",
-      "独占配信",
-      "単体作品",
-      "アナル",
-      "美少女"
-    ],
-    "badge": "NEW",
-    "thumb": "https://pics.dmm.co.jp/digital/video/gmem00153/gmem00153pl.jpg",
-    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dgmem00153%2F&af_id=mio3lu-990&ch=api"
   }
 ];
