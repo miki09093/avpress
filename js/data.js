@@ -349,12 +349,12 @@ const worksData = [
     "code": "TSF00024",
     "date": "2026-07-25",
     "tags": [
+      "4時間以上作品",
       "独占配信",
       "巨乳",
       "ドキュメンタリー",
       "妄想族",
-      "性転換・女体化",
-      "3P・4P"
+      "性転換・女体化"
     ],
     "badge": "NEW",
     "thumb": "https://pics.dmm.co.jp/digital/video/tsf00024/tsf00024pl.jpg",
@@ -1674,12 +1674,12 @@ const worksData = [
     "code": "KAGP00401",
     "date": "2026-07-25",
     "tags": [
+      "4時間以上作品",
       "独占配信",
       "素人",
       "美少女",
       "局部アップ",
-      "妄想族",
-      "その他フェチ"
+      "妄想族"
     ],
     "badge": "NEW",
     "thumb": "https://pics.dmm.co.jp/digital/video/kagp00401/kagp00401pl.jpg",
@@ -1787,12 +1787,12 @@ const worksData = [
     "code": "HALT00089",
     "date": "2026-07-25",
     "tags": [
+      "ハイビジョン",
+      "4K",
       "独占配信",
       "OL",
       "足コキ",
-      "寝取り・寝取られ・NTR",
-      "パンスト・タイツ",
-      "巨尻"
+      "寝取り・寝取られ・NTR"
     ],
     "badge": "NEW",
     "thumb": "https://pics.dmm.co.jp/digital/video/halt00089/halt00089pl.jpg",
