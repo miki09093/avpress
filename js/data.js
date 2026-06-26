@@ -95,6 +95,25 @@ const worksData = [
     "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dvrkm01847%2F&af_id=mio3lu-990&ch=api"
   },
   {
+    "id": "savr01125",
+    "title": "【VR】「先生、セックスさせてあげるので、内申点くれませんか？」真面目で可愛い教え子のささやき淫語満載のえっち大作戦！！ 日向由奈",
+    "actress": "日向由奈",
+    "maker": "KMPVR-彩-",
+    "code": "SAVR01125",
+    "date": "2026-08-01",
+    "tags": [
+      "ハイクオリティVR",
+      "8KVR",
+      "単体作品",
+      "VR専用",
+      "独占配信",
+      "騎乗位"
+    ],
+    "badge": "VR",
+    "thumb": "https://pics.dmm.co.jp/digital/video/savr01125/savr01125pl.jpg",
+    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dsavr01125%2F&af_id=mio3lu-990&ch=api"
+  },
+  {
     "id": "h_1714grace00035",
     "title": "加奈を独占―君の聖域＜Vライン＞にピントを合わせて― 日下部加奈",
     "actress": "日下部加奈",
@@ -406,12 +425,12 @@ const worksData = [
     "code": "TANP00054",
     "date": "2026-07-25",
     "tags": [
+      "ハイビジョン",
+      "4K",
       "独占配信",
       "イラマチオ",
       "女装・男の娘",
-      "アナルセックス（男の娘）",
-      "妄想族",
-      "ニューハーフ"
+      "アナルセックス（男の娘）"
     ],
     "badge": "NEW",
     "thumb": "https://pics.dmm.co.jp/digital/video/tanp00054/tanp00054pl.jpg",
@@ -1297,11 +1316,12 @@ const worksData = [
     "code": "MGHT00393",
     "date": "2026-07-25",
     "tags": [
+      "ハイビジョン",
+      "4K",
       "4時間以上作品",
       "独占配信",
       "熟女",
-      "人妻・主婦",
-      "ベスト・総集編"
+      "人妻・主婦"
     ],
     "badge": "NEW",
     "thumb": "https://pics.dmm.co.jp/digital/video/mght00393/mght00393pl.jpg",
@@ -1315,11 +1335,12 @@ const worksData = [
     "code": "MGHT00392",
     "date": "2026-07-25",
     "tags": [
+      "ハイビジョン",
+      "4K",
       "4時間以上作品",
       "独占配信",
       "ベスト・総集編",
-      "人妻・主婦",
-      "熟女"
+      "人妻・主婦"
     ],
     "badge": "NEW",
     "thumb": "https://pics.dmm.co.jp/digital/video/mght00392/mght00392pl.jpg",
@@ -1333,12 +1354,12 @@ const worksData = [
     "code": "MGHT00391",
     "date": "2026-07-25",
     "tags": [
+      "ハイビジョン",
+      "4K",
       "4時間以上作品",
       "独占配信",
       "女優ベスト・総集編",
-      "人妻・主婦",
-      "単体作品",
-      "熟女"
+      "人妻・主婦"
     ],
     "badge": "NEW",
     "thumb": "https://pics.dmm.co.jp/digital/video/mght00391/mght00391pl.jpg",
@@ -1871,24 +1892,5 @@ const worksData = [
     "badge": "NEW",
     "thumb": "https://pics.dmm.co.jp/digital/video/gqe00124/gqe00124pl.jpg",
     "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dgqe00124%2F&af_id=mio3lu-990&ch=api"
-  },
-  {
-    "id": "gohm00011",
-    "title": "【GAL PARTY】 欲望に忠実すぎる今時ヤリマンギャル達の限界突破パ～リ～ッッ4！！GAL4名",
-    "actress": "不明",
-    "maker": "はめちゃんGOLD/妄想族",
-    "code": "GOHM00011",
-    "date": "2026-07-25",
-    "tags": [
-      "4時間以上作品",
-      "独占配信",
-      "乱交",
-      "素人",
-      "妄想族",
-      "巨尻"
-    ],
-    "badge": "NEW",
-    "thumb": "https://pics.dmm.co.jp/digital/video/gohm00011/gohm00011pl.jpg",
-    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dgohm00011%2F&af_id=mio3lu-990&ch=api"
   }
 ];
