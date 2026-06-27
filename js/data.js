@@ -247,6 +247,23 @@ const worksData = [
     "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Djqre00026%2F&af_id=mio3lu-990&ch=api"
   },
   {
+    "id": "h_1832msoc00060",
+    "title": "恵比寿のマンション型個室メンエス- マッサージしあいっこオプション・ふたばちぐさ（24歳）",
+    "actress": "不明",
+    "maker": "メンエス・オナクラ盗撮",
+    "code": "H_1832MSOC00060",
+    "date": "2026-07-28",
+    "tags": [
+      "ハイビジョン",
+      "エステ",
+      "盗撮・のぞき",
+      "素人"
+    ],
+    "badge": "NEW",
+    "thumb": "https://pics.dmm.co.jp/digital/video/h_1832msoc00060/h_1832msoc00060pt.jpg",
+    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dh_1832msoc00060%2F&af_id=mio3lu-990&ch=api"
+  },
+  {
     "id": "vrkm01829",
     "title": "【VR】虐めてあげる！逆M言葉責めBEST 300分",
     "actress": "木下ひまり（花沢ひまり）、椿りか、小那海あや、尾崎えりか、鈴木真夕、新井リマ、大槻ひびき、百永さりな、森日向子、森沢かな（飯岡かなこ）、森本あかり、佐藤ののか（加藤ももか）、夏川あゆみ、瀬那ルミナ、皆月ひかる",
@@ -369,11 +386,11 @@ const worksData = [
     "date": "2026-07-25",
     "tags": [
       "4時間以上作品",
+      "ハイビジョン",
       "独占配信",
       "巨乳",
       "ドキュメンタリー",
-      "妄想族",
-      "性転換・女体化"
+      "妄想族"
     ],
     "badge": "NEW",
     "thumb": "https://pics.dmm.co.jp/digital/video/tsf00024/tsf00024pl.jpg",
@@ -1354,9 +1371,9 @@ const worksData = [
     "code": "MGHT00391",
     "date": "2026-07-25",
     "tags": [
+      "4時間以上作品",
       "ハイビジョン",
       "4K",
-      "4時間以上作品",
       "独占配信",
       "女優ベスト・総集編",
       "人妻・主婦"
@@ -1696,11 +1713,11 @@ const worksData = [
     "date": "2026-07-25",
     "tags": [
       "4時間以上作品",
+      "ハイビジョン",
       "独占配信",
       "素人",
       "美少女",
-      "局部アップ",
-      "妄想族"
+      "局部アップ"
     ],
     "badge": "NEW",
     "thumb": "https://pics.dmm.co.jp/digital/video/kagp00401/kagp00401pl.jpg",
@@ -1873,24 +1890,5 @@ const worksData = [
     "badge": "NEW",
     "thumb": "https://pics.dmm.co.jp/digital/video/gqn00013/gqn00013pl.jpg",
     "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dgqn00013%2F&af_id=mio3lu-990&ch=api"
-  },
-  {
-    "id": "gqe00124",
-    "title": "グローリークエスト 2026 上半期 総集編 84タイトル 104人 600分スペシャル",
-    "actress": "不明",
-    "maker": "グローリークエスト",
-    "code": "GQE00124",
-    "date": "2026-07-25",
-    "tags": [
-      "4時間以上作品",
-      "ハイビジョン",
-      "独占配信",
-      "その他フェチ",
-      "淫乱・ハード系",
-      "ベスト・総集編"
-    ],
-    "badge": "NEW",
-    "thumb": "https://pics.dmm.co.jp/digital/video/gqe00124/gqe00124pl.jpg",
-    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dgqe00124%2F&af_id=mio3lu-990&ch=api"
   }
 ];
