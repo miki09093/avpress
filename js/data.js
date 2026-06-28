@@ -1,5 +1,24 @@
 const worksData = [
   {
+    "id": "h_1714grace00036",
+    "title": "Honey＆Pretty アリスの蜜愛ヌード 日下部加奈",
+    "actress": "日下部加奈",
+    "maker": "grace",
+    "code": "H_1714GRACE00036",
+    "date": "2026-08-29",
+    "tags": [
+      "ハイビジョン",
+      "単体作品",
+      "その他フェチ",
+      "セクシー",
+      "着エロ",
+      "美乳"
+    ],
+    "badge": "NEW",
+    "thumb": "https://pics.dmm.co.jp/digital/video/h_1714grace00036/h_1714grace00036pl.jpg",
+    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dh_1714grace00036%2F&af_id=mio3lu-990&ch=api"
+  },
+  {
     "id": "vrkm01868",
     "title": "【VR】スローセックスVR ～女社長エナの射精管理～ 沙月恵奈",
     "actress": "沙月恵奈",
@@ -55,6 +74,25 @@ const worksData = [
     "badge": "VR",
     "thumb": "https://pics.dmm.co.jp/digital/video/vrkm01871/vrkm01871pl.jpg",
     "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dvrkm01871%2F&af_id=mio3lu-990&ch=api"
+  },
+  {
+    "id": "vrprd00198",
+    "title": "【VR】【8K】【パイズリ特化】パイズリおっぱい親子丼ハーレム隣に引っ越してきた僕はお隣さんのWおっぱいで悶絶3PSEXしまくった話「母:真綾さん 92cmHcup 娘:ふうさん 88cmFcup」",
+    "actress": "入田真綾、渡来ふう",
+    "maker": "VRパラダイス",
+    "code": "VRPRD00198",
+    "date": "2026-08-06",
+    "tags": [
+      "ハイクオリティVR",
+      "8KVR",
+      "VR専用",
+      "独占配信",
+      "中出し",
+      "騎乗位"
+    ],
+    "badge": "VR",
+    "thumb": "https://pics.dmm.co.jp/digital/video/vrprd00198/vrprd00198pl.jpg",
+    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dvrprd00198%2F&af_id=mio3lu-990&ch=api"
   },
   {
     "id": "vrkm01869",
@@ -385,8 +423,8 @@ const worksData = [
     "code": "TSF00024",
     "date": "2026-07-25",
     "tags": [
-      "4時間以上作品",
       "ハイビジョン",
+      "4時間以上作品",
       "独占配信",
       "巨乳",
       "ドキュメンタリー",
@@ -1712,8 +1750,8 @@ const worksData = [
     "code": "KAGP00401",
     "date": "2026-07-25",
     "tags": [
-      "4時間以上作品",
       "ハイビジョン",
+      "4時間以上作品",
       "独占配信",
       "素人",
       "美少女",
@@ -1852,43 +1890,5 @@ const worksData = [
     "badge": "NEW",
     "thumb": "https://pics.dmm.co.jp/digital/video/h_1832msoc00059/h_1832msoc00059pt.jpg",
     "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dh_1832msoc00059%2F&af_id=mio3lu-990&ch=api"
-  },
-  {
-    "id": "gvh00864",
-    "title": "真夏の蒸れた黒パンストデカ尻OLが美脚杭打ちピストン騎乗位で男潮吹くまで抜きまくる逆お持ち帰り痴女ハウス 小那海あや",
-    "actress": "小那海あや",
-    "maker": "グローリークエスト",
-    "code": "GVH00864",
-    "date": "2026-07-25",
-    "tags": [
-      "ハイビジョン",
-      "独占配信",
-      "OL",
-      "痴女",
-      "パンスト・タイツ",
-      "単体作品"
-    ],
-    "badge": "NEW",
-    "thumb": "https://pics.dmm.co.jp/digital/video/gvh00864/gvh00864pl.jpg",
-    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dgvh00864%2F&af_id=mio3lu-990&ch=api"
-  },
-  {
-    "id": "gqn00013",
-    "title": "至高の生膣、ついに解禁。森沢かな、最高の真正中出し愛人。",
-    "actress": "森沢かな（飯岡かなこ）",
-    "maker": "グローリークエスト",
-    "code": "GQN00013",
-    "date": "2026-07-25",
-    "tags": [
-      "ハイビジョン",
-      "独占配信",
-      "ぶっかけ",
-      "中出し",
-      "単体作品",
-      "痴女"
-    ],
-    "badge": "NEW",
-    "thumb": "https://pics.dmm.co.jp/digital/video/gqn00013/gqn00013pl.jpg",
-    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dgqn00013%2F&af_id=mio3lu-990&ch=api"
   }
 ];
