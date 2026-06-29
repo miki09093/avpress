@@ -171,6 +171,25 @@ const worksData = [
     "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dh_1714grace00035%2F&af_id=mio3lu-990&ch=api"
   },
   {
+    "id": "dsuvr00003",
+    "title": "【VR】【8K】先っぽ1cm挿入焦らしで早漏改善トレーニング！汗だく杭打ち騎乗位で暴発精子をみっちり搾り抜くデカ尻インストラクター 小野坂ゆいか",
+    "actress": "小野坂ゆいか",
+    "maker": "ディープス",
+    "code": "DSUVR00003",
+    "date": "2026-07-31",
+    "tags": [
+      "ハイクオリティVR",
+      "8KVR",
+      "単体作品",
+      "VR専用",
+      "独占配信",
+      "巨乳"
+    ],
+    "badge": "VR",
+    "thumb": "https://pics.dmm.co.jp/digital/video/dsuvr00003/dsuvr00003pl.jpg",
+    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Ddsuvr00003%2F&af_id=mio3lu-990&ch=api"
+  },
+  {
     "id": "bibivr00173",
     "title": "【VR】都内某所にあるハメ放題のセクシーラウンジで人生終了するくらい金も精子も注ぎ込み！！富豪の極みSUPERVIP 6P連続中出し 小那海あや 尾崎えりか 椿りか 末広純 弥生みづき",
     "actress": "小那海あや、尾崎えりか、椿りか、末広純、弥生みづき",
@@ -207,6 +226,63 @@ const worksData = [
     "badge": "VR",
     "thumb": "https://pics.dmm.co.jp/digital/video/vrkm01849/vrkm01849pl.jpg",
     "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dvrkm01849%2F&af_id=mio3lu-990&ch=api"
+  },
+  {
+    "id": "h_1729goji00108",
+    "title": "「もう壊れちゃいなさい…」純真な18歳の黒髪美少女2人がオチ〇ポ大好きな変態オナペットへと堕ちる、容赦なしの孕ませセックス",
+    "actress": "不明",
+    "maker": "五次元",
+    "code": "H_1729GOJI00108",
+    "date": "2026-07-29",
+    "tags": [
+      "美少女",
+      "美乳",
+      "競泳・スクール水着",
+      "制服",
+      "複数話",
+      "ハイビジョン"
+    ],
+    "badge": "NEW",
+    "thumb": "https://pics.dmm.co.jp/digital/video/h_1729goji00108/h_1729goji00108pl.jpg",
+    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dh_1729goji00108%2F&af_id=mio3lu-990&ch=api"
+  },
+  {
+    "id": "h_1729goji00107",
+    "title": "欲求不満の奥さん狙って持ち帰り！イケメン自宅で交尾するまでの完全盗撮・チョロすぎる素人人妻4名おまとめスペシャル",
+    "actress": "不明",
+    "maker": "五次元",
+    "code": "H_1729GOJI00107",
+    "date": "2026-07-29",
+    "tags": [
+      "美乳",
+      "人妻・主婦",
+      "騎乗位",
+      "パイズリ",
+      "素人",
+      "ナンパ"
+    ],
+    "badge": "NEW",
+    "thumb": "https://pics.dmm.co.jp/digital/video/h_1729goji00107/h_1729goji00107pl.jpg",
+    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dh_1729goji00107%2F&af_id=mio3lu-990&ch=api"
+  },
+  {
+    "id": "h_1729goji00106",
+    "title": "「私をペットとして飼ってください…」狂った愛情で幼なじみを調教し尽くす、絶対服従のドMペット化・完全飼育マニュアル",
+    "actress": "不明",
+    "maker": "五次元",
+    "code": "H_1729GOJI00106",
+    "date": "2026-07-29",
+    "tags": [
+      "スレンダー",
+      "美少女",
+      "M女",
+      "拘束",
+      "ドラマ",
+      "ハイビジョン"
+    ],
+    "badge": "NEW",
+    "thumb": "https://pics.dmm.co.jp/digital/video/h_1729goji00106/h_1729goji00106pl.jpg",
+    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dh_1729goji00106%2F&af_id=mio3lu-990&ch=api"
   },
   {
     "id": "smjb00024",
@@ -1817,78 +1893,5 @@ const worksData = [
     "badge": "NEW",
     "thumb": "https://pics.dmm.co.jp/digital/video/hoiz00212/hoiz00212pl.jpg",
     "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dhoiz00212%2F&af_id=mio3lu-990&ch=api"
-  },
-  {
-    "id": "hmix00058",
-    "title": "中高年夫婦の濃厚密着性交 お互いが男と女に戻る夜、溢れる気持ちが再燃し求め合う中高年の貪欲セックス 20人 4時間",
-    "actress": "鈴河めぐみ、加藤ツバキ（夏樹カオル）、松尾江里子、永田成子、植木翔子、冨永真妃、高瀬智香、風間ゆみ、松永雪子、柏木舞子、平岡里枝子、北村敏世、汐河佳奈、美ノ辺さやか、福山いろは、烏丸まどか、鮎川るい、黒木まり、倉科みどり、成田かなこ",
-    "maker": "グローバルメディアエンタテインメント",
-    "code": "HMIX00058",
-    "date": "2026-07-25",
-    "tags": [
-      "独占配信",
-      "人妻・主婦",
-      "熟女",
-      "ベスト・総集編",
-      "不倫"
-    ],
-    "badge": "NEW",
-    "thumb": "https://pics.dmm.co.jp/digital/video/hmix00058/hmix00058pl.jpg",
-    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dhmix00058%2F&af_id=mio3lu-990&ch=api"
-  },
-  {
-    "id": "hery00172",
-    "title": "僕は男の娘に恋をする 氷上えり",
-    "actress": "氷上えり",
-    "maker": "イエロー/妄想族",
-    "code": "HERY00172",
-    "date": "2026-07-25",
-    "tags": [
-      "ハイビジョン",
-      "独占配信",
-      "ニューハーフ",
-      "スレンダー",
-      "淫乱・ハード系",
-      "妄想族"
-    ],
-    "badge": "NEW",
-    "thumb": "https://pics.dmm.co.jp/digital/video/hery00172/hery00172pl.jpg",
-    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dhery00172%2F&af_id=mio3lu-990&ch=api"
-  },
-  {
-    "id": "halt00089",
-    "title": "「明日、結婚するんだよね？」出張先のホテルで相部屋になった女上司が1日中履いて蒸れきったパンスト足裏で結婚前夜の部下の理性を壊す脚責め逆NTR 宍戸里帆",
-    "actress": "宍戸里帆",
-    "maker": "HALENTINO/妄想族",
-    "code": "HALT00089",
-    "date": "2026-07-25",
-    "tags": [
-      "ハイビジョン",
-      "4K",
-      "独占配信",
-      "OL",
-      "足コキ",
-      "寝取り・寝取られ・NTR"
-    ],
-    "badge": "NEW",
-    "thumb": "https://pics.dmm.co.jp/digital/video/halt00089/halt00089pl.jpg",
-    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dhalt00089%2F&af_id=mio3lu-990&ch=api"
-  },
-  {
-    "id": "h_1832msoc00059",
-    "title": "恵比寿のマンション型個室メンエス- パイ揉みオプション・あまはみゆ（25歳）",
-    "actress": "不明",
-    "maker": "メンエス・オナクラ盗撮",
-    "code": "H_1832MSOC00059",
-    "date": "2026-07-25",
-    "tags": [
-      "ハイビジョン",
-      "エステ",
-      "盗撮・のぞき",
-      "素人"
-    ],
-    "badge": "NEW",
-    "thumb": "https://pics.dmm.co.jp/digital/video/h_1832msoc00059/h_1832msoc00059pt.jpg",
-    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dh_1832msoc00059%2F&af_id=mio3lu-990&ch=api"
   }
 ];
