@@ -19,6 +19,25 @@ const worksData = [
     "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dh_1714grace00036%2F&af_id=mio3lu-990&ch=api"
   },
   {
+    "id": "vrkm01872",
+    "title": "【VR】これぞ8K！顔面特化アングルVR ～顔面偏差値が高いラウンジ嬢と最後の濃厚不倫SEX～ 幸村泉希",
+    "actress": "幸村泉希",
+    "maker": "ケイ・エム・プロデュース",
+    "code": "VRKM01872",
+    "date": "2026-08-21",
+    "tags": [
+      "ハイクオリティVR",
+      "8KVR",
+      "単体作品",
+      "VR専用",
+      "独占配信",
+      "中出し"
+    ],
+    "badge": "VR",
+    "thumb": "https://pics.dmm.co.jp/digital/video/vrkm01872/vrkm01872pl.jpg",
+    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dvrkm01872%2F&af_id=mio3lu-990&ch=api"
+  },
+  {
     "id": "vrkm01868",
     "title": "【VR】スローセックスVR ～女社長エナの射精管理～ 沙月恵奈",
     "actress": "沙月恵奈",
@@ -76,6 +95,25 @@ const worksData = [
     "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dvrkm01871%2F&af_id=mio3lu-990&ch=api"
   },
   {
+    "id": "vrkm01857",
+    "title": "【VR】月野かすみ 初VR SUPER BEST 10作品300分",
+    "actress": "月野かすみ",
+    "maker": "ケイ・エム・プロデュース",
+    "code": "VRKM01857",
+    "date": "2026-08-07",
+    "tags": [
+      "4時間以上作品",
+      "ハイクオリティVR",
+      "8KVR",
+      "単体作品",
+      "VR専用",
+      "独占配信"
+    ],
+    "badge": "VR",
+    "thumb": "https://pics.dmm.co.jp/digital/video/vrkm01857/vrkm01857pl.jpg",
+    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dvrkm01857%2F&af_id=mio3lu-990&ch=api"
+  },
+  {
     "id": "vrprd00198",
     "title": "【VR】【8K】【パイズリ特化】パイズリおっぱい親子丼ハーレム隣に引っ越してきた僕はお隣さんのWおっぱいで悶絶3PSEXしまくった話「母:真綾さん 92cmHcup 娘:ふうさん 88cmFcup」",
     "actress": "入田真綾、渡来ふう",
@@ -114,6 +152,44 @@ const worksData = [
     "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dvrkm01869%2F&af_id=mio3lu-990&ch=api"
   },
   {
+    "id": "vrkm01862",
+    "title": "【VR】これが令和のブチアゲSEXパーティー！！やっぱレベチなギャルはNO SEX NO LIFE 1000分OVER 8KノーカットBEST",
+    "actress": "藍瀬ミナ、百永さりな、黒咲華、瀬那ルミナ、蘭々、新井リマ、椿りか、鳳カレン、AIKA、斎藤あみり、月妃さら、水奈瀬りな、春陽モカ",
+    "maker": "ケイ・エム・プロデュース",
+    "code": "VRKM01862",
+    "date": "2026-08-04",
+    "tags": [
+      "ハイクオリティVR",
+      "8KVR",
+      "16時間以上作品",
+      "セット商品",
+      "VR専用",
+      "独占配信"
+    ],
+    "badge": "VR",
+    "thumb": "https://pics.dmm.co.jp/digital/video/vrkm01862/vrkm01862pl.jpg",
+    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dvrkm01862%2F&af_id=mio3lu-990&ch=api"
+  },
+  {
+    "id": "vrkm01852",
+    "title": "【VR】超甘やかしバブみせぇっくちゅ！BEST15タイトル300分",
+    "actress": "北岡果林、逢沢みゆ、月野かすみ、沙月恵奈、北野未奈、尾崎えりか、小那海あや、わか菜ほの、小早川怜子、加藤妃乃、透美かなた、優梨まいな、那賀崎ゆきね、葉月まゆ、末広純",
+    "maker": "ケイ・エム・プロデュース",
+    "code": "VRKM01852",
+    "date": "2026-08-03",
+    "tags": [
+      "4時間以上作品",
+      "ハイクオリティVR",
+      "8KVR",
+      "VR専用",
+      "独占配信",
+      "ベスト・総集編"
+    ],
+    "badge": "VR",
+    "thumb": "https://pics.dmm.co.jp/digital/video/vrkm01852/vrkm01852pl.jpg",
+    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dvrkm01852%2F&af_id=mio3lu-990&ch=api"
+  },
+  {
     "id": "vrkm01847",
     "title": "【VR】KMP専属！アヘ顔の天才！！えなち2！！！ 沙月恵奈",
     "actress": "沙月恵奈",
@@ -150,6 +226,42 @@ const worksData = [
     "badge": "VR",
     "thumb": "https://pics.dmm.co.jp/digital/video/savr01125/savr01125pl.jpg",
     "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dsavr01125%2F&af_id=mio3lu-990&ch=api"
+  },
+  {
+    "id": "h_1832msoc00061",
+    "title": "恵比寿のマンション型個室メンエス- 太ももコキオプション・ふたばちぐさ（24歳）2回目",
+    "actress": "不明",
+    "maker": "メンエス・オナクラ盗撮",
+    "code": "H_1832MSOC00061",
+    "date": "2026-08-01",
+    "tags": [
+      "ハイビジョン",
+      "エステ",
+      "盗撮・のぞき",
+      "素人"
+    ],
+    "badge": "NEW",
+    "thumb": "https://pics.dmm.co.jp/digital/video/h_1832msoc00061/h_1832msoc00061pt.jpg",
+    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dh_1832msoc00061%2F&af_id=mio3lu-990&ch=api"
+  },
+  {
+    "id": "savr01129",
+    "title": "【VR】【パンチラ・太もも・モチ肌・お尻・性欲】一途にボクを愛する制服生徒の全乗せ誘惑に抗うことなんて出来るわけが無かった。月野江すい",
+    "actress": "月野江すい",
+    "maker": "KMPVR-彩-",
+    "code": "SAVR01129",
+    "date": "2026-07-31",
+    "tags": [
+      "ハイクオリティVR",
+      "8KVR",
+      "単体作品",
+      "VR専用",
+      "独占配信",
+      "その他フェチ"
+    ],
+    "badge": "VR",
+    "thumb": "https://pics.dmm.co.jp/digital/video/savr01129/savr01129pl.jpg",
+    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dsavr01129%2F&af_id=mio3lu-990&ch=api"
   },
   {
     "id": "h_1714grace00035",
@@ -395,6 +507,25 @@ const worksData = [
     "badge": "VR",
     "thumb": "https://pics.dmm.co.jp/digital/video/vrkm01829/vrkm01829pl.jpg",
     "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dvrkm01829%2F&af_id=mio3lu-990&ch=api"
+  },
+  {
+    "id": "savr01133",
+    "title": "【VR】精神安定剤=乳吸い。外科医の凄腕オンナ医師は手術前夜の患者が抱える緊張と恐怖をたわわなオッパイで解きほぐす。 羽月乃蒼",
+    "actress": "羽月乃蒼",
+    "maker": "KMPVR-彩-",
+    "code": "SAVR01133",
+    "date": "2026-07-27",
+    "tags": [
+      "ハイクオリティVR",
+      "8KVR",
+      "単体作品",
+      "VR専用",
+      "独占配信",
+      "騎乗位"
+    ],
+    "badge": "VR",
+    "thumb": "https://pics.dmm.co.jp/digital/video/savr01133/savr01133pl.jpg",
+    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dsavr01133%2F&af_id=mio3lu-990&ch=api"
   },
   {
     "id": "vrkm01865",
@@ -1485,9 +1616,9 @@ const worksData = [
     "code": "MGHT00391",
     "date": "2026-07-25",
     "tags": [
-      "4時間以上作品",
       "ハイビジョン",
       "4K",
+      "4時間以上作品",
       "独占配信",
       "女優ベスト・総集編",
       "人妻・主婦"
@@ -1760,138 +1891,5 @@ const worksData = [
     "badge": "NEW",
     "thumb": "https://pics.dmm.co.jp/digital/video/ksat00108/ksat00108pl.jpg",
     "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dksat00108%2F&af_id=mio3lu-990&ch=api"
-  },
-  {
-    "id": "kcda00328",
-    "title": "HYPER FETISH ハイレグデカ尻RQ濃厚ザーメンぶっかけ4時間",
-    "actress": "姫咲はな、宝田もなみ、佐伯由美香、結城りの、永野つかさ、羽生アリサ（羽生ありさ）、優月まりな、若宮はずき、滝ゆいな、東条蒼、REMI、本真ゆり、霜月るな、木下ひまり（花沢ひまり）、瀬崎彩音、栗山絵麻、前嶋美樹、藤咲サラ、若月みいな、中条カノン、滝川穂乃果、有森涼（事原みゆ）、高坂あいり、渋谷華、葉月美音",
-    "maker": "デジタルアーク",
-    "code": "KCDA00328",
-    "date": "2026-07-25",
-    "tags": [
-      "独占配信",
-      "パンスト・タイツ",
-      "レオタード",
-      "ベスト・総集編",
-      "ぶっかけ",
-      "尻フェチ"
-    ],
-    "badge": "NEW",
-    "thumb": "https://pics.dmm.co.jp/digital/video/kcda00328/kcda00328pl.jpg",
-    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dkcda00328%2F&af_id=mio3lu-990&ch=api"
-  },
-  {
-    "id": "kbtk00024",
-    "title": "東京恋人 すれ違う夫婦関係、他人に潤いと救いを求める満たされない美人妻たち280分8発射！！",
-    "actress": "不明",
-    "maker": "東京恋人",
-    "code": "KBTK00024",
-    "date": "2026-07-25",
-    "tags": [
-      "4時間以上作品",
-      "ハイビジョン",
-      "独占配信",
-      "素人",
-      "熟女",
-      "不倫"
-    ],
-    "badge": "NEW",
-    "thumb": "https://pics.dmm.co.jp/digital/video/kbtk00024/kbtk00024pl.jpg",
-    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dkbtk00024%2F&af_id=mio3lu-990&ch=api"
-  },
-  {
-    "id": "kbms00211",
-    "title": "うんこのこ 谷村優希",
-    "actress": "谷村優希",
-    "maker": "1113工房/妄想族",
-    "code": "KBMS00211",
-    "date": "2026-07-25",
-    "tags": [
-      "独占配信",
-      "放尿・お漏らし",
-      "その他フェチ",
-      "脱糞",
-      "単体作品",
-      "妄想族"
-    ],
-    "badge": "NEW",
-    "thumb": "https://pics.dmm.co.jp/digital/video/kbms00211/kbms00211pl.jpg",
-    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dkbms00211%2F&af_id=mio3lu-990&ch=api"
-  },
-  {
-    "id": "kagp00401",
-    "title": "おマ●コとアナルがハッキリ見える3 素人娘の超接写オナニー 50人 5時間",
-    "actress": "不明",
-    "maker": "かぐや姫Pt/妄想族",
-    "code": "KAGP00401",
-    "date": "2026-07-25",
-    "tags": [
-      "ハイビジョン",
-      "4時間以上作品",
-      "独占配信",
-      "素人",
-      "美少女",
-      "局部アップ"
-    ],
-    "badge": "NEW",
-    "thumb": "https://pics.dmm.co.jp/digital/video/kagp00401/kagp00401pl.jpg",
-    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dkagp00401%2F&af_id=mio3lu-990&ch=api"
-  },
-  {
-    "id": "juyu00006",
-    "title": "新・麗しの熟女湯屋 極 濃密ぬるべちょ快感ソープ 寺島志保",
-    "actress": "寺島志保",
-    "maker": "グローバルメディアエンタテインメント",
-    "code": "JUYU00006",
-    "date": "2026-07-25",
-    "tags": [
-      "独占配信",
-      "単体作品",
-      "ローション・オイル",
-      "和服・浴衣",
-      "ヘルス・ソープ",
-      "熟女"
-    ],
-    "badge": "NEW",
-    "thumb": "https://pics.dmm.co.jp/digital/video/juyu00006/juyu00006pl.jpg",
-    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Djuyu00006%2F&af_id=mio3lu-990&ch=api"
-  },
-  {
-    "id": "homa00167",
-    "title": "僕をオモチャ扱いしてくれるお姉ちゃん 北野未奈",
-    "actress": "北野未奈",
-    "maker": "h.m.p DORAMA",
-    "code": "HOMA00167",
-    "date": "2026-07-25",
-    "tags": [
-      "独占配信",
-      "中出し",
-      "単体作品",
-      "巨乳",
-      "淫語",
-      "痴女"
-    ],
-    "badge": "NEW",
-    "thumb": "https://pics.dmm.co.jp/digital/video/homa00167/homa00167pl.jpg",
-    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dhoma00167%2F&af_id=mio3lu-990&ch=api"
-  },
-  {
-    "id": "hoiz00212",
-    "title": "【720分19名】 ホイホイロード12 グラマラス美女No.1決定戦 THE W ～厳選＆未公開～ 素人ホイホイの上玉素人達の中から一番絶倫マ●コ‘ドスケベ女王‘が決まる！ ハメ撮り・個撮・ワンナイト・マッチングアプリ・SNS・顔射・素人・カップル・宅飲み・巨乳・痴女・潮吹き",
-    "actress": "不明",
-    "maker": "素人ホイホイ/妄想族",
-    "code": "HOIZ00212",
-    "date": "2026-07-25",
-    "tags": [
-      "独占配信",
-      "素人",
-      "妄想族",
-      "巨乳",
-      "ベスト・総集編",
-      "美少女"
-    ],
-    "badge": "NEW",
-    "thumb": "https://pics.dmm.co.jp/digital/video/hoiz00212/hoiz00212pl.jpg",
-    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dhoiz00212%2F&af_id=mio3lu-990&ch=api"
   }
 ];
