@@ -1,5 +1,24 @@
 const worksData = [
   {
+    "id": "vrkm01889",
+    "title": "【VR】響蓮に沼る",
+    "actress": "響蓮",
+    "maker": "ケイ・エム・プロデュース",
+    "code": "VRKM01889",
+    "date": "2026-09-09",
+    "tags": [
+      "ハイクオリティVR",
+      "8KVR",
+      "単体作品",
+      "VR専用",
+      "独占配信",
+      "中出し"
+    ],
+    "badge": "VR",
+    "thumb": "https://pics.dmm.co.jp/digital/video/vrkm01889/vrkm01889pl.jpg",
+    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dvrkm01889%2F&af_id=mio3lu-990&ch=api"
+  },
+  {
     "id": "h_1714grace00036",
     "title": "Honey＆Pretty アリスの蜜愛ヌード 日下部加奈",
     "actress": "日下部加奈",
@@ -17,6 +36,25 @@ const worksData = [
     "badge": "NEW",
     "thumb": "https://pics.dmm.co.jp/digital/video/h_1714grace00036/h_1714grace00036pl.jpg",
     "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dh_1714grace00036%2F&af_id=mio3lu-990&ch=api"
+  },
+  {
+    "id": "vrkm01870",
+    "title": "【VR】笑顔をひとりじめ！性欲が止まらない蓮とのエロい日常…。 響蓮",
+    "actress": "響蓮",
+    "maker": "ケイ・エム・プロデュース",
+    "code": "VRKM01870",
+    "date": "2026-08-26",
+    "tags": [
+      "ハイクオリティVR",
+      "8KVR",
+      "単体作品",
+      "VR専用",
+      "独占配信",
+      "中出し"
+    ],
+    "badge": "VR",
+    "thumb": "https://pics.dmm.co.jp/digital/video/vrkm01870/vrkm01870pl.jpg",
+    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dvrkm01870%2F&af_id=mio3lu-990&ch=api"
   },
   {
     "id": "vrkm01872",
@@ -131,6 +169,25 @@ const worksData = [
     "badge": "VR",
     "thumb": "https://pics.dmm.co.jp/digital/video/vrprd00198/vrprd00198pl.jpg",
     "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dvrprd00198%2F&af_id=mio3lu-990&ch=api"
+  },
+  {
+    "id": "1nhvr00226",
+    "title": "【VR】県民プールで男水着チャレンジしてた…つるぺた天使み～っけ！中出しおちんちんがバカ気持ちぃすぎてアへ顔特化っちゃったじゃんw 冬愛ことね",
+    "actress": "冬愛ことね",
+    "maker": "ナチュラルハイ",
+    "code": "1NHVR00226",
+    "date": "2026-08-06",
+    "tags": [
+      "ハイクオリティVR",
+      "8KVR",
+      "単体作品",
+      "VR専用",
+      "中出し",
+      "貧乳・微乳"
+    ],
+    "badge": "VR",
+    "thumb": "https://pics.dmm.co.jp/digital/video/1nhvr00226/1nhvr00226pl.jpg",
+    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3D1nhvr00226%2F&af_id=mio3lu-990&ch=api"
   },
   {
     "id": "vrkm01869",
@@ -264,6 +321,25 @@ const worksData = [
     "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dsavr01129%2F&af_id=mio3lu-990&ch=api"
   },
   {
+    "id": "h_1838erkr01119",
+    "title": "風俗嬢 あき＆AIKA",
+    "actress": "不明",
+    "maker": "アマTV",
+    "code": "H_1838ERKR01119",
+    "date": "2026-07-31",
+    "tags": [
+      "ハイビジョン",
+      "中出し",
+      "ハメ撮り",
+      "キャバ嬢・風俗嬢",
+      "ヘルス・ソープ",
+      "美乳"
+    ],
+    "badge": "NEW",
+    "thumb": "https://pics.dmm.co.jp/digital/video/h_1838erkr01119/h_1838erkr01119pl.jpg",
+    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dh_1838erkr01119%2F&af_id=mio3lu-990&ch=api"
+  },
+  {
     "id": "h_1714grace00035",
     "title": "加奈を独占―君の聖域＜Vライン＞にピントを合わせて― 日下部加奈",
     "actress": "日下部加奈",
@@ -338,6 +414,44 @@ const worksData = [
     "badge": "VR",
     "thumb": "https://pics.dmm.co.jp/digital/video/vrkm01849/vrkm01849pl.jpg",
     "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dvrkm01849%2F&af_id=mio3lu-990&ch=api"
+  },
+  {
+    "id": "h_1757olm00343",
+    "title": "ママ友界隈で「夫にナイショの中出し」が流行ってるらしい-それ、ただの不倫やないかい！-",
+    "actress": "不明",
+    "maker": "オリンポス",
+    "code": "H_1757OLM00343",
+    "date": "2026-07-29",
+    "tags": [
+      "中出し",
+      "フェラ",
+      "バック",
+      "手コキ",
+      "寝取り・寝取られ・NTR",
+      "熟女"
+    ],
+    "badge": "NEW",
+    "thumb": "https://pics.dmm.co.jp/digital/video/h_1757olm00343/h_1757olm00343pl.jpg",
+    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dh_1757olm00343%2F&af_id=mio3lu-990&ch=api"
+  },
+  {
+    "id": "h_1757olm00342",
+    "title": "大乱交 スプラッシュビッチーズ",
+    "actress": "不明",
+    "maker": "オリンポス",
+    "code": "H_1757OLM00342",
+    "date": "2026-07-29",
+    "tags": [
+      "騎乗位",
+      "フェラ",
+      "キス・接吻",
+      "バック",
+      "4時間以上作品",
+      "中出し"
+    ],
+    "badge": "NEW",
+    "thumb": "https://pics.dmm.co.jp/digital/video/h_1757olm00342/h_1757olm00342pl.jpg",
+    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dh_1757olm00342%2F&af_id=mio3lu-990&ch=api"
   },
   {
     "id": "h_1729goji00108",
@@ -423,12 +537,12 @@ const worksData = [
     "code": "JQRE00028",
     "date": "2026-07-28",
     "tags": [
+      "4時間以上作品",
       "ハイビジョン",
       "単体作品",
       "独占配信",
       "熟女",
-      "ドラマ",
-      "女優ベスト・総集編"
+      "ドラマ"
     ],
     "badge": "NEW",
     "thumb": "https://pics.dmm.co.jp/digital/video/jqre00028/jqre00028pl.jpg",
@@ -490,6 +604,63 @@ const worksData = [
     "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dh_1832msoc00060%2F&af_id=mio3lu-990&ch=api"
   },
   {
+    "id": "h_125tr02621",
+    "title": "五十路四十路 変態性交 生中出しとアナル性交のセックス狂い 私、やりたいの！おま〇こがしたいの！ おさせ熟女8人の変態性交為5時間",
+    "actress": "不明",
+    "maker": "モデスト",
+    "code": "H_125TR02621",
+    "date": "2026-07-28",
+    "tags": [
+      "4時間以上作品",
+      "フェラ",
+      "ハメ撮り",
+      "アナル",
+      "ぽっちゃり",
+      "中出し"
+    ],
+    "badge": "NEW",
+    "thumb": "https://pics.dmm.co.jp/digital/video/h_125tr02621/h_125tr02621pl.jpg",
+    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dh_125tr02621%2F&af_id=mio3lu-990&ch=api"
+  },
+  {
+    "id": "h_125tr02620",
+    "title": "旦那とご無沙汰の欲求不満の人妻たち すぐにでもセックスがしたい ヤリモクの女ざかり 8人の性欲処理生現場ノンフィクション5時間デラックス",
+    "actress": "不明",
+    "maker": "モデスト",
+    "code": "H_125TR02620",
+    "date": "2026-07-28",
+    "tags": [
+      "4時間以上作品",
+      "フェラ",
+      "ハメ撮り",
+      "パイパン",
+      "ぽっちゃり",
+      "中出し"
+    ],
+    "badge": "NEW",
+    "thumb": "https://pics.dmm.co.jp/digital/video/h_125tr02620/h_125tr02620pl.jpg",
+    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dh_125tr02620%2F&af_id=mio3lu-990&ch=api"
+  },
+  {
+    "id": "h_125tr02619",
+    "title": "豊満中出し 不倫妻 旦那とのおざなりセックスにはもう飽き飽きで物足りず・・ 豊満なカラダで不実な性交を繰り返す熟妻4人の昼下がりドキュメント",
+    "actress": "不明",
+    "maker": "モデスト",
+    "code": "H_125TR02619",
+    "date": "2026-07-28",
+    "tags": [
+      "ハイビジョン",
+      "フェラ",
+      "パイパン",
+      "ハメ撮り",
+      "中出し",
+      "寝取り・寝取られ・NTR"
+    ],
+    "badge": "NEW",
+    "thumb": "https://pics.dmm.co.jp/digital/video/h_125tr02619/h_125tr02619pl.jpg",
+    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dh_125tr02619%2F&af_id=mio3lu-990&ch=api"
+  },
+  {
     "id": "vrkm01829",
     "title": "【VR】虐めてあげる！逆M言葉責めBEST 300分",
     "actress": "木下ひまり（花沢ひまり）、椿りか、小那海あや、尾崎えりか、鈴木真夕、新井リマ、大槻ひびき、百永さりな、森日向子、森沢かな（飯岡かなこ）、森本あかり、佐藤ののか（加藤ももか）、夏川あゆみ、瀬那ルミナ、皆月ひかる",
@@ -526,6 +697,25 @@ const worksData = [
     "badge": "VR",
     "thumb": "https://pics.dmm.co.jp/digital/video/savr01133/savr01133pl.jpg",
     "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dsavr01133%2F&af_id=mio3lu-990&ch=api"
+  },
+  {
+    "id": "h_1838erkr01118",
+    "title": "実録 吉原高級店人気ソープ嬢 さくら＆みつき",
+    "actress": "不明",
+    "maker": "アマTV",
+    "code": "H_1838ERKR01118",
+    "date": "2026-07-26",
+    "tags": [
+      "ハメ撮り",
+      "ヘルス・ソープ",
+      "キャバ嬢・風俗嬢",
+      "ハイビジョン",
+      "中出し",
+      "美乳"
+    ],
+    "badge": "NEW",
+    "thumb": "https://pics.dmm.co.jp/digital/video/h_1838erkr01118/h_1838erkr01118pl.jpg",
+    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dh_1838erkr01118%2F&af_id=mio3lu-990&ch=api"
   },
   {
     "id": "vrkm01865",
@@ -1578,9 +1768,9 @@ const worksData = [
     "code": "MGHT00393",
     "date": "2026-07-25",
     "tags": [
+      "4時間以上作品",
       "ハイビジョン",
       "4K",
-      "4時間以上作品",
       "独占配信",
       "熟女",
       "人妻・主婦"
@@ -1597,9 +1787,9 @@ const worksData = [
     "code": "MGHT00392",
     "date": "2026-07-25",
     "tags": [
+      "4時間以上作品",
       "ハイビジョン",
       "4K",
-      "4時間以上作品",
       "独占配信",
       "ベスト・総集編",
       "人妻・主婦"
@@ -1616,9 +1806,9 @@ const worksData = [
     "code": "MGHT00391",
     "date": "2026-07-25",
     "tags": [
+      "4時間以上作品",
       "ハイビジョン",
       "4K",
-      "4時間以上作品",
       "独占配信",
       "女優ベスト・総集編",
       "人妻・主婦"
@@ -1702,194 +1892,5 @@ const worksData = [
     "badge": "4K",
     "thumb": "https://pics.dmm.co.jp/digital/video/madv00639/madv00639pl.jpg",
     "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dmadv00639%2F&af_id=mio3lu-990&ch=api"
-  },
-  {
-    "id": "madv00638",
-    "title": "【4K】学校イチ人気でスレンダー美人な女生徒に校則違反水着で迫られ…何度も何度も蓮と中出しSEXしてしまった 響蓮",
-    "actress": "響蓮",
-    "maker": "クリスタル映像",
-    "code": "MADV00638",
-    "date": "2026-07-25",
-    "tags": [
-      "ハイビジョン",
-      "4K",
-      "独占配信",
-      "バイブ",
-      "制服",
-      "パイパン"
-    ],
-    "badge": "4K",
-    "thumb": "https://pics.dmm.co.jp/digital/video/madv00638/madv00638pl.jpg",
-    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dmadv00638%2F&af_id=mio3lu-990&ch=api"
-  },
-  {
-    "id": "madm00220",
-    "title": "【4K】眼鏡で地味な隣の巨乳妻は男のイキ顔を見るのがお好き… 善場まみ",
-    "actress": "善場まみ（茉城まみ）",
-    "maker": "クリスタル映像",
-    "code": "MADM00220",
-    "date": "2026-07-25",
-    "tags": [
-      "ハイビジョン",
-      "4K",
-      "独占配信",
-      "フェラ",
-      "痴女",
-      "人妻・主婦"
-    ],
-    "badge": "4K",
-    "thumb": "https://pics.dmm.co.jp/digital/video/madm00220/madm00220pl.jpg",
-    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dmadm00220%2F&af_id=mio3lu-990&ch=api"
-  },
-  {
-    "id": "madb00004",
-    "title": "新人AV Debut「157センチ、43キロ」「超絶美女！名古屋 伝説のNo.1キャバ嬢」衝撃のAVデビュー 渚りこ",
-    "actress": "渚りこ",
-    "maker": "シロウトネキ/妄想族",
-    "code": "MADB00004",
-    "date": "2026-07-25",
-    "tags": [
-      "独占配信",
-      "巨乳",
-      "キャバ嬢・風俗嬢",
-      "妄想族",
-      "単体作品",
-      "デビュー作品"
-    ],
-    "badge": "NEW",
-    "thumb": "https://pics.dmm.co.jp/digital/video/madb00004/madb00004pl.jpg",
-    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dmadb00004%2F&af_id=mio3lu-990&ch=api"
-  },
-  {
-    "id": "lzbs00128",
-    "title": "レズれ！プレミアムベスト10時間SP 愛液と潮が交じり合う女同士の絶頂汁レズ貝合わせ",
-    "actress": "松本いちか、蓮実クレア、美園和花、浜崎真緒、稲場るか、田中ねね、佐藤ののか（加藤ももか）、波多野結衣、吉根ゆりあ、加藤ツバキ（夏樹カオル）、加瀬ななほ、渚みつき、北川エリカ、碧しの（篠めぐみ）、後藤里香、優月まりな、倉木しおり、春原未来、千乃あずみ、川上ゆう（森野雫）、黒川すみれ、本真ゆり、風間ゆみ、松本菜奈実、弥生みづき、大浦真奈美、枢木あおい、若宮穂乃、月野かすみ、八乃つばさ、妃月るい",
-    "maker": "レズれ！",
-    "code": "LZBS00128",
-    "date": "2026-07-25",
-    "tags": [
-      "4時間以上作品",
-      "ハイビジョン",
-      "独占配信",
-      "アクメ・オーガズム",
-      "レズビアン",
-      "潮吹き"
-    ],
-    "badge": "NEW",
-    "thumb": "https://pics.dmm.co.jp/digital/video/lzbs00128/lzbs00128pl.jpg",
-    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dlzbs00128%2F&af_id=mio3lu-990&ch=api"
-  },
-  {
-    "id": "luns00256",
-    "title": "貧乳熟女3",
-    "actress": "不明",
-    "maker": "ルーナ旬香舎",
-    "code": "LUNS00256",
-    "date": "2026-07-25",
-    "tags": [
-      "独占配信",
-      "スレンダー",
-      "人妻・主婦",
-      "熟女",
-      "近親相姦",
-      "巨尻"
-    ],
-    "badge": "NEW",
-    "thumb": "https://pics.dmm.co.jp/digital/video/luns00256/luns00256pl.jpg",
-    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dluns00256%2F&af_id=mio3lu-990&ch=api"
-  },
-  {
-    "id": "luns00255",
-    "title": "豊満婦人9",
-    "actress": "不明",
-    "maker": "ルーナ旬香舎",
-    "code": "LUNS00255",
-    "date": "2026-07-25",
-    "tags": [
-      "独占配信",
-      "人妻・主婦",
-      "巨乳",
-      "熟女",
-      "巨尻",
-      "近親相姦"
-    ],
-    "badge": "NEW",
-    "thumb": "https://pics.dmm.co.jp/digital/video/luns00255/luns00255pl.jpg",
-    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dluns00255%2F&af_id=mio3lu-990&ch=api"
-  },
-  {
-    "id": "luns00254",
-    "title": "六十路の快楽7",
-    "actress": "不明",
-    "maker": "ルーナ旬香舎",
-    "code": "LUNS00254",
-    "date": "2026-07-25",
-    "tags": [
-      "独占配信",
-      "熟女",
-      "お婆ちゃん",
-      "人妻・主婦",
-      "近親相姦"
-    ],
-    "badge": "NEW",
-    "thumb": "https://pics.dmm.co.jp/digital/video/luns00254/luns00254pl.jpg",
-    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dluns00254%2F&af_id=mio3lu-990&ch=api"
-  },
-  {
-    "id": "lucy00029",
-    "title": "生贄の義母 父子相伝の寝取らせ英才教育 葉月保奈美",
-    "actress": "葉月保奈美",
-    "maker": "LUCY’S",
-    "code": "LUCY00029",
-    "date": "2026-07-25",
-    "tags": [
-      "ハイビジョン",
-      "4K",
-      "独占配信",
-      "近親相姦",
-      "美乳",
-      "熟女"
-    ],
-    "badge": "NEW",
-    "thumb": "https://pics.dmm.co.jp/digital/video/lucy00029/lucy00029pl.jpg",
-    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dlucy00029%2F&af_id=mio3lu-990&ch=api"
-  },
-  {
-    "id": "ktra00792",
-    "title": "えちえちシロウト！パコパコセックスコレクション 4時間",
-    "actress": "柏木こなつ、綾瀬こころ、まなかかな、優梨まいな、白瀬ゆきほ",
-    "maker": "ケー・トライブ",
-    "code": "KTRA00792",
-    "date": "2026-07-25",
-    "tags": [
-      "4時間以上作品",
-      "ハイビジョン",
-      "独占配信",
-      "ベスト・総集編",
-      "美少女",
-      "ビッチ"
-    ],
-    "badge": "NEW",
-    "thumb": "https://pics.dmm.co.jp/digital/video/ktra00792/ktra00792pl.jpg",
-    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dktra00792%2F&af_id=mio3lu-990&ch=api"
-  },
-  {
-    "id": "ksat00108",
-    "title": "「私のお口でも大きくなってくれますか？」 フェラ顔がエロ過ぎる反則級の美人妻",
-    "actress": "不明",
-    "maker": "堅者の食卓/妄想族",
-    "code": "KSAT00108",
-    "date": "2026-07-25",
-    "tags": [
-      "4時間以上作品",
-      "ハイビジョン",
-      "独占配信",
-      "不倫",
-      "妄想族",
-      "人妻・主婦"
-    ],
-    "badge": "NEW",
-    "thumb": "https://pics.dmm.co.jp/digital/video/ksat00108/ksat00108pl.jpg",
-    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dksat00108%2F&af_id=mio3lu-990&ch=api"
   }
 ];
