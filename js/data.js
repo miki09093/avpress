@@ -133,6 +133,25 @@ const worksData = [
     "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dh_1812memo00013%2F&af_id=mio3lu-990&ch=api"
   },
   {
+    "id": "savr01139",
+    "title": "【VR】開発済の穴女と汁まみれ旅 上下のオクチから体液を撒き散らす奴●的な営み",
+    "actress": "不明",
+    "maker": "KMPVR-彩-",
+    "code": "SAVR01139",
+    "date": "2026-08-09",
+    "tags": [
+      "ハイクオリティVR",
+      "8KVR",
+      "VR専用",
+      "独占配信",
+      "イラマチオ",
+      "アクメ・オーガズム"
+    ],
+    "badge": "VR",
+    "thumb": "https://pics.dmm.co.jp/digital/video/savr01139/savr01139pl.jpg",
+    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dsavr01139%2F&af_id=mio3lu-990&ch=api"
+  },
+  {
     "id": "savr01116",
     "title": "【VR】MAD SEX MONSTER 淫乱Icup肉感モンスターに10発抜かれる 強性イキ地獄 Miss.A 乙アリス",
     "actress": "乙アリス",
@@ -264,6 +283,23 @@ const worksData = [
     "badge": "VR",
     "thumb": "https://pics.dmm.co.jp/digital/video/vrkm01862/vrkm01862pl.jpg",
     "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dvrkm01862%2F&af_id=mio3lu-990&ch=api"
+  },
+  {
+    "id": "h_1832msoc00062",
+    "title": "ながはまえな22回目六本木メンズエステ・オイル手コキ・素股コース",
+    "actress": "不明",
+    "maker": "メンエス・オナクラ盗撮",
+    "code": "H_1832MSOC00062",
+    "date": "2026-08-04",
+    "tags": [
+      "ハイビジョン",
+      "エステ",
+      "盗撮・のぞき",
+      "素人"
+    ],
+    "badge": "NEW",
+    "thumb": "https://pics.dmm.co.jp/digital/video/h_1832msoc00062/h_1832msoc00062pt.jpg",
+    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dh_1832msoc00062%2F&af_id=mio3lu-990&ch=api"
   },
   {
     "id": "vrkm01852",
@@ -509,6 +545,25 @@ const worksData = [
     "badge": "NEW",
     "thumb": "https://pics.dmm.co.jp/digital/video/h_1832msoc00061/h_1832msoc00061pt.jpg",
     "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dh_1832msoc00061%2F&af_id=mio3lu-990&ch=api"
+  },
+  {
+    "id": "bkh00369",
+    "title": "【配信限定特別版】母子交尾～東白河路～ 倖田李梨",
+    "actress": "倖田李梨（倖田美梨、岩下美季）",
+    "maker": "ルビー",
+    "code": "BKH00369",
+    "date": "2026-08-01",
+    "tags": [
+      "単体作品",
+      "ハイビジョン",
+      "独占配信",
+      "旅行",
+      "温泉",
+      "オナニー"
+    ],
+    "badge": "NEW",
+    "thumb": "https://pics.dmm.co.jp/digital/video/bkh00369/bkh00369pl.jpg",
+    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dbkh00369%2F&af_id=mio3lu-990&ch=api"
   },
   {
     "id": "savr01129",
@@ -1834,62 +1889,5 @@ const worksData = [
     "badge": "NEW",
     "thumb": "https://pics.dmm.co.jp/digital/video/nnit00016/nnit00016pl.jpg",
     "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dnnit00016%2F&af_id=mio3lu-990&ch=api"
-  },
-  {
-    "id": "natr00771",
-    "title": "まるまる！白河花清",
-    "actress": "白河花清",
-    "maker": "なでしこ",
-    "code": "NATR00771",
-    "date": "2026-07-25",
-    "tags": [
-      "4時間以上作品",
-      "ハイビジョン",
-      "独占配信",
-      "女優ベスト・総集編",
-      "単体作品",
-      "美乳"
-    ],
-    "badge": "NEW",
-    "thumb": "https://pics.dmm.co.jp/digital/video/natr00771/natr00771pl.jpg",
-    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dnatr00771%2F&af_id=mio3lu-990&ch=api"
-  },
-  {
-    "id": "nask00425",
-    "title": "日本藝術浪漫文庫 五十路オカン拉致陵●",
-    "actress": "不明",
-    "maker": "なでしこ",
-    "code": "NASK00425",
-    "date": "2026-07-25",
-    "tags": [
-      "ハイビジョン",
-      "独占配信",
-      "人妻・主婦",
-      "辱め",
-      "ドラマ",
-      "熟女"
-    ],
-    "badge": "NEW",
-    "thumb": "https://pics.dmm.co.jp/digital/video/nask00425/nask00425pl.jpg",
-    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dnask00425%2F&af_id=mio3lu-990&ch=api"
-  },
-  {
-    "id": "nask00424",
-    "title": "昭和猥褻エロ映画館3 息子や孫に中出し許す母や祖母",
-    "actress": "不明",
-    "maker": "なでしこ",
-    "code": "NASK00424",
-    "date": "2026-07-25",
-    "tags": [
-      "独占配信",
-      "お婆ちゃん",
-      "辱め",
-      "ドラマ",
-      "近親相姦",
-      "熟女"
-    ],
-    "badge": "NEW",
-    "thumb": "https://pics.dmm.co.jp/digital/video/nask00424/nask00424pl.jpg",
-    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dnask00424%2F&af_id=mio3lu-990&ch=api"
   }
 ];
