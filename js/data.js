@@ -359,6 +359,44 @@ const worksData = [
     "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dsavr01137%2F&af_id=mio3lu-990&ch=api"
   },
   {
+    "id": "1sun00064a",
+    "title": "潮吹き露出 指ズボ羞恥でセルフ潮をまき散らす金髪娘とビチャビチャ絶頂デート 乙アリス",
+    "actress": "乙アリス",
+    "maker": "SUN",
+    "code": "1SUN00064A",
+    "date": "2026-08-02",
+    "tags": [
+      "ハイビジョン",
+      "単体作品",
+      "ギャル",
+      "巨乳",
+      "3P・4P",
+      "潮吹き"
+    ],
+    "badge": "NEW",
+    "thumb": "https://pics.dmm.co.jp/digital/video/1sun00064a/1sun00064apl.jpg",
+    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3D1sun00064a%2F&af_id=mio3lu-990&ch=api"
+  },
+  {
+    "id": "1sun00063a",
+    "title": "油塗（ヌルテカ）露出 ピンク乳首Fカップ若い子ちゃんと全身ヌルヌル野外性交 高瀬りな",
+    "actress": "高瀬りな",
+    "maker": "SUN",
+    "code": "1SUN00063A",
+    "date": "2026-08-02",
+    "tags": [
+      "ハイビジョン",
+      "単体作品",
+      "巨乳",
+      "手コキ",
+      "パイズリ",
+      "ローション・オイル"
+    ],
+    "badge": "NEW",
+    "thumb": "https://pics.dmm.co.jp/digital/video/1sun00063a/1sun00063apl.jpg",
+    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3D1sun00063a%2F&af_id=mio3lu-990&ch=api"
+  },
+  {
     "id": "ymds00305",
     "title": "マチアプ生ナカちゃん！スクールカースト最上位の格上女子を半中半外ハメ倒し攻略セックス コスプレ3P中出し攻略編",
     "actress": "不明",
@@ -592,12 +630,12 @@ const worksData = [
     "code": "H_1838ERKR01119",
     "date": "2026-07-31",
     "tags": [
+      "ハイビジョン",
+      "中出し",
+      "ハメ撮り",
       "キャバ嬢・風俗嬢",
       "ヘルス・ソープ",
-      "ハメ撮り",
-      "美乳",
-      "中出し",
-      "ハイビジョン"
+      "美乳"
     ],
     "badge": "NEW",
     "thumb": "https://pics.dmm.co.jp/digital/video/h_1838erkr01119/h_1838erkr01119pl.jpg",
@@ -744,12 +782,12 @@ const worksData = [
     "code": "H_113HZ00012",
     "date": "2026-07-31",
     "tags": [
-      "ハイビジョン",
-      "単体作品",
-      "美乳",
-      "M女",
+      "中出し",
+      "素人",
       "看護婦・ナース",
-      "素人"
+      "M女",
+      "美乳",
+      "単体作品"
     ],
     "badge": "NEW",
     "thumb": "https://pics.dmm.co.jp/digital/video/h_113hz00012/h_113hz00012pl.jpg",
@@ -964,6 +1002,25 @@ const worksData = [
     "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dh_1729goji00106%2F&af_id=mio3lu-990&ch=api"
   },
   {
+    "id": "vrkm01831",
+    "title": "【VR】カワイイお顔に淫らな腰使い！幼いトロけ顔に見下ろされちゃう童顔×騎乗位SUPER BEST 300分",
+    "actress": "松井日奈子、皆月ひかる、柏木こなつ、宍戸里帆、巴ひかり、渚みつき、一条みお、深月めい、小野寺舞、花柳杏奈、姫野らん、桃瀬ひまり、沙月恵奈、本田もも、雫月心桜、藤田こずえ、虹村ゆみ、河合陽菜、永野鈴、羽月乃蒼",
+    "maker": "ケイ・エム・プロデュース",
+    "code": "VRKM01831",
+    "date": "2026-07-28",
+    "tags": [
+      "4時間以上作品",
+      "ハイクオリティVR",
+      "8KVR",
+      "VR専用",
+      "独占配信",
+      "ベスト・総集編"
+    ],
+    "badge": "VR",
+    "thumb": "https://pics.dmm.co.jp/digital/video/vrkm01831/vrkm01831pl.jpg",
+    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dvrkm01831%2F&af_id=mio3lu-990&ch=api"
+  },
+  {
     "id": "smjb00024",
     "title": "喪女ニートは超むっつり性欲モンスター！愛すべき自宅警備員との巣ごもりイチャラブSEX 285分",
     "actress": "不明",
@@ -1159,12 +1216,12 @@ const worksData = [
     "code": "H_1838ERKR01118",
     "date": "2026-07-26",
     "tags": [
-      "キャバ嬢・風俗嬢",
-      "ヘルス・ソープ",
       "ハメ撮り",
-      "美乳",
+      "ヘルス・ソープ",
+      "キャバ嬢・風俗嬢",
+      "ハイビジョン",
       "中出し",
-      "ハイビジョン"
+      "美乳"
     ],
     "badge": "NEW",
     "thumb": "https://pics.dmm.co.jp/digital/video/h_1838erkr01118/h_1838erkr01118pl.jpg",
@@ -1832,62 +1889,5 @@ const worksData = [
     "badge": "NEW",
     "thumb": "https://pics.dmm.co.jp/digital/video/nsfs00498/nsfs00498pl.jpg",
     "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dnsfs00498%2F&af_id=mio3lu-990&ch=api"
-  },
-  {
-    "id": "nsfs00497",
-    "title": "寝取られの館17 ～ダッチワイフにされた妻～ 友田彩也香",
-    "actress": "友田彩也香",
-    "maker": "ながえスタイル",
-    "code": "NSFS00497",
-    "date": "2026-07-25",
-    "tags": [
-      "ハイビジョン",
-      "4K",
-      "独占配信",
-      "単体作品",
-      "寝取り・寝取られ・NTR",
-      "3P・4P"
-    ],
-    "badge": "NEW",
-    "thumb": "https://pics.dmm.co.jp/digital/video/nsfs00497/nsfs00497pl.jpg",
-    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dnsfs00497%2F&af_id=mio3lu-990&ch=api"
-  },
-  {
-    "id": "nsfs00496",
-    "title": "亡き夫に一途・・ 喪服からはみ出る 未亡人の巨乳 広瀬美結",
-    "actress": "広瀬美結",
-    "maker": "ながえスタイル",
-    "code": "NSFS00496",
-    "date": "2026-07-25",
-    "tags": [
-      "ハイビジョン",
-      "4K",
-      "独占配信",
-      "単体作品",
-      "未亡人",
-      "ドラマ"
-    ],
-    "badge": "NEW",
-    "thumb": "https://pics.dmm.co.jp/digital/video/nsfs00496/nsfs00496pl.jpg",
-    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dnsfs00496%2F&af_id=mio3lu-990&ch=api"
-  },
-  {
-    "id": "nnit00016",
-    "title": "ロ●ータおま●こいぢり",
-    "actress": "不明",
-    "maker": "NIRVANA",
-    "code": "NNIT00016",
-    "date": "2026-07-25",
-    "tags": [
-      "4時間以上作品",
-      "ハイビジョン",
-      "独占配信",
-      "ミニ系",
-      "その他フェチ",
-      "スレンダー"
-    ],
-    "badge": "NEW",
-    "thumb": "https://pics.dmm.co.jp/digital/video/nnit00016/nnit00016pl.jpg",
-    "url": "https://al.dmm.co.jp/?lurl=https%3A%2F%2Fwww.dmm.co.jp%2Fdigital%2Fvideoa%2F-%2Fdetail%2F%3D%2Fcid%3Dnnit00016%2F&af_id=mio3lu-990&ch=api"
   }
 ];
