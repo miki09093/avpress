@@ -1,22 +1,21 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="ja">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>お問い合わせ - AVPRESS</title>
+  <title>お問い合わせ｜アドバンスプレス</title>
+  <meta name="robots" content="noindex">
   <link rel="stylesheet" href="css/style.css">
-  <link rel="stylesheet" href="css/page.css">
 </head>
 <body>
+
   <header class="site-header">
     <div class="header-inner">
-      <a href="index.html" class="site-logo">AV<span>PRESS</span></a>
+      <a href="index.html" class="site-logo">Advance<span>Press</span><small>20代のキャリアを前進させる</small></a>
       <nav class="site-nav">
-        <a href="index.html">新着</a>
-        <a href="actresses.html">女優</a>
-        <a href="makers.html">メーカー</a>
-        <a href="genres.html">ジャンル</a>
-        <a href="ranking.html">ランキング</a>
+        <a href="agents.html">エージェント比較</a>
+        <a href="index.html#columns">コラム</a>
+        <a href="index.html#simulator" class="nav-cta">年収診断</a>
       </nav>
     </div>
   </header>
@@ -24,75 +23,39 @@
   <div class="page-wrapper">
     <div class="page-content">
       <h1 class="page-title">お問い合わせ</h1>
+      <p class="page-date">当サイトへのご意見・ご質問はこちらから</p>
 
-      <p style="margin-bottom:24px;color:#555;line-height:1.8;">
-        掲載内容に関するご意見・ご要望・誤情報のご指摘など、お気軽にお問い合わせください。<br>
-        通常3営業日以内にご返信いたします。
-      </p>
-
-      <form class="contact-form" onsubmit="handleSubmit(event)">
-        <div class="form-group">
-          <label for="name">お名前 <span class="required">必須</span></label>
-          <input type="text" id="name" name="name" placeholder="山田 太郎" required>
-        </div>
-
-        <div class="form-group">
-          <label for="email">メールアドレス <span class="required">必須</span></label>
-          <input type="email" id="email" name="email" placeholder="example@email.com" required>
-        </div>
-
-        <div class="form-group">
-          <label for="category">お問い合わせ種別 <span class="required">必須</span></label>
-          <select id="category" name="category" required>
-            <option value="">選択してください</option>
-            <option value="content">掲載内容について</option>
-            <option value="error">誤情報の指摘</option>
-            <option value="request">掲載リクエスト</option>
-            <option value="copyright">著作権・権利について</option>
-            <option value="other">その他</option>
-          </select>
-        </div>
-
-        <div class="form-group">
-          <label for="message">お問い合わせ内容 <span class="required">必須</span></label>
-          <textarea id="message" name="message" rows="6" placeholder="お問い合わせ内容を入力してください..." required></textarea>
-        </div>
-
-        <div class="form-group">
-          <label class="checkbox-label">
-            <input type="checkbox" required>
-            <a href="privacy.html" target="_blank">プライバシーポリシー</a>に同意する
-          </label>
-        </div>
-
-        <button type="submit" class="submit-btn">送信する</button>
-      </form>
-
-      <div id="successMsg" class="success-msg" style="display:none;">
-        <p>お問い合わせを受け付けました。ありがとうございます。</p>
+      <div class="page-section">
+        <p>当サイトに関するご意見・ご質問・掲載内容の修正依頼などは、以下のフォームよりお送りください。内容を確認のうえ、必要に応じてご返信いたします。</p>
+        <!-- TODO: Googleフォームを作成してURLを差し替えてください -->
+        <a href="#" class="page-cta">お問い合わせフォームを開く →</a>
+        <p style="font-size:12px;color:var(--sub);">※ フォームは準備中です。しばらくお待ちください。</p>
       </div>
+
+      <div class="page-section">
+        <h2>お問い合わせの前に</h2>
+        <ul>
+          <li>年収診断の結果に関する個別のご相談にはお答えできかねます。</li>
+          <li>各転職サービスの詳細については、各サービスの公式サイトへ直接お問い合わせください。</li>
+          <li>営業目的のご連絡はご遠慮ください。</li>
+        </ul>
+      </div>
+
     </div>
   </div>
 
   <footer class="site-footer">
     <div class="footer-inner">
-      <p>当サイトに掲載されている作品はすべて18歳以上を対象としています。</p>
+      <div class="footer-logo">Advance<span>Press</span></div>
       <p class="footer-links">
         <a href="privacy.html">プライバシーポリシー</a> |
         <a href="disclaimer.html">免責事項</a> |
         <a href="contact.html">お問い合わせ</a>
       </p>
-      <p class="footer-copy">&copy; 2026 AVPRESS. All rights reserved.</p>
+      <p class="footer-ad-note">当サイトはアフィリエイト広告を利用しています。</p>
+      <p class="footer-copy">&copy; 2026 AdvancePress. All rights reserved.</p>
     </div>
   </footer>
 
-  <script>
-    function handleSubmit(e) {
-      e.preventDefault();
-      document.querySelector('.contact-form').style.display = 'none';
-      document.getElementById('successMsg').style.display = 'block';
-    }
-  </script>
 </body>
 </html>
-

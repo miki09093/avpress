@@ -1,109 +1,190 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="ja">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>AVPRESS - AV新着・更新情報まとめ</title>
-  <meta name="description" content="AVPRESSはAV作品の新着・更新情報をまとめてお届けするサイトです。女優・メーカー・ジャンルから最新作品を探せます。">
+  <title>アドバンスプレス｜20代の適正年収シミュレーター【無料・登録不要】</title>
+  <meta name="description" content="9つの質問に答えるだけで、20代のあなたの適正年収を無料診断。登録不要・3分で完了。年齢・職種・業種別の最新年収データをもとに、あなたに合った転職サービスもご紹介します。">
+  <meta property="og:title" content="あなたの適正年収、知っていますか？｜20代の年収シミュレーター">
+  <meta property="og:description" content="登録不要・3分で完了。9つの質問であなたの適正年収を無料診断。">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://avpress.net/">
   <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
 
   <header class="site-header">
     <div class="header-inner">
-      <a href="index.html" class="site-logo">AV<span>PRESS</span></a>
+      <a href="index.html" class="site-logo">Advance<span>Press</span><small>20代のキャリアを前進させる</small></a>
       <nav class="site-nav">
-        <a href="index.html" class="active">新着</a>
-        <a href="actresses.html">女優</a>
-        <a href="makers.html">メーカー</a>
-        <a href="genres.html">ジャンル</a>
-        <a href="ranking.html">ランキング</a>
+        <a href="agents.html">エージェント比較</a>
+        <a href="#columns">コラム</a>
+        <a href="#simulator" class="nav-cta">年収診断</a>
       </nav>
-      <div class="header-search">
-        <input type="text" id="searchInput" placeholder="作品・女優名で検索...">
-        <button onclick="filterWorks()">検索</button>
-      </div>
     </div>
   </header>
 
-  <div class="layout-wrapper">
+  <section class="hero">
+    <div class="hero-badge">＼ 無料・登録不要・3分で完了 ／</div>
+    <h1>あなたの適正年収、<br>知っていますか？</h1>
+    <p>9つの質問に答えるだけ。20代の最新年収データから<br>あなたの「本当の市場価値」を診断します。</p>
+    <a href="#simulator" class="hero-cta">今すぐ無料で診断する</a>
+    <div class="hero-note">個人情報の入力は一切不要です</div>
+  </section>
 
-    <main class="main-content">
-
-      <div class="section-header">
-        <h2 class="section-title">新着作品</h2>
-        <div class="sort-controls">
-          <span>並び替え：</span>
-          <button class="sort-btn active" onclick="sortWorks('date', event)">更新日時</button>
-          <button class="sort-btn" onclick="sortWorks('title', event)">タイトル順</button>
-        </div>
-      </div>
-
-      <div class="tag-filters" id="tagFilters">
-        <button class="tag-btn active" onclick="filterByTag('all', event)">すべて</button>
-        <button class="tag-btn" onclick="filterByTag('単体作品', event)">単体作品</button>
-        <button class="tag-btn" onclick="filterByTag('素人', event)">素人</button>
-        <button class="tag-btn" onclick="filterByTag('ハメ撮り', event)">ハメ撮り</button>
-        <button class="tag-btn" onclick="filterByTag('人妻', event)">人妻</button>
-        <button class="tag-btn" onclick="filterByTag('熟女', event)">熟女</button>
-        <button class="tag-btn" onclick="filterByTag('巨乳', event)">巨乳</button>
-        <button class="tag-btn" onclick="filterByTag('中出し', event)">中出し</button>
-        <button class="tag-btn" onclick="filterByTag('痴女', event)">痴女</button>
-        <button class="tag-btn" onclick="filterByTag('美少女', event)">美少女</button>
-        <button class="tag-btn" onclick="filterByTag('VR', event)">VR</button>
-        <button class="tag-btn" onclick="filterByTag('企画', event)">企画</button>
-      </div>
-
-      <div class="works-grid" id="worksGrid"></div>
-      <div class="pagination" id="pagination"></div>
-
-    </main>
-
-    <aside class="sidebar">
-
-      <div class="sidebar-widget">
-        <h3 class="widget-title">人気女優</h3>
-        <ul class="actress-list">
-          <li><a href="actress-aizawa-miyu.html">逢沢みゆ</a></li>
-          <li><a href="actress-sano-akiho.html">佐野秋帆</a></li>
-          <li><a href="#">葵つかさ</a></li>
-          <li><a href="#">橋本ありな</a></li>
-          <li><a href="#">星乃もあ</a></li>
-          <li><a href="#">七沢みあ</a></li>
-          <li><a href="#">鈴村あいり</a></li>
-          <li><a href="#">天使もえ</a></li>
-          <li><a href="#">吉沢明歩</a></li>
-          <li><a href="#">三上悠亜</a></li>
-        </ul>
-      </div>
-
-      <div class="sidebar-widget">
-        <h3 class="widget-title">ジャンルから探す</h3>
-        <div class="genre-cloud" id="sidebarGenres"></div>
-      </div>
-
-      <div class="sidebar-widget">
-        <h3 class="widget-title">メーカーから探す</h3>
-        <ul class="maker-list" id="sidebarMakers"></ul>
-      </div>
-
-    </aside>
+  <div class="stats-strip">
+    <div class="stat-card">
+      <div class="stat-value">365<small>万円</small></div>
+      <div class="stat-label">20代の平均年収</div>
+    </div>
+    <div class="stat-card">
+      <div class="stat-value">9<small>問</small></div>
+      <div class="stat-label">質問はたったこれだけ</div>
+    </div>
+    <div class="stat-card">
+      <div class="stat-value">3<small>分</small></div>
+      <div class="stat-label">スキマ時間で完了</div>
+    </div>
   </div>
+
+  <section class="section" id="simulator">
+    <div class="section-header">
+      <h2 class="section-title">20代の<span>適正年収シミュレーター</span></h2>
+      <p class="section-sub">年齢・職種・業種などの公開年収データをもとに、あなたの適正年収を算出します</p>
+    </div>
+
+    <div class="simulator-wrap">
+      <div class="sim-head">
+        <div class="sim-head-title">💰 適正年収診断</div>
+        <div class="sim-progress-track"><div class="sim-progress-bar" id="simProgressBar"></div></div>
+        <div class="sim-progress-label" id="simProgressLabel">質問 1 / 9</div>
+      </div>
+      <div class="sim-body" id="simBody"></div>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="section-header">
+      <h2 class="section-title">診断で<span>わかること</span></h2>
+    </div>
+    <div class="features-grid">
+      <div class="feature-card">
+        <div class="feature-icon">📊</div>
+        <div class="feature-title">あなたの適正年収</div>
+        <div class="feature-desc">年齢・学歴・職種・業種・経験をもとに、いまのあなたの市場価値を金額レンジで表示します。</div>
+      </div>
+      <div class="feature-card">
+        <div class="feature-icon">📈</div>
+        <div class="feature-title">5年後・10年後の想定年収</div>
+        <div class="feature-desc">このままのキャリアを続けた場合の将来の想定年収がわかります。キャリア設計の目安に。</div>
+      </div>
+      <div class="feature-card">
+        <div class="feature-icon">🤝</div>
+        <div class="feature-title">あなたに合う転職サービス</div>
+        <div class="feature-desc">回答内容から、あなたの状況・希望に合った転職エージェントを3社厳選してご紹介します。</div>
+      </div>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="section-header">
+      <h2 class="section-title">使い方は<span>かんたん3ステップ</span></h2>
+    </div>
+    <div class="steps-grid">
+      <div class="step-card">
+        <div class="step-num">STEP 1</div>
+        <div class="step-title">9つの質問に答える</div>
+        <div class="step-desc">年齢や職種など、選ぶだけのかんたんな質問です。個人情報の入力はありません。</div>
+      </div>
+      <div class="step-card">
+        <div class="step-num">STEP 2</div>
+        <div class="step-title">適正年収をチェック</div>
+        <div class="step-desc">いまの年収と市場価値のギャップ、将来の想定年収がその場で表示されます。</div>
+      </div>
+      <div class="step-card">
+        <div class="step-num">STEP 3</div>
+        <div class="step-title">次のアクションへ</div>
+        <div class="step-desc">診断結果に合わせて、あなたにピッタリの転職サービスをご提案。無料で相談できます。</div>
+      </div>
+    </div>
+  </section>
+
+  <section class="section" id="columns">
+    <div class="section-header">
+      <h2 class="section-title">キャリア<span>コラム</span></h2>
+      <p class="section-sub">20代の転職に役立つ情報をお届けします</p>
+    </div>
+    <div class="columns-grid">
+      <a href="column-daini-shinsotsu.html" class="column-card">
+        <div class="column-thumb">🎓</div>
+        <div class="column-body">
+          <span class="column-cat">基礎知識</span>
+          <div class="column-title">第二新卒とは？20代前半の転職で失敗しないための基礎知識</div>
+          <div class="column-excerpt">「第二新卒」の定義から、企業が第二新卒を採用したい理由、転職活動の進め方までわかりやすく解説します。</div>
+        </div>
+      </a>
+      <a href="column-nenshu-up.html" class="column-card">
+        <div class="column-thumb alt1">💰</div>
+        <div class="column-body">
+          <span class="column-cat">年収アップ</span>
+          <div class="column-title">20代で年収を上げる転職の考え方｜職種と業界の選び方</div>
+          <div class="column-excerpt">同じスキルでも職種と業界で年収は大きく変わります。20代のうちに知っておきたい年収アップの戦略を解説。</div>
+        </div>
+      </a>
+      <a href="column-timing.html" class="column-card">
+        <div class="column-thumb alt2">⏰</div>
+        <div class="column-body">
+          <span class="column-cat">転職タイミング</span>
+          <div class="column-title">転職すべきか迷ったら｜20代が転職を考えるべき5つのサイン</div>
+          <div class="column-excerpt">「いまの会社にいていいのかな」と思ったら。転職を検討すべきサインと、動き出す前にやるべきことを紹介します。</div>
+        </div>
+      </a>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="section-header">
+      <h2 class="section-title">よくある<span>質問</span></h2>
+    </div>
+    <div class="faq-list">
+      <details class="faq-item">
+        <summary>本当に無料ですか？</summary>
+        <div class="faq-a">はい、完全無料です。診断に料金は一切かかりません。会員登録やメールアドレスの入力も不要です。</div>
+      </details>
+      <details class="faq-item">
+        <summary>診断結果はどうやって計算していますか？</summary>
+        <div class="faq-a">転職サービス各社が公開している年齢別・職種別・業種別の平均年収データ（20代平均365万円など）をもとに、学歴・経験年数・マネジメント経験などの補正を加えて算出しています。あくまで目安としてご利用ください。</div>
+      </details>
+      <details class="faq-item">
+        <summary>個人情報は収集されますか？</summary>
+        <div class="faq-a">診断で入力いただいた内容がサーバーに送信されることはありません。すべてお使いのブラウザ内だけで計算されます。</div>
+      </details>
+      <details class="faq-item">
+        <summary>30代でも診断できますか？</summary>
+        <div class="faq-a">はい、可能です。ただし当サイトは20代向けのデータを中心に設計しているため、20〜35歳の方の精度が最も高くなっています。</div>
+      </details>
+    </div>
+  </section>
+
+  <section class="cta-band">
+    <h2>まずは自分の市場価値を知ることから</h2>
+    <p>転職するかどうか決めていなくてもOK。現状を知ることが第一歩です。</p>
+    <a href="#simulator" class="hero-cta">無料で年収診断をする</a>
+  </section>
 
   <footer class="site-footer">
     <div class="footer-inner">
-      <p>当サイトに掲載されている作品はすべて18歳以上を対象としています。</p>
+      <div class="footer-logo">Advance<span>Press</span></div>
       <p class="footer-links">
         <a href="privacy.html">プライバシーポリシー</a> |
         <a href="disclaimer.html">免責事項</a> |
         <a href="contact.html">お問い合わせ</a>
       </p>
-      <p class="footer-copy">&copy; 2026 AVPRESS. All rights reserved.</p>
+      <p class="footer-ad-note">当サイトはアフィリエイト広告を利用しています。</p>
+      <p class="footer-copy">&copy; 2026 AdvancePress. All rights reserved.</p>
     </div>
   </footer>
 
-  <script src="js/data.js"></script>
-  <script src="js/app.js"></script>
+  <script src="js/simulator.js"></script>
 </body>
 </html>
-
