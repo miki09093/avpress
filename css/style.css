@@ -358,6 +358,113 @@ img { max-width: 100%; display: block; }
 
 .sim-back:hover { color: var(--primary); }
 
+/* ===== Analyzing ===== */
+.sim-analyzing {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 260px;
+  gap: 22px;
+}
+
+.sim-spinner {
+  width: 54px;
+  height: 54px;
+  border: 5px solid var(--border);
+  border-top-color: var(--primary);
+  border-radius: 50%;
+  animation: spin 0.8s linear infinite;
+}
+
+@keyframes spin { to { transform: rotate(360deg); } }
+
+.sim-analyzing-msg {
+  font-size: 14px;
+  font-weight: 700;
+  color: var(--sub);
+}
+
+/* ===== Rank badge ===== */
+.result-rank-wrap {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  background: var(--grad-soft);
+  border: 1.5px solid #bfdbfe;
+  border-radius: 14px;
+  padding: 16px 18px;
+  margin-bottom: 22px;
+}
+
+.result-rank-badge {
+  width: 62px;
+  height: 62px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 30px;
+  font-weight: 900;
+  color: #fff;
+  flex-shrink: 0;
+  box-shadow: 0 4px 12px rgba(15,23,42,0.18);
+}
+
+.rank-s { background: linear-gradient(135deg, #f59e0b, #ef4444); }
+.rank-a { background: linear-gradient(135deg, #2563eb, #7c3aed); }
+.rank-b { background: linear-gradient(135deg, #06b6d4, #059669); }
+.rank-c { background: linear-gradient(135deg, #64748b, #94a3b8); }
+
+.result-rank-text { font-size: 14px; font-weight: 700; color: var(--dark); line-height: 1.6; }
+.result-rank-text strong { font-size: 16px; color: var(--primary-dark); }
+.result-rank-text small { font-weight: 600; color: var(--sub); font-size: 12px; }
+
+/* ===== Chart ===== */
+.result-chart {
+  margin-bottom: 26px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.chart-row { display: flex; align-items: center; gap: 10px; }
+
+.chart-label {
+  width: 90px;
+  flex-shrink: 0;
+  font-size: 11px;
+  font-weight: 800;
+  color: var(--sub);
+  text-align: right;
+}
+
+.chart-track {
+  flex: 1;
+  height: 28px;
+  background: var(--bg);
+  border-radius: 6px;
+  overflow: hidden;
+}
+
+.chart-bar {
+  height: 100%;
+  border-radius: 6px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  padding-right: 8px;
+  transition: width 0.9s cubic-bezier(0.22, 1, 0.36, 1);
+  min-width: 0;
+  white-space: nowrap;
+}
+
+.chart-bar span { font-size: 11px; font-weight: 900; color: #fff; }
+
+.bar-current { background: #94a3b8; }
+.bar-fit     { background: var(--grad); }
+.bar-future  { background: linear-gradient(135deg, #60a5fa, #22d3ee); }
+
 /* ===== Result ===== */
 .result-label {
   text-align: center;

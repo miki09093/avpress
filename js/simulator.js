@@ -192,7 +192,7 @@ function renderStep() {
   const total = QUESTIONS.length;
 
   if (step >= total) {
-    renderResult();
+    renderAnalyzing();
     return;
   }
 
@@ -351,6 +351,70 @@ function pickReason(agentKey) {
 }
 
 // ============================================================
+// 同年代内での位置（20代の年収分布データをもとに算出）
+// 分布: 300万未満25.2% / 300-400万38.6% / 400-500万22.0% / 500万以上14.2%
+// ============================================================
+function percentileTop(salary) {
+  const points = [[150, 0], [300, 25.2], [400, 63.8], [500, 85.8], [700, 99]];
+  let cum;
+  if (salary <= points[0][0]) cum = 0;
+  else if (salary >= points[points.length - 1][0]) cum = 99;
+  else {
+    for (let i = 1; i < points.length; i++) {
+      if (salary <= points[i][0]) {
+        const [x1, y1] = points[i - 1];
+        const [x2, y2] = points[i];
+        cum = y1 + (y2 - y1) * (salary - x1) / (x2 - x1);
+        break;
+      }
+    }
+  }
+  return Math.max(1, Math.round(100 - cum));
+}
+
+function rankOf(top) {
+  if (top <= 10) return { rank: 'S', label: 'トップクラス', cls: 'rank-s' };
+  if (top <= 25) return { rank: 'A', label: '上位層', cls: 'rank-a' };
+  if (top <= 50) return { rank: 'B', label: '平均以上', cls: 'rank-b' };
+  return { rank: 'C', label: '伸びしろ大', cls: 'rank-c' };
+}
+
+// ============================================================
+// 分析中アニメーション
+// ============================================================
+function renderAnalyzing() {
+  progressBar.style.width = '100%';
+  progressLabel.textContent = '分析中...';
+
+  const messages = [
+    '回答を集計しています...',
+    '同年代の年収データと比較しています...',
+    'あなたに合う転職サービスを選定しています...'
+  ];
+
+  simBody.innerHTML = `
+    <div class="sim-analyzing">
+      <div class="sim-spinner"></div>
+      <div class="sim-analyzing-msg" id="analyzingMsg">${messages[0]}</div>
+    </div>
+  `;
+
+  let i = 0;
+  const timer = setInterval(() => {
+    i++;
+    if (i < messages.length) {
+      const el = document.getElementById('analyzingMsg');
+      if (el) el.textContent = messages[i];
+    }
+  }, 600);
+
+  setTimeout(() => {
+    clearInterval(timer);
+    renderResult();
+  }, 1900);
+}
+
+// ============================================================
 // 結果表示
 // ============================================================
 function renderResult() {
@@ -360,6 +424,8 @@ function renderResult() {
   const r = calcSalary();
   const current = answers.salary;
   const gap = r.center - current;
+  const top = percentileTop(r.center);
+  const rk = rankOf(top);
 
   let gapHtml;
   if (gap >= 30) {
@@ -385,23 +451,35 @@ function renderResult() {
     `;
   }).join('');
 
-  const shareText = encodeURIComponent(`私の適正年収は ${r.low}〜${r.high}万円 でした💰\nあなたの市場価値も3分でチェック👇 #適正年収診断`);
+  const shareText = encodeURIComponent(`私の市場価値診断の結果：ランク${rk.rank}（同年代の上位${top}%）💰\n適正年収は ${r.low}〜${r.high}万円 でした！\nあなたの市場価値も3分でチェック👇 #適正年収診断`);
   const shareUrl = encodeURIComponent('https://avpress.net/');
 
+  const chartMax = Math.max(current, r.center, r.future5, r.future10) * 1.1;
+  const bar = (label, value, cls) => `
+    <div class="chart-row">
+      <div class="chart-label">${label}</div>
+      <div class="chart-track">
+        <div class="chart-bar ${cls}" style="width:0%" data-width="${Math.round(value / chartMax * 100)}%">
+          <span>${value}万円</span>
+        </div>
+      </div>
+    </div>
+  `;
+
   simBody.innerHTML = `
+    <div class="result-rank-wrap">
+      <div class="result-rank-badge ${rk.cls}">${rk.rank}</div>
+      <div class="result-rank-text">市場価値ランク：<strong>${rk.label}</strong><br><small>同年代（20代）の上位 ${top}% に位置しています</small></div>
+    </div>
     <div class="result-label">YOUR MARKET VALUE</div>
     <div class="result-salary">${r.center}<small>万円</small></div>
     <div class="result-range">適正年収レンジ：${r.low}万円 〜 ${r.high}万円</div>
     ${gapHtml}
-    <div class="result-future">
-      <div class="future-card">
-        <div class="future-label">5年後の想定年収</div>
-        <div class="future-value">${r.future5}<small>万円</small></div>
-      </div>
-      <div class="future-card">
-        <div class="future-label">10年後の想定年収</div>
-        <div class="future-value">${r.future10}<small>万円</small></div>
-      </div>
+    <div class="result-chart">
+      ${bar('現在の年収', current, 'bar-current')}
+      ${bar('適正年収', r.center, 'bar-fit')}
+      ${bar('5年後の想定', r.future5, 'bar-future')}
+      ${bar('10年後の想定', r.future10, 'bar-future')}
     </div>
     <div class="result-agents-title">あなたにおすすめの転職サービス</div>
     <div class="result-agents-sub">回答内容をもとに、相性のよい3社を選びました（すべて無料）</div>
@@ -412,6 +490,10 @@ function renderResult() {
     </div>
     <button class="sim-restart-btn" onclick="restart()">もう一度診断する</button>
   `;
+
+  setTimeout(() => {
+    document.querySelectorAll('.chart-bar').forEach(b => { b.style.width = b.dataset.width; });
+  }, 100);
 
   document.getElementById('simulator').scrollIntoView({ behavior: 'smooth' });
 }
