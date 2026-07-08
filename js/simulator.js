@@ -445,7 +445,7 @@ function renderResult() {
         <div class="agent-name">${a.name}</div>
         <div>${a.tags.map(t => `<span class="agent-tag">${t}</span>`).join('')}</div>
         <div class="agent-desc">${a.desc}</div>
-        <div class="agent-reason">💡 ${pickReason(key)}</div>
+        <div class="agent-reason"><strong>おすすめ理由：</strong>${pickReason(key)}</div>
         <a href="${a.url}" class="agent-btn" target="_blank" rel="noopener noreferrer nofollow">無料で登録する →</a>
       </div>
     `;

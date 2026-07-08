@@ -732,8 +732,9 @@ img { max-width: 100%; display: block; }
   display: flex;
   align-items: center;
   justify-content: center;
-  font-size: 29px;
 }
+
+.feature-icon svg { width: 27px; height: 27px; color: var(--primary); }
 
 .feature-title { font-size: 16px; font-weight: 900; color: var(--dark); margin-bottom: 10px; }
 
@@ -866,8 +867,9 @@ img { max-width: 100%; display: block; }
   display: flex;
   align-items: center;
   justify-content: center;
-  font-size: 44px;
 }
+
+.column-thumb svg { width: 44px; height: 44px; color: rgba(255, 255, 255, 0.9); }
 
 .column-thumb.alt1 { background: linear-gradient(135deg, #7c3aed, #db2777); }
 .column-thumb.alt2 { background: linear-gradient(135deg, #059669, #06b6d4); }
@@ -1190,7 +1192,19 @@ img { max-width: 100%; display: block; }
   box-shadow: var(--card-shadow);
 }
 
-.worry-item .w-emoji { font-size: 17px; flex-shrink: 0; }
+.worry-item .w-icon {
+  width: 36px;
+  height: 36px;
+  border-radius: 10px;
+  background: var(--grad-soft);
+  color: var(--primary);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+
+.worry-item .w-icon svg { width: 18px; height: 18px; }
 
 .worry-answer { font-size: 14px; color: var(--sub); font-weight: 600; line-height: 1.9; }
 
@@ -1288,7 +1302,19 @@ img { max-width: 100%; display: block; }
   pointer-events: none;
 }
 
-.article-hero-emoji { font-size: 46px; line-height: 1; margin-bottom: 16px; }
+.article-hero-icon {
+  width: 58px;
+  height: 58px;
+  border-radius: 16px;
+  background: rgba(255, 255, 255, 0.16);
+  border: 1px solid rgba(255, 255, 255, 0.3);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 16px;
+}
+
+.article-hero-icon svg { width: 27px; height: 27px; color: #fff; }
 
 .article-cat {
   display: inline-block;
