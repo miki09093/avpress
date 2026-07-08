@@ -1097,6 +1097,165 @@ img { max-width: 100%; display: block; }
 .footer-ad-note { color: #5b6479; font-size: 11px; }
 .footer-copy { color: #454e63; font-size: 11px; }
 
+/* ===== Hero avatars ===== */
+.hero-avatars {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin-bottom: 26px;
+}
+
+.hero-avatars-imgs { display: flex; }
+
+.hero-avatars-imgs img {
+  width: 42px;
+  height: 42px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 2.5px solid var(--ink);
+  margin-left: -12px;
+}
+
+.hero-avatars-imgs img:first-child { margin-left: 0; }
+
+.hero-avatars-text { font-size: 12px; font-weight: 700; color: rgba(255, 255, 255, 0.75); line-height: 1.5; }
+
+/* ===== Worry section ===== */
+.worry-grid {
+  display: grid;
+  grid-template-columns: 0.9fr 1.1fr;
+  gap: 48px;
+  align-items: center;
+}
+
+.worry-photo { position: relative; }
+
+.worry-photo img {
+  width: 100%;
+  aspect-ratio: 4 / 3.4;
+  object-fit: cover;
+  border-radius: 24px;
+  box-shadow: var(--card-shadow-hover);
+}
+
+.worry-photo-badge {
+  position: absolute;
+  bottom: -14px;
+  right: -8px;
+  background: var(--white);
+  border-radius: 14px;
+  padding: 12px 18px;
+  box-shadow: 0 10px 30px rgba(19, 26, 51, 0.18);
+  font-size: 12px;
+  font-weight: 800;
+  color: var(--dark);
+  border: 1px solid var(--border);
+}
+
+.worry-photo-badge strong {
+  display: block;
+  font-size: 17px;
+  font-family: 'Montserrat', 'Noto Sans JP', sans-serif;
+  background: var(--grad);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.worry-copy .section-eyebrow { margin-bottom: 8px; }
+
+.worry-copy h2 { font-size: 26px; font-weight: 900; color: var(--dark); line-height: 1.5; margin-bottom: 20px; }
+
+.worry-copy h2 span {
+  background: var(--grad);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.worry-list { display: flex; flex-direction: column; gap: 10px; margin-bottom: 22px; }
+
+.worry-item {
+  background: var(--white);
+  border: 1px solid var(--border);
+  border-radius: 14px;
+  padding: 13px 18px;
+  font-size: 13.5px;
+  font-weight: 700;
+  color: var(--text);
+  display: flex;
+  align-items: center;
+  gap: 11px;
+  box-shadow: var(--card-shadow);
+}
+
+.worry-item .w-emoji { font-size: 17px; flex-shrink: 0; }
+
+.worry-answer { font-size: 14px; color: var(--sub); font-weight: 600; line-height: 1.9; }
+
+.worry-answer strong { color: var(--primary); }
+
+/* ===== Persona section ===== */
+.persona-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; }
+
+.persona-card {
+  background: var(--white);
+  border-radius: 20px;
+  overflow: hidden;
+  box-shadow: var(--card-shadow);
+  border: 1px solid var(--border);
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.persona-card:hover { transform: translateY(-5px); box-shadow: var(--card-shadow-hover); }
+
+.persona-photo {
+  width: 100%;
+  aspect-ratio: 4 / 3;
+  object-fit: cover;
+  object-position: center 22%;
+}
+
+.persona-body { padding: 18px 20px 22px; }
+
+.persona-quote {
+  position: relative;
+  background: var(--grad-soft);
+  border-radius: 12px;
+  padding: 13px 15px;
+  font-size: 13px;
+  font-weight: 700;
+  color: var(--dark);
+  line-height: 1.7;
+  margin-bottom: 14px;
+}
+
+.persona-quote::after {
+  content: '';
+  position: absolute;
+  bottom: -8px;
+  left: 24px;
+  border-width: 8px 8px 0;
+  border-style: solid;
+  border-color: #eef4ff transparent transparent;
+}
+
+.persona-meta { display: flex; align-items: center; gap: 8px; font-size: 12px; color: var(--sub); font-weight: 700; }
+
+.persona-meta .p-dot {
+  width: 8px; height: 8px;
+  border-radius: 50%;
+  background: var(--grad);
+  flex-shrink: 0;
+}
+
+@media (max-width: 920px) {
+  .worry-grid { grid-template-columns: 1fr; gap: 34px; }
+  .worry-copy h2 { font-size: 21px; }
+  .persona-grid { grid-template-columns: 1fr; }
+  .hero-avatars-text { font-size: 11px; }
+}
+
 /* ===== Article ===== */
 .article-wrapper { max-width: 800px; margin: 0 auto; padding: 36px 20px 68px; }
 
