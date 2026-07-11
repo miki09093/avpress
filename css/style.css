@@ -1392,6 +1392,155 @@ img { max-width: 100%; display: block; }
 
 .article-cta .hero-cta { font-size: 14px; padding: 14px 40px; }
 
+/* ===== 記事本文のリッチスタイル ===== */
+.article-wrapper .page-section { margin-bottom: 42px; }
+
+.article-wrapper .page-section h2 {
+  font-size: 19px;
+  font-weight: 900;
+  color: var(--dark);
+  background: var(--grad-soft);
+  border-left: 5px solid var(--primary);
+  border-bottom: none;
+  border-radius: 0 10px 10px 0;
+  padding: 14px 18px;
+  margin-bottom: 20px;
+  line-height: 1.5;
+}
+
+.article-wrapper .page-section h3 {
+  font-size: 15.5px;
+  font-weight: 800;
+  color: var(--dark);
+  margin: 24px 0 10px;
+  display: flex;
+  align-items: center;
+  gap: 9px;
+}
+
+.article-wrapper .page-section h3::before {
+  content: '';
+  width: 11px;
+  height: 11px;
+  background: var(--grad);
+  border-radius: 3px;
+  flex-shrink: 0;
+}
+
+.article-wrapper .page-section p {
+  font-size: 14.5px;
+  line-height: 2.15;
+  margin-bottom: 14px;
+}
+
+/* 蛍光マーカー風の強調 */
+.article-wrapper .page-section strong {
+  font-weight: 800;
+  background: linear-gradient(transparent 64%, #fde68a 64%);
+  padding: 0 2px;
+}
+
+/* チェックリスト */
+.article-wrapper .page-section ul {
+  list-style: none;
+  padding-left: 0;
+  margin: 14px 0;
+}
+
+.article-wrapper .page-section ul li {
+  position: relative;
+  padding: 10px 14px 10px 40px;
+  background: var(--bg);
+  border-radius: 10px;
+  margin-bottom: 8px;
+  font-size: 14px;
+  line-height: 1.9;
+}
+
+.article-wrapper .page-section ul li::before {
+  content: '✓';
+  position: absolute;
+  left: 13px;
+  top: 10px;
+  width: 19px;
+  height: 19px;
+  background: var(--grad);
+  color: #fff;
+  border-radius: 50%;
+  font-size: 11px;
+  font-weight: 900;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* 番号ステップ */
+.article-wrapper .page-section ol {
+  list-style: none;
+  padding-left: 0;
+  margin: 14px 0;
+  counter-reset: article-step;
+}
+
+.article-wrapper .page-section ol li {
+  position: relative;
+  padding: 12px 14px 12px 46px;
+  border: 1.5px solid var(--border);
+  border-radius: 12px;
+  margin-bottom: 10px;
+  font-size: 14px;
+  line-height: 1.9;
+  background: var(--white);
+}
+
+.article-wrapper .page-section ol li::before {
+  counter-increment: article-step;
+  content: counter(article-step);
+  position: absolute;
+  left: 13px;
+  top: 13px;
+  width: 23px;
+  height: 23px;
+  background: var(--grad);
+  color: #fff;
+  border-radius: 50%;
+  font-size: 12px;
+  font-weight: 900;
+  font-family: 'Montserrat', sans-serif;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* まとめボックス（最後のセクション） */
+.article-wrapper .page-content .page-section:last-child {
+  background: var(--grad-soft);
+  border: 1.5px solid #dbe4ff;
+  border-radius: 16px;
+  padding: 24px 26px;
+  margin-bottom: 0;
+}
+
+.article-wrapper .page-content .page-section:last-child h2 {
+  background: none;
+  border-left: none;
+  border-radius: 0;
+  padding: 0 0 10px;
+  border-bottom: 2px solid #c7d5f8;
+  margin-bottom: 14px;
+}
+
+/* 記事内画像 */
+.article-img { margin: 0 0 42px; }
+
+.article-img img {
+  width: 100%;
+  aspect-ratio: 16 / 8.5;
+  object-fit: cover;
+  border-radius: 16px;
+  box-shadow: var(--card-shadow);
+}
+
 /* 関連記事 */
 .related-title {
   font-size: 19px;
