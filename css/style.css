@@ -862,17 +862,21 @@ img { max-width: 100%; display: block; }
 .column-card:hover { transform: translateY(-5px); box-shadow: var(--card-shadow-hover); }
 
 .column-thumb {
-  height: 130px;
-  background: var(--grad);
-  display: flex;
-  align-items: center;
-  justify-content: center;
+  height: 158px;
+  overflow: hidden;
+  background: var(--bg);
+  position: relative;
 }
 
-.column-thumb svg { width: 44px; height: 44px; color: rgba(255, 255, 255, 0.9); }
+.column-thumb img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+  transition: transform 0.35s ease;
+}
 
-.column-thumb.alt1 { background: linear-gradient(135deg, #7c3aed, #db2777); }
-.column-thumb.alt2 { background: linear-gradient(135deg, #059669, #06b6d4); }
+.column-card:hover .column-thumb img { transform: scale(1.06); }
 
 .column-body { padding: 20px; }
 
