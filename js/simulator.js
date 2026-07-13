@@ -75,6 +75,7 @@ const AGENTS = {
     name: 'ワンキャリア転職',
     tags: ['社員の口コミが豊富', '企業研究に強い', '20代に人気'],
     desc: '実際に働く社員の口コミや選考体験談を見ながら応募できるサービス。入社後の「思っていたのと違う」を防ぎたい人に向いています。',
+    catch: '“中の人”の声を聞いて、ミスマッチのない転職を',
     url: 'https://px.a8.net/svt/ejp?a8mat=4B7WD9+ZQ45U+5O7E+BYT9F',
     banner: {
       href: 'https://px.a8.net/svt/ejp?a8mat=4B7WD9+ZQ45U+5O7E+BXIYP',
@@ -432,11 +433,24 @@ function renderResult() {
   const agentsHtml = agentKeys.map((key, i) => {
     const a = AGENTS[key];
     const b = a.banner;
-    const bannerHtml = b ? `
+    let bannerHtml = '';
+    if (b && b.w >= 200) {
+      // 大きめの画像バナーはそのまま表示
+      bannerHtml = `
         <div class="agent-banner">
           <a href="${b.href}" target="_blank" rel="noopener noreferrer nofollow"><img src="${b.img}" width="${b.w}" height="${b.h}" alt="${a.name}" loading="lazy"></a>
           <img src="${b.px}" width="1" height="1" alt="" class="a8-px">
-        </div>` : '';
+        </div>`;
+    } else if (b) {
+      // 小さい画像しかない場合は、サイズを揃えたテキストバナーに切り替え
+      bannerHtml = `
+        <a class="agent-textbanner" href="${b.href}" target="_blank" rel="noopener noreferrer nofollow">
+          <span class="atb-name">${a.name}</span>
+          <span class="atb-catch">${a.catch || ''}</span>
+          <span class="atb-cta">公式サイトを見る →</span>
+        </a>
+        <img src="${b.px}" width="1" height="1" alt="" class="a8-px">`;
+    }
     return `
       <div class="agent-card">
         <span class="agent-rank">おすすめ No.${i + 1}</span>
