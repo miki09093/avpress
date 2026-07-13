@@ -537,13 +537,92 @@ img { max-width: 100%; display: block; }
   font-size: 13.5px;
   font-weight: 700;
   text-align: center;
-  margin-bottom: 22px;
+  margin-bottom: 12px;
   line-height: 1.7;
 }
 
 .result-gap.positive { background: #ecfdf5; color: var(--success); border: 1.5px solid #a7f3d0; }
 .result-gap.negative { background: #fffbeb; color: var(--warning); border: 1.5px solid #fde68a; }
-.result-gap strong { font-size: 17px; }
+.result-gap.upside { background: #ecfdf5; color: var(--success); border: 1.5px solid #a7f3d0; font-size: 14px; }
+.result-gap strong { font-size: 18px; }
+
+/* 機会損失の強調ボックス */
+.result-loss {
+  background: linear-gradient(135deg, #fff7ed, #fef2f2);
+  border: 1.5px solid #fecaca;
+  border-radius: 12px;
+  padding: 16px 18px;
+  text-align: center;
+  margin-bottom: 22px;
+}
+
+.result-loss-label { font-size: 12.5px; color: #9a3412; font-weight: 700; }
+.result-loss-label b { color: #c2410c; }
+
+.result-loss-value {
+  font-size: 22px;
+  font-weight: 900;
+  color: #dc2626;
+  font-family: 'Montserrat', 'Noto Sans JP', sans-serif;
+  margin: 4px 0 6px;
+}
+
+.result-loss-note { font-size: 10.5px; color: var(--sub); line-height: 1.6; font-weight: 500; }
+
+/* なぜ動くべき */
+.result-why {
+  background: var(--grad-soft);
+  border: 1.5px solid #dbe4ff;
+  border-radius: 14px;
+  padding: 18px 20px;
+  margin-bottom: 24px;
+}
+
+.result-why-title {
+  font-size: 15px;
+  font-weight: 900;
+  color: var(--dark);
+  margin-bottom: 12px;
+  padding-left: 12px;
+  position: relative;
+}
+
+.result-why-title::before {
+  content: '';
+  position: absolute;
+  left: 0; top: 50%;
+  transform: translateY(-50%);
+  width: 4px; height: 90%;
+  background: var(--grad);
+  border-radius: 2px;
+}
+
+.result-why-list { list-style: none; padding: 0; display: flex; flex-direction: column; gap: 11px; }
+
+.result-why-list li {
+  position: relative;
+  padding-left: 26px;
+  font-size: 13px;
+  line-height: 1.75;
+  color: var(--text);
+}
+
+.result-why-list li::before {
+  content: '✓';
+  position: absolute;
+  left: 0; top: 1px;
+  width: 18px; height: 18px;
+  background: var(--grad);
+  color: #fff;
+  border-radius: 50%;
+  font-size: 11px;
+  font-weight: 900;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.result-why-list li b { color: var(--primary-dark); }
 
 .result-agents-title { font-size: 16px; font-weight: 900; color: var(--dark); margin-bottom: 4px; text-align: center; }
 

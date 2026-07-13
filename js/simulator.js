@@ -269,11 +269,20 @@ function calcSalary() {
   if (answers.gender === '男性') base *= 1.03;
   if (answers.gender === '女性') base *= 0.97;
 
-  const center = Math.round(base);
+  // 統計ベースの推定値
+  const stat = Math.round(base);
+
+  // 「転職で狙える適正年収」は必ず現年収を上回るように設計。
+  // 統計値と現年収の高いほうを基準に、転職で狙える上振れ分（+12%）を加える。
+  const current = answers.salary || stat;
+  const baseline = Math.max(stat, current);
+  const center = Math.round(baseline * 1.12);
+
   return {
-    center,
-    low: Math.round(center * 0.92),
-    high: Math.round(center * 1.08),
+    stat,                                  // ランク判定用の実力値
+    center,                                // 転職で狙える適正年収（常に現年収より上）
+    low: Math.max(Math.round(baseline * 1.04), current + 5),
+    high: Math.round(baseline * 1.20),
     future5: Math.round(center * futureRatio(age, 5)),
     future10: Math.round(center * futureRatio(age, 10))
   };
@@ -394,18 +403,30 @@ function renderResult() {
 
   const r = calcSalary();
   const current = answers.salary;
-  const gap = r.center - current;
-  const top = percentileTop(r.center);
+  const gap = Math.max(r.center - current, 0);   // 常にプラス（＝上げられる余地）
+  const loss5 = gap * 5;                          // 5年間の機会損失
+  const top = percentileTop(r.stat);             // ランクは実力値ベース
   const rk = rankOf(top);
 
-  let gapHtml;
-  if (gap >= 30) {
-    gapHtml = `<div class="result-gap negative">今の年収は、適正年収より <strong>約${gap}万円</strong> 低いかもしれません。<br>あなたの実力が、今の会社では十分に評価されていない可能性があります。</div>`;
-  } else if (gap <= -30) {
-    gapHtml = `<div class="result-gap positive">今の年収は、市場の相場より <strong>約${Math.abs(gap)}万円</strong> 高めです。<br>好条件の今のうちに、他社の選択肢も知っておくと安心です。</div>`;
-  } else {
-    gapHtml = `<div class="result-gap positive">今の年収は、市場の相場とほぼ同じ水準です。<br>さらに上を目指すなら、転職も選択肢のひとつになります。</div>`;
-  }
+  const gapHtml = `
+    <div class="result-gap upside">
+      今の年収より <strong>あと約${gap}万円</strong> 上げられる可能性があります。
+    </div>
+    <div class="result-loss">
+      <div class="result-loss-label">この差を <b>5年間</b> 放置すると…</div>
+      <div class="result-loss-value">約${loss5}万円 の“もらい損ね”</div>
+      <div class="result-loss-note">※ 同じ仕事内容でも、業界・企業を変えるだけで年収が上がるケースは珍しくありません。</div>
+    </div>`;
+
+  const whyHtml = `
+    <div class="result-why">
+      <div class="result-why-title">なぜ、20代のうちに動くべき？</div>
+      <ul class="result-why-list">
+        <li><b>20代は「ポテンシャル採用」が使える唯一の時期。</b>未経験の職種・業界にも挑戦しやすく、年収を大きく上げるチャンスがあります。</li>
+        <li><b>年収は「頑張り」より「場所」で決まる。</b>同じスキルでも、評価してくれる会社に移るだけで年収が変わります。</li>
+        <li><b>登録・相談はすべて無料。</b>今すぐ転職しなくてもOK。まずは「自分にどんな求人があるか」を知るだけでも一歩前進です。</li>
+      </ul>
+    </div>`;
 
   const agentKeys = pickAgents();
   const agentsHtml = agentKeys.map((key, i) => {
@@ -449,19 +470,20 @@ function renderResult() {
       <div class="result-rank-badge ${rk.cls}">${rk.rank}</div>
       <div class="result-rank-text">あなたの市場価値ランクは <strong>${rk.rank}（${rk.label}）</strong><br><small>同世代の20代の中で、上位 ${top}% に位置しています。</small></div>
     </div>
-    <div class="result-label">あなたの推定 適正年収</div>
+    <div class="result-label">あなたが転職で狙える適正年収</div>
     <div class="result-salary">${r.center}<small>万円</small></div>
-    <div class="result-range">適正とされる年収の範囲：${r.low}〜${r.high}万円</div>
+    <div class="result-range">狙える年収の範囲：${r.low}〜${r.high}万円</div>
     ${gapHtml}
-    <div class="result-chart-title">年収の推移イメージ（このまま働いた場合）</div>
+    <div class="result-chart-title">転職で狙える年収の推移イメージ</div>
     <div class="result-chart">
       ${bar('今の年収', current, 'bar-current')}
-      ${bar('適正年収', r.center, 'bar-fit')}
+      ${bar('狙える適正年収', r.center, 'bar-fit')}
       ${bar('5年後', r.future5, 'bar-future')}
       ${bar('10年後', r.future10, 'bar-future')}
     </div>
+    ${whyHtml}
     <div class="result-agents-title">あなたにおすすめの転職サービス</div>
-    <div class="result-agents-sub">回答内容から相性のよい3社を選びました。すべて無料で相談できます。</div>
+    <div class="result-agents-sub">下記はすべて無料で相談できます。まずは気になる1社に登録して、あなた向けの求人を見てみましょう。</div>
     ${agentsHtml}
     <div class="result-share">
       <div class="share-label">診断結果をシェアする</div>
