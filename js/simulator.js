@@ -59,59 +59,23 @@ const EXP_COEF = {
 // TODO: A8.net等のASP承認後、url をアフィリエイトリンクに差し替える
 // ============================================================
 const AGENTS = {
-  mynavi20s: {
-    name: 'マイナビジョブ20\'s',
-    tags: ['20代専門', '第二新卒に強い', '適性診断あり'],
-    desc: '20代・第二新卒専門の転職エージェント。求人の約80%が未経験OKで、初めての転職でも安心。世界規模で使われる適性診断で自己分析からサポートしてくれます。',
-    url: '#'
+  neo: {
+    name: '第二新卒エージェントneo',
+    tags: ['第二新卒・既卒特化', '未経験OK', 'フリーターも可'],
+    desc: '既卒・フリーター・第二新卒の就職支援に特化した転職エージェント。学歴や職歴に自信がなくても、専任アドバイザーが書類作成から面接対策まで丁寧にサポートしてくれます。',
+    url: 'https://px.a8.net/svt/ejp?a8mat=4B7WD9+80RC9E+3Y6M+5YZ77'
   },
-  hataractive: {
-    name: 'ハタラクティブ',
-    tags: ['未経験OK', 'フリーター・既卒も可', '内定率80%超'],
-    desc: '20代の未経験転職に特化。学歴・経歴に自信がなくても利用でき、書類通過率・内定率の高さに定評があります。最短2週間での内定実績も。',
-    url: '#'
+  onecareer: {
+    name: 'ワンキャリア転職',
+    tags: ['社員の口コミが豊富', '企業研究に強い', '20代に人気'],
+    desc: '実際に働く「中の人」の声や選考体験談を見ながら転職活動を進められるサービス。入社後のミスマッチを防ぎたい人、企業をしっかり調べてから応募したい人に向いています。',
+    url: 'https://px.a8.net/svt/ejp?a8mat=4B7WD9+ZQ45U+5O7E+BYT9F'
   },
-  uzuz: {
-    name: 'UZUZ（ウズキャリ）',
-    tags: ['第二新卒・既卒特化', '手厚いサポート', 'IT系にも強い'],
-    desc: '一人あたり平均12時間以上の丁寧なサポートが特徴。キャリアカウンセラー自身が元第二新卒なので、悩みに寄り添った提案をしてくれます。',
-    url: '#'
-  },
-  recruit: {
-    name: 'リクルートエージェント',
-    tags: ['求人数No.1クラス', '全業界対応', '交渉力に定評'],
-    desc: '業界最大級の求人数を誇る定番エージェント。非公開求人も多く、選択肢を最大限に広げたい人におすすめ。年収交渉の実績も豊富です。',
-    url: '#'
-  },
-  doda: {
-    name: 'doda',
-    tags: ['求人数トップクラス', 'サイト＆エージェント一体型', '診断ツール充実'],
-    desc: '自分で求人を探しながらエージェントのサポートも受けられる万能型。年収査定などの診断ツールも充実しており、情報収集段階から使えます。',
-    url: '#'
-  },
-  bizreach: {
-    name: 'ビズリーチ',
-    tags: ['ハイクラス向け', 'スカウト型', '年収600万円以上多数'],
-    desc: '職務経歴書を登録すると企業やヘッドハンターからスカウトが届く、ハイクラス向け転職サービス。いまの市場価値を確かめたい20代後半に。',
-    url: '#'
-  },
-  levtech: {
-    name: 'レバテックキャリア',
-    tags: ['ITエンジニア特化', '年収アップ率高', '技術理解のある担当者'],
-    desc: 'ITエンジニア専門の転職エージェント。技術に詳しいアドバイザーがスキルを正しく評価してくれるので、エンジニアの年収アップ転職に最適です。',
-    url: '#'
-  },
-  workport: {
-    name: 'ワークポート',
-    tags: ['IT・Web業界に強い', '未経験からITも', '対応スピードが早い'],
-    desc: 'IT・Web業界の求人が豊富な総合エージェント。未経験からITエンジニアを目指す人向けの無料エンジニアスクールも運営しています。',
-    url: '#'
-  },
-  mynaviagent: {
-    name: 'マイナビエージェント',
-    tags: ['20〜30代に強い', '中小優良企業も豊富', 'サポート丁寧'],
-    desc: '20〜30代の転職サポートに定評のある総合エージェント。大手だけでなく中小の優良企業の求人も多く、じっくり相談しながら進めたい人向き。',
-    url: '#'
+  yumecari: {
+    name: 'ユメキャリAgent',
+    tags: ['大手人事が運営', '面接対策に強い', '選考通過を後押し'],
+    desc: '大手企業の現役面接官・人事が運営する転職エージェント。採用する側の視点を知り尽くしているため、面接で評価されるポイントを押さえた実践的なアドバイスが受けられます。',
+    url: 'https://px.a8.net/svt/ejp?a8mat=4B7WD9+2NUW9E+5PWS+BWVTE'
   }
 };
 
@@ -310,42 +274,31 @@ function futureRatio(age, years) {
 // エージェント出し分け
 // ============================================================
 function pickAgents() {
-  const age = parseAge(answers.age);
   const goal = answers.goal;
-  const isYoung = age <= 25;
   const isJunior = answers.exp === '1年未満' || answers.exp === '1〜3年';
 
-  if (goal === 'ITエンジニアになりたい') {
-    if (answers.job === 'ITエンジニア') return ['levtech', 'workport', 'doda'];
-    return ['workport', 'uzuz', 'hataractive'];
+  // 未経験・キャリアに自信がない層 → 第二新卒neoを先頭に
+  if (goal === '未経験の仕事に挑戦したい' || goal === 'ITエンジニアになりたい') {
+    return ['neo', 'onecareer', 'yumecari'];
   }
-  if (goal === '未経験の仕事に挑戦したい') {
-    return isYoung ? ['mynavi20s', 'hataractive', 'uzuz'] : ['doda', 'workport', 'mynaviagent'];
-  }
+  // 年収アップ志向 → 面接に強いユメキャリを先頭に
   if (goal === '年収を上げたい') {
-    if (answers.salary >= 450) return ['bizreach', 'recruit', 'doda'];
-    if (answers.job === 'ITエンジニア') return ['levtech', 'recruit', 'doda'];
-    return ['recruit', 'doda', 'mynaviagent'];
+    return ['yumecari', 'onecareer', 'neo'];
   }
+  // 働き方改善・企業研究したい層 → 口コミのワンキャリアを先頭に
   if (goal === 'ワークライフバランスを改善したい') {
-    return isYoung ? ['mynavi20s', 'doda', 'recruit'] : ['doda', 'recruit', 'mynaviagent'];
+    return ['onecareer', 'yumecari', 'neo'];
   }
   // じっくり相談したい
-  return isJunior ? ['uzuz', 'mynavi20s', 'mynaviagent'] : ['mynaviagent', 'doda', 'recruit'];
+  if (isJunior) return ['neo', 'onecareer', 'yumecari'];
+  return ['onecareer', 'yumecari', 'neo'];
 }
 
 function pickReason(agentKey) {
-  const goal = answers.goal;
   const reasons = {
-    mynavi20s: '20代専門なので、あなたの年代の転職事情を熟知しています',
-    hataractive: '経歴に関係なく未経験からの転職成功実績が豊富です',
-    uzuz: '経験の浅い20代へのサポートが手厚く、初めての転職でも安心です',
-    recruit: '求人数が多く、年収交渉にも強いため選択肢を広げられます',
-    doda: '求人検索と診断ツールが充実し、情報収集から転職まで一気通貫で使えます',
-    bizreach: 'あなたの年収帯ならスカウトで市場価値を確かめる価値があります',
-    levtech: 'エンジニアのスキルを正当に評価してくれるので年収アップが狙えます',
-    workport: '未経験からIT業界への転職支援に強みがあります',
-    mynaviagent: '20〜30代の転職サポートが丁寧で、じっくり相談できます'
+    neo: '経歴や学歴に関係なく、20代の未経験就職を親身にサポートしてくれます',
+    onecareer: '社員の口コミで企業のリアルを知れるので、入社後のミスマッチを防げます',
+    yumecari: '大手の現役面接官が運営。選考通過のコツを直接教えてもらえます'
   };
   return reasons[agentKey] || '';
 }
