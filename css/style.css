@@ -1534,6 +1534,34 @@ img { max-width: 100%; display: block; }
   margin-bottom: 14px;
 }
 
+/* 記事内の広告バナー */
+.ad-banner {
+  text-align: center;
+  margin: 10px 0 40px;
+  padding: 18px;
+  background: var(--bg);
+  border: 1px solid var(--border);
+  border-radius: 14px;
+}
+
+.ad-banner .ad-label {
+  display: block;
+  font-size: 10px;
+  color: var(--sub);
+  letter-spacing: 1.5px;
+  margin-bottom: 10px;
+  font-weight: 700;
+}
+
+.ad-banner a { display: inline-block; line-height: 0; }
+
+.ad-banner a img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+  box-shadow: var(--card-shadow);
+}
+
 /* 記事内画像 */
 .article-img { margin: 0 0 42px; }
 
