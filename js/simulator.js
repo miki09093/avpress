@@ -62,20 +62,38 @@ const AGENTS = {
   neo: {
     name: '第二新卒エージェントneo',
     tags: ['第二新卒・既卒特化', '未経験OK', 'フリーターも可'],
-    desc: '既卒・フリーター・第二新卒の就職支援に特化した転職エージェント。学歴や職歴に自信がなくても、専任アドバイザーが書類作成から面接対策まで丁寧にサポートしてくれます。',
-    url: 'https://px.a8.net/svt/ejp?a8mat=4B7WD9+80RC9E+3Y6M+5YZ77'
+    desc: '既卒・フリーター・第二新卒の就職に特化。学歴や職歴に自信がなくても、専任アドバイザーが書類づくりから面接対策まで手厚くサポートしてくれます。',
+    url: 'https://px.a8.net/svt/ejp?a8mat=4B7WD9+80RC9E+3Y6M+5YZ77',
+    banner: {
+      href: 'https://px.a8.net/svt/ejp?a8mat=4B7WD9+80RC9E+3Y6M+601S1',
+      img: 'https://www25.a8.net/svt/bgt?aid=260709021485&wid=005&eno=01&mid=s00000018427001008000&mc=1',
+      px: 'https://www12.a8.net/0.gif?a8mat=4B7WD9+80RC9E+3Y6M+601S1',
+      w: 300, h: 250
+    }
   },
   onecareer: {
     name: 'ワンキャリア転職',
     tags: ['社員の口コミが豊富', '企業研究に強い', '20代に人気'],
-    desc: '実際に働く「中の人」の声や選考体験談を見ながら転職活動を進められるサービス。入社後のミスマッチを防ぎたい人、企業をしっかり調べてから応募したい人に向いています。',
-    url: 'https://px.a8.net/svt/ejp?a8mat=4B7WD9+ZQ45U+5O7E+BYT9F'
+    desc: '実際に働く社員の口コミや選考体験談を見ながら応募できるサービス。入社後の「思っていたのと違う」を防ぎたい人に向いています。',
+    url: 'https://px.a8.net/svt/ejp?a8mat=4B7WD9+ZQ45U+5O7E+BYT9F',
+    banner: {
+      href: 'https://px.a8.net/svt/ejp?a8mat=4B7WD9+ZQ45U+5O7E+BXIYP',
+      img: 'https://www27.a8.net/svt/bgt?aid=260709021060&wid=005&eno=01&mid=s00000026465002004000&mc=1',
+      px: 'https://www14.a8.net/0.gif?a8mat=4B7WD9+ZQ45U+5O7E+BXIYP',
+      w: 100, h: 60
+    }
   },
   yumecari: {
     name: 'ユメキャリAgent',
     tags: ['大手人事が運営', '面接対策に強い', '選考通過を後押し'],
-    desc: '大手企業の現役面接官・人事が運営する転職エージェント。採用する側の視点を知り尽くしているため、面接で評価されるポイントを押さえた実践的なアドバイスが受けられます。',
-    url: 'https://px.a8.net/svt/ejp?a8mat=4B7WD9+2NUW9E+5PWS+BWVTE'
+    desc: '大手企業の現役面接官が運営する転職エージェント。採用側の視点で、面接で評価されるコツを直接アドバイスしてもらえます。',
+    url: 'https://px.a8.net/svt/ejp?a8mat=4B7WD9+2NUW9E+5PWS+BWVTE',
+    banner: {
+      href: 'https://px.a8.net/svt/ejp?a8mat=4B7WD9+2NUW9E+5PWS+BYLJL',
+      img: 'https://www26.a8.net/svt/bgt?aid=260709021161&wid=005&eno=01&mid=s00000026686002009000&mc=1',
+      px: 'https://www14.a8.net/0.gif?a8mat=4B7WD9+2NUW9E+5PWS+BYLJL',
+      w: 336, h: 280
+    }
   }
 };
 
@@ -382,24 +400,31 @@ function renderResult() {
 
   let gapHtml;
   if (gap >= 30) {
-    gapHtml = `<div class="result-gap negative">現在の年収より <strong>${gap}万円</strong> 高い可能性！<br>あなたの市場価値は現職で正しく評価されていないかもしれません。</div>`;
+    gapHtml = `<div class="result-gap negative">今の年収は、適正年収より <strong>約${gap}万円</strong> 低いかもしれません。<br>あなたの実力が、今の会社では十分に評価されていない可能性があります。</div>`;
   } else if (gap <= -30) {
-    gapHtml = `<div class="result-gap positive">現在の年収は適正レンジより <strong>${Math.abs(gap)}万円</strong> 高めです。<br>好条件の今こそ、キャリアの選択肢を把握しておきましょう。</div>`;
+    gapHtml = `<div class="result-gap positive">今の年収は、市場の相場より <strong>約${Math.abs(gap)}万円</strong> 高めです。<br>好条件の今のうちに、他社の選択肢も知っておくと安心です。</div>`;
   } else {
-    gapHtml = `<div class="result-gap positive">現在の年収はほぼ適正レンジ内です。<br>次のステージを目指すなら、キャリアアップ転職も視野に入ります。</div>`;
+    gapHtml = `<div class="result-gap positive">今の年収は、市場の相場とほぼ同じ水準です。<br>さらに上を目指すなら、転職も選択肢のひとつになります。</div>`;
   }
 
   const agentKeys = pickAgents();
   const agentsHtml = agentKeys.map((key, i) => {
     const a = AGENTS[key];
+    const b = a.banner;
+    const bannerHtml = b ? `
+        <div class="agent-banner">
+          <a href="${b.href}" target="_blank" rel="noopener noreferrer nofollow"><img src="${b.img}" width="${b.w}" height="${b.h}" alt="${a.name}" loading="lazy"></a>
+          <img src="${b.px}" width="1" height="1" alt="" class="a8-px">
+        </div>` : '';
     return `
       <div class="agent-card">
         <span class="agent-rank">おすすめ No.${i + 1}</span>
         <div class="agent-name">${a.name}</div>
         <div>${a.tags.map(t => `<span class="agent-tag">${t}</span>`).join('')}</div>
         <div class="agent-desc">${a.desc}</div>
-        <div class="agent-reason"><strong>おすすめ理由：</strong>${pickReason(key)}</div>
-        <a href="${a.url}" class="agent-btn" target="_blank" rel="noopener noreferrer nofollow">無料で登録する →</a>
+        <div class="agent-reason"><strong>あなたに合う理由</strong>${pickReason(key)}</div>
+        ${bannerHtml}
+        <a href="${a.url}" class="agent-btn" target="_blank" rel="noopener noreferrer nofollow">公式サイトで無料登録 →</a>
       </div>
     `;
   }).join('');
@@ -422,26 +447,27 @@ function renderResult() {
   simBody.innerHTML = `
     <div class="result-rank-wrap">
       <div class="result-rank-badge ${rk.cls}">${rk.rank}</div>
-      <div class="result-rank-text">市場価値ランク：<strong>${rk.label}</strong><br><small>同年代（20代）の上位 ${top}% に位置しています</small></div>
+      <div class="result-rank-text">あなたの市場価値ランクは <strong>${rk.rank}（${rk.label}）</strong><br><small>同世代の20代の中で、上位 ${top}% に位置しています。</small></div>
     </div>
-    <div class="result-label">YOUR MARKET VALUE</div>
+    <div class="result-label">あなたの推定 適正年収</div>
     <div class="result-salary">${r.center}<small>万円</small></div>
-    <div class="result-range">適正年収レンジ：${r.low}万円 〜 ${r.high}万円</div>
+    <div class="result-range">適正とされる年収の範囲：${r.low}〜${r.high}万円</div>
     ${gapHtml}
+    <div class="result-chart-title">年収の推移イメージ（このまま働いた場合）</div>
     <div class="result-chart">
-      ${bar('現在の年収', current, 'bar-current')}
+      ${bar('今の年収', current, 'bar-current')}
       ${bar('適正年収', r.center, 'bar-fit')}
-      ${bar('5年後の想定', r.future5, 'bar-future')}
-      ${bar('10年後の想定', r.future10, 'bar-future')}
+      ${bar('5年後', r.future5, 'bar-future')}
+      ${bar('10年後', r.future10, 'bar-future')}
     </div>
     <div class="result-agents-title">あなたにおすすめの転職サービス</div>
-    <div class="result-agents-sub">回答内容をもとに、相性のよい3社を選びました（すべて無料）</div>
+    <div class="result-agents-sub">回答内容から相性のよい3社を選びました。すべて無料で相談できます。</div>
     ${agentsHtml}
     <div class="result-share">
-      <div class="share-label">結果をシェアする</div>
+      <div class="share-label">診断結果をシェアする</div>
       <a class="share-x-btn" href="https://twitter.com/intent/tweet?text=${shareText}&url=${shareUrl}" target="_blank" rel="noopener noreferrer">𝕏 で結果をポストする</a>
     </div>
-    <button class="sim-restart-btn" onclick="restart()">もう一度診断する</button>
+    <button class="sim-restart-btn" onclick="restart()">最初から診断しなおす</button>
   `;
 
   setTimeout(() => {
