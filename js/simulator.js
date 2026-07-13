@@ -78,10 +78,10 @@ const AGENTS = {
     catch: '“中の人”の声を聞いて、ミスマッチのない転職を',
     url: 'https://px.a8.net/svt/ejp?a8mat=4B7WD9+ZQ45U+5O7E+BYT9F',
     banner: {
-      href: 'https://px.a8.net/svt/ejp?a8mat=4B7WD9+ZQ45U+5O7E+BXIYP',
-      img: 'https://www27.a8.net/svt/bgt?aid=260709021060&wid=005&eno=01&mid=s00000026465002004000&mc=1',
-      px: 'https://www14.a8.net/0.gif?a8mat=4B7WD9+ZQ45U+5O7E+BXIYP',
-      w: 100, h: 60
+      href: 'https://px.a8.net/svt/ejp?a8mat=4B7WD9+ZQ12Q+5O7E+BXB8X',
+      img: 'https://www26.a8.net/svt/bgt?aid=260709021060&wid=001&eno=01&mid=s00000026465002003000&mc=1',
+      px: 'https://www17.a8.net/0.gif?a8mat=4B7WD9+ZQ12Q+5O7E+BXB8X',
+      w: 300, h: 250
     }
   },
   yumecari: {
